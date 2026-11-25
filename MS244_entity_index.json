@@ -5646,7 +5646,10 @@
         "orig_page": "351",
         "lines": 1
       }
-    ]
+    ],
+    "qid": "Q282",
+    "wd_label": "wine",
+    "wd_desc": "alcoholic beverage made from fermented grapes"
   },
   {
     "category": "Ingredients",
@@ -7203,7 +7206,10 @@
         "orig_page": "Unnumbered (Pedigree)",
         "lines": 1
       }
-    ]
+    ],
+    "qid": "Q900450",
+    "wd_label": "rose water",
+    "wd_desc": "flavoured water made by distilling rose petals"
   },
   {
     "category": "Ingredients",
@@ -8502,7 +8508,10 @@
         "orig_page": "[352v]",
         "lines": 1
       }
-    ]
+    ],
+    "qid": "Q10987",
+    "wd_label": "honey",
+    "wd_desc": "sweet food made by bees"
   },
   {
     "category": "Ailments",
@@ -9771,7 +9780,10 @@
         "orig_page": "351",
         "lines": 1
       }
-    ]
+    ],
+    "qid": "Q189470",
+    "wd_label": "fistula",
+    "wd_desc": "abnormal connection / ulcerous channel"
   },
   {
     "category": "Ingredients",
@@ -10950,7 +10962,10 @@
         "orig_page": "350",
         "lines": 2
       }
-    ]
+    ],
+    "qid": "Q41354",
+    "wd_label": "vinegar",
+    "wd_desc": "acidic liquid produced from fermentation of ethanol"
   },
   {
     "category": "Ingredients",
@@ -12039,7 +12054,10 @@
         "orig_page": "351",
         "lines": 2
       }
-    ]
+    ],
+    "qid": "Q143739",
+    "wd_label": "beeswax",
+    "wd_desc": "natural wax produced by honeybees"
   },
   {
     "category": "Ingredients",
@@ -13062,7 +13080,10 @@
         "orig_page": "352",
         "lines": 2
       }
-    ]
+    ],
+    "qid": "Q44",
+    "wd_label": "beer",
+    "wd_desc": "alcoholic beverage brewed from cereal grains"
   },
   {
     "category": "Ingredients",
@@ -14007,7 +14028,10 @@
         "orig_page": "Unnumbered",
         "lines": 1
       }
-    ]
+    ],
+    "qid": "Q11254",
+    "wd_label": "salt",
+    "wd_desc": "mineral composed primarily of sodium chloride"
   },
   {
     "category": "Ingredients",
@@ -14940,7 +14964,10 @@
         "orig_page": "351",
         "lines": 1
       }
-    ]
+    ],
+    "qid": "Q34172",
+    "wd_label": "butter",
+    "wd_desc": "dairy product made from milk fat"
   },
   {
     "category": "Ailments",
@@ -15759,7 +15786,10 @@
         "orig_page": "[352v]",
         "lines": 1
       }
-    ]
+    ],
+    "qid": "Q170518",
+    "wd_label": "burn",
+    "wd_desc": "injury to flesh or skin caused by heat"
   },
   {
     "category": "Ingredients",
@@ -16566,7 +16596,10 @@
         "orig_page": "351",
         "lines": 2
       }
-    ]
+    ],
+    "qid": "Q173486",
+    "wd_label": "frankincense",
+    "wd_desc": "aromatic resin used in medicine and incense"
   },
   {
     "category": "Ailments",
@@ -18060,7 +18093,10 @@
         "orig_page": "345",
         "lines": 3
       }
-    ]
+    ],
+    "qid": "Q157154",
+    "wd_label": "Plantago major",
+    "wd_desc": "species of broadleaf plantain"
   },
   {
     "category": "Ingredients",
@@ -18789,7 +18825,10 @@
         "orig_page": "350",
         "lines": 6
       }
-    ]
+    ],
+    "qid": "Q201382",
+    "wd_label": "turpentine",
+    "wd_desc": "fluid obtained by distillation of resin from pine trees"
   },
   {
     "category": "Ingredients",
@@ -19506,7 +19545,10 @@
         "orig_page": "350",
         "lines": 2
       }
-    ]
+    ],
+    "qid": "Q407879",
+    "wd_label": "lead(II) oxide",
+    "wd_desc": "litharge / lead compound"
   },
   {
     "category": "Ingredients",
@@ -20217,7 +20259,10 @@
         "orig_page": "352",
         "lines": 2
       }
-    ]
+    ],
+    "qid": "Q11002",
+    "wd_label": "sugar",
+    "wd_desc": "sweet-tasting, soluble carbohydrates"
   },
   {
     "category": "Ingredients",
@@ -20916,7 +20961,10 @@
         "orig_page": "351",
         "lines": 1
       }
-    ]
+    ],
+    "qid": "Q318367",
+    "wd_label": "mastic",
+    "wd_desc": "resin obtained from the mastic tree"
   },
   {
     "category": "Ingredients",
@@ -21603,7 +21651,10 @@
         "orig_page": "351",
         "lines": 2
       }
-    ]
+    ],
+    "qid": "Q190527",
+    "wd_label": "alum",
+    "wd_desc": "chemical compound and double sulfate salt"
   },
   {
     "category": "Ingredients",
@@ -22230,7 +22281,10 @@
         "orig_page": "342",
         "lines": 1
       }
-    ]
+    ],
+    "qid": "Q891670",
+    "wd_label": "Armenian bole",
+    "wd_desc": "earthy astringent red clay"
   },
   {
     "category": "Ingredients",
@@ -22845,7 +22899,10 @@
         "orig_page": "352",
         "lines": 1
       }
-    ]
+    ],
+    "qid": "Q25686",
+    "wd_label": "Artemisia absinthium",
+    "wd_desc": "species of medicinal plant"
   },
   {
     "category": "Ingredients",
@@ -23454,7 +23511,10 @@
         "orig_page": "341",
         "lines": 1
       }
-    ]
+    ],
+    "qid": "Q925",
+    "wd_label": "mercury",
+    "wd_desc": "chemical element with symbol Hg"
   },
   {
     "category": "Ingredients",
@@ -24063,7 +24123,10 @@
         "orig_page": "347",
         "lines": 2
       }
-    ]
+    ],
+    "qid": "Q203635",
+    "wd_label": "myrrh",
+    "wd_desc": "aromatic gum-resin"
   },
   {
     "category": "Ingredients",
@@ -24666,7 +24729,10 @@
         "orig_page": "343",
         "lines": 2
       }
-    ]
+    ],
+    "qid": "Q427282",
+    "wd_label": "vitriol",
+    "wd_desc": "sulfate salt / sulfuric acid in historical chemistry"
   },
   {
     "category": "Ingredients",
@@ -25263,7 +25329,10 @@
         "orig_page": "352",
         "lines": 2
       }
-    ]
+    ],
+    "qid": "Q1111359",
+    "wd_label": "Salvia officinalis",
+    "wd_desc": "medicinal and culinary herb"
   },
   {
     "category": "Ingredients",
@@ -25770,7 +25839,10 @@
         "orig_page": "346",
         "lines": 1
       }
-    ]
+    ],
+    "qid": "Q80079",
+    "wd_label": "Aloe vera",
+    "wd_desc": "succulent medicinal plant"
   },
   {
     "category": "Ingredients",
@@ -26265,7 +26337,10 @@
         "orig_page": "346",
         "lines": 1
       }
-    ]
+    ],
+    "qid": "Q25434",
+    "wd_label": "saffron",
+    "wd_desc": "spice derived from Crocus sativus"
   },
   {
     "category": "Ingredients",
@@ -26742,7 +26817,10 @@
         "orig_page": "351",
         "lines": 1
       }
-    ]
+    ],
+    "qid": "Q181559",
+    "wd_label": "camphor",
+    "wd_desc": "terpenoid resinous substance"
   },
   {
     "category": "Ingredients",
@@ -27177,7 +27255,10 @@
         "orig_page": "344",
         "lines": 1
       }
-    ]
+    ],
+    "qid": "Q102240169",
+    "wd_label": "Salvia rosmarinus",
+    "wd_desc": "woody perennial medicinal herb"
   },
   {
     "category": "People",
@@ -28011,7 +28092,10 @@
         "orig_page": "350",
         "lines": 2
       }
-    ]
+    ],
+    "qid": "Q35805",
+    "wd_label": "cough",
+    "wd_desc": "sudden expulsion of air from lungs"
   },
   {
     "category": "Ingredients",
@@ -28731,7 +28815,10 @@
         "orig_page": "345",
         "lines": 3
       }
-    ]
+    ],
+    "qid": "Q131448",
+    "wd_label": "Sambucus",
+    "wd_desc": "genus of flowering plants (elder)"
   },
   {
     "category": "Ailments",
@@ -29397,7 +29484,10 @@
         "orig_page": "352",
         "lines": 2
       }
-    ]
+    ],
+    "qid": "Q38933",
+    "wd_label": "fever",
+    "wd_desc": "elevated body temperature"
   },
   {
     "category": "Apparatus & Tables",
@@ -30051,7 +30141,10 @@
         "orig_page": "346",
         "lines": 1
       }
-    ]
+    ],
+    "qid": "Q1254656",
+    "wd_label": "dragon's blood",
+    "wd_desc": "bright red plant resin"
   },
   {
     "category": "Ailments",
@@ -30372,7 +30465,10 @@
         "orig_page": "313",
         "lines": 1
       }
-    ]
+    ],
+    "qid": "Q12078",
+    "wd_label": "cancer",
+    "wd_desc": "malignant neoplasm / canker"
   },
   {
     "category": "Ailments",
@@ -31185,7 +31281,10 @@
         "orig_page": "334",
         "lines": 1
       }
-    ]
+    ],
+    "qid": "Q7217716",
+    "wd_label": "Rheum",
+    "wd_desc": "genus of plants (medicinal rhubarb)"
   },
   {
     "category": "Ingredients",
@@ -31434,7 +31533,10 @@
         "orig_page": "342",
         "lines": 1
       }
-    ]
+    ],
+    "qid": "Q161566",
+    "wd_label": "Symphytum",
+    "wd_desc": "genus of medicinal plants (comfrey)"
   },
   {
     "category": "Ingredients",
@@ -31677,7 +31779,10 @@
         "orig_page": "312",
         "lines": 3
       }
-    ]
+    ],
+    "qid": "Q156807",
+    "wd_label": "Chelidonium majus",
+    "wd_desc": "greater celandine"
   },
   {
     "category": "Ailments",
@@ -31890,7 +31995,10 @@
         "orig_page": "352",
         "lines": 2
       }
-    ]
+    ],
+    "qid": "Q129279",
+    "wd_label": "dysentery",
+    "wd_desc": "inflammatory disorder of the intestine"
   },
   {
     "category": "Apparatus & Tables",
@@ -32511,7 +32619,10 @@
         "orig_page": "347",
         "lines": 2
       }
-    ]
+    ],
+    "qid": "Q107231",
+    "wd_label": "paralysis",
+    "wd_desc": "loss of muscle function"
   },
   {
     "category": "Ingredients",
@@ -33006,7 +33117,10 @@
         "orig_page": "250",
         "lines": 1
       }
-    ]
+    ],
+    "qid": "Q133087",
+    "wd_label": "gout",
+    "wd_desc": "inflammatory arthritis"
   },
   {
     "category": "People",
@@ -33312,7 +33426,10 @@
         "orig_page": "321",
         "lines": 1
       }
-    ]
+    ],
+    "qid": "Q308841",
+    "wd_label": "snail",
+    "wd_desc": "shelled gastropod"
   },
   {
     "category": "Ailments",
@@ -33459,7 +33576,10 @@
         "orig_page": "266",
         "lines": 1
       }
-    ]
+    ],
+    "qid": "Q41083",
+    "wd_label": "syphilis",
+    "wd_desc": "morbus gallicus / French pox"
   },
   {
     "category": "Ailments",
@@ -33723,7 +33843,10 @@
         "orig_page": "351",
         "lines": 5
       }
-    ]
+    ],
+    "qid": "Q152234",
+    "wd_label": "edema",
+    "wd_desc": "abnormal accumulation of fluid"
   },
   {
     "category": "Ailments",
@@ -33846,7 +33969,10 @@
         "orig_page": "337",
         "lines": 1
       }
-    ]
+    ],
+    "qid": "Q133076",
+    "wd_label": "hernia",
+    "wd_desc": "protrusion of an organ through tissue"
   },
   {
     "category": "Places",
@@ -33969,7 +34095,10 @@
         "orig_page": "Unnumbered",
         "lines": 1
       }
-    ]
+    ],
+    "qid": "Q84",
+    "wd_label": "London",
+    "wd_desc": "capital of England"
   },
   {
     "category": "Ailments",
@@ -34074,7 +34203,10 @@
         "orig_page": "348",
         "lines": 1
       }
-    ]
+    ],
+    "qid": "Q133780",
+    "wd_label": "plague",
+    "wd_desc": "infectious disease"
   },
   {
     "category": "Ailments",
@@ -34173,7 +34305,10 @@
         "orig_page": "311",
         "lines": 1
       }
-    ]
+    ],
+    "qid": "Q144028",
+    "wd_label": "toothache",
+    "wd_desc": "pain in the teeth or jaws"
   },
   {
     "category": "Ingredients",
@@ -34272,7 +34407,10 @@
         "orig_page": "261",
         "lines": 1
       }
-    ]
+    ],
+    "qid": "Q53636",
+    "wd_label": "toad",
+    "wd_desc": "amphibian"
   },
   {
     "category": "People",
@@ -34608,7 +34746,10 @@
         "orig_page": "305",
         "lines": 5
       }
-    ]
+    ],
+    "qid": "Q181095",
+    "wd_label": "Nicotiana tabacum",
+    "wd_desc": "cultivated tobacco"
   },
   {
     "category": "People",
@@ -34683,7 +34824,10 @@
         "orig_page": "319",
         "lines": 1
       }
-    ]
+    ],
+    "qid": "Q8778",
+    "wd_label": "Galen",
+    "wd_desc": "Roman-era Greek physician"
   },
   {
     "category": "Apparatus & Tables",
@@ -34815,7 +34959,10 @@
         "orig_page": "209",
         "lines": 1
       }
-    ]
+    ],
+    "qid": "Q133244",
+    "wd_label": "jaundice",
+    "wd_desc": "yellowing of skin/sclera from bilirubin"
   },
   {
     "category": "Ingredients",
@@ -34878,7 +35025,10 @@
         "orig_page": "344",
         "lines": 1
       }
-    ]
+    ],
+    "qid": "Q165315",
+    "wd_label": "Smilax",
+    "wd_desc": "genus of plants (sarsaparilla)"
   },
   {
     "category": "People",
@@ -34998,7 +35148,10 @@
         "orig_page": "307",
         "lines": 3
       }
-    ]
+    ],
+    "qid": "Q1586014",
+    "wd_label": "peritonsillar abscess",
+    "wd_desc": "quinsy / throat abscess"
   },
   {
     "category": "Ailments",
@@ -35055,7 +35208,10 @@
         "orig_page": "253",
         "lines": 1
       }
-    ]
+    ],
+    "qid": "Q41571",
+    "wd_label": "epilepsy",
+    "wd_desc": "neurological disorder"
   },
   {
     "category": "Heraldry & Pedigrees",
@@ -35208,7 +35364,10 @@
         "orig_page": "302",
         "lines": 6
       }
-    ]
+    ],
+    "qid": "Q168805",
+    "wd_label": "gangrene",
+    "wd_desc": "necrosis of body tissue"
   },
   {
     "category": "Ailments",
@@ -35259,7 +35418,10 @@
         "orig_page": "311",
         "lines": 1
       }
-    ]
+    ],
+    "qid": "Q4678337",
+    "wd_label": "scrofula",
+    "wd_desc": "tuberculous cervical lymphadenitis"
   },
   {
     "category": "People",
@@ -35304,7 +35466,10 @@
         "orig_page": "313",
         "lines": 1
       }
-    ]
+    ],
+    "qid": "Q454911",
+    "wd_label": "Rembert Dodoens",
+    "wd_desc": "Flemish physician and botanist"
   },
   {
     "category": "Heraldry & Pedigrees",
@@ -35382,7 +35547,10 @@
         "orig_page": "351",
         "lines": 1
       }
-    ]
+    ],
+    "qid": "Q3185888",
+    "wd_label": "Joseph Duchesne",
+    "wd_desc": "French Paracelsian physician"
   },
   {
     "category": "Ingredients",
@@ -35421,7 +35589,10 @@
         "orig_page": "344",
         "lines": 1
       }
-    ]
+    ],
+    "qid": "Q1429385",
+    "wd_label": "Guaiacum",
+    "wd_desc": "genus of New World medicinal woods"
   },
   {
     "category": "Apparatus & Tables",
@@ -35520,7 +35691,10 @@
         "orig_page": "309",
         "lines": 1
       }
-    ]
+    ],
+    "qid": "Q539246",
+    "wd_label": "Pietro Andrea Mattioli",
+    "wd_desc": "Italian physician and naturalist"
   },
   {
     "category": "Heraldry & Pedigrees",
@@ -35580,7 +35754,10 @@
         "orig_page": "219",
         "lines": 1
       }
-    ]
+    ],
+    "qid": "Q23154",
+    "wd_label": "Bristol",
+    "wd_desc": "city in South West England"
   },
   {
     "category": "Apparatus & Tables",
@@ -35643,7 +35820,10 @@
         "orig_page": "182",
         "lines": 2
       }
-    ]
+    ],
+    "qid": "Q217492",
+    "wd_label": "Île de Ré",
+    "wd_desc": "island off the Atlantic coast of France"
   },
   {
     "category": "Places",
@@ -35664,7 +35844,10 @@
         "orig_page": "340",
         "lines": 1
       }
-    ]
+    ],
+    "qid": "Q984316",
+    "wd_label": "Evesham",
+    "wd_desc": "market town in Worcestershire"
   },
   {
     "category": "People",
@@ -35754,7 +35937,10 @@
         "orig_page": "Prelim. 3r",
         "lines": 1
       }
-    ]
+    ],
+    "qid": "Q122553",
+    "wd_label": "Charles II of England",
+    "wd_desc": "King of England, Scotland and Ireland"
   },
   {
     "category": "Places",
@@ -35769,6 +35955,9 @@
         "orig_page": "300",
         "lines": 1
       }
-    ]
+    ],
+    "qid": "Q843884",
+    "wd_label": "Tewkesbury",
+    "wd_desc": "market town in Gloucestershire"
   }
 ]

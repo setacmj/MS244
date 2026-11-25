@@ -124,6 +124,79 @@ ENTITY_DEFS = [
 ]
 
 
+WIKIDATA_QIDS = {
+    # Ingredients (verified against MS990_entity_index.json & Wikidata API)
+    "Honey / Mel": ("Q10987", "honey", "sweet food made by bees"),
+    "Wine / Vinum": ("Q282", "wine", "alcoholic beverage made from fermented grapes"),
+    "Vinegar / Acetum": ("Q41354", "vinegar", "acidic liquid produced from fermentation of ethanol"),
+    "Ale & Beer": ("Q44", "beer", "alcoholic beverage brewed from cereal grains"),
+    "Rose / Rosewater": ("Q900450", "rose water", "flavoured water made by distilling rose petals"),
+    "Butter / May Butter": ("Q34172", "butter", "dairy product made from milk fat"),
+    "Wax / Cera": ("Q143739", "beeswax", "natural wax produced by honeybees"),
+    "Turpentine / Terebinthina": ("Q201382", "turpentine", "fluid obtained by distillation of resin from pine trees"),
+    "Sugar / Saccharum": ("Q11002", "sugar", "sweet-tasting, soluble carbohydrates"),
+    "Salt / Sal": ("Q11254", "salt", "mineral composed primarily of sodium chloride"),
+    "Alum / Alumen": ("Q190527", "alum", "chemical compound and double sulfate salt"),
+    "Mercury / Quicksilver": ("Q925", "mercury", "chemical element with symbol Hg"),
+    "Vitriol / Copperas": ("Q427282", "vitriol", "sulfate salt / sulfuric acid in historical chemistry"),
+    "Lead / Litharge / Cerussa": ("Q407879", "lead(II) oxide", "litharge / lead compound"),
+    "Bole Armenick": ("Q891670", "Armenian bole", "earthy astringent red clay"),
+    "Dragon's Blood": ("Q1254656", "dragon's blood", "bright red plant resin"),
+    "Camphor": ("Q181559", "camphor", "terpenoid resinous substance"),
+    "Myrrh": ("Q203635", "myrrh", "aromatic gum-resin"),
+    "Mastic": ("Q318367", "mastic", "resin obtained from the mastic tree"),
+    "Frankincense / Olibanum": ("Q173486", "frankincense", "aromatic resin used in medicine and incense"),
+    "Aloes": ("Q80079", "Aloe vera", "succulent medicinal plant"),
+    "Saffron / Crocus": ("Q25434", "saffron", "spice derived from Crocus sativus"),
+    "Rhubarb": ("Q7217716", "Rheum", "genus of plants (medicinal rhubarb)"),
+    "Comfrey / Consolida": ("Q161566", "Symphytum", "genus of medicinal plants (comfrey)"),
+    "Wormwood / Absinthium": ("Q25686", "Artemisia absinthium", "species of medicinal plant"),
+    "Sage": ("Q1111359", "Salvia officinalis", "medicinal and culinary herb"),
+    "Rosemary": ("Q102240169", "Salvia rosmarinus", "woody perennial medicinal herb"),
+    "Plantain": ("Q157154", "Plantago major", "species of broadleaf plantain"),
+    "Celandine": ("Q156807", "Chelidonium majus", "greater celandine"),
+    "Elder / Sambucus": ("Q131448", "Sambucus", "genus of flowering plants (elder)"),
+    "Tobacco / Nicotiana": ("Q181095", "Nicotiana tabacum", "cultivated tobacco"),
+    "Guaiacum / Lignum Vitae": ("Q1429385", "Guaiacum", "genus of New World medicinal woods"),
+    "Sarsaparilla": ("Q165315", "Smilax", "genus of plants (sarsaparilla)"),
+    "Earthworms": ("Q124378", "earthworm", "terrestrial invertebrate"),
+    "Snails": ("Q308841", "snail", "shelled gastropod"),
+    "Toads": ("Q53636", "toad", "amphibian"),
+    # Ailments
+    "Wounds, Ulcers & Old Sores": ("Q189470", "fistula", "abnormal connection / ulcerous channel"),
+    "Rupture / Hernia": ("Q133076", "hernia", "protrusion of an organ through tissue"),
+    "Dropsy / Hydrops": ("Q152234", "edema", "abnormal accumulation of fluid"),
+    "Gout / Podagra": ("Q133087", "gout", "inflammatory arthritis"),
+    "Palsy & Cramp": ("Q107231", "paralysis", "loss of muscle function"),
+    "Pox / Morbus Gallicus": ("Q41083", "syphilis", "morbus gallicus / French pox"),
+    "Dysentery & Bloody Flux": ("Q129279", "dysentery", "inflammatory disorder of the intestine"),
+    "Jaundice (Yellow & Black)": ("Q133244", "jaundice", "yellowing of skin/sclera from bilirubin"),
+    "Canker & Sore Breasts": ("Q12078", "cancer", "malignant neoplasm / canker"),
+    "King's Evil / Scrofula": ("Q4678337", "scrofula", "tuberculous cervical lymphadenitis"),
+    "Gangrene & Sphacelus": ("Q168805", "gangrene", "necrosis of body tissue"),
+    "Epilepsy / Falling Sickness": ("Q41571", "epilepsy", "neurological disorder"),
+    "Quinsy / Squinantia": ("Q1586014", "peritonsillar abscess", "quinsy / throat abscess"),
+    "Burning & Scalding": ("Q170518", "burn", "injury to flesh or skin caused by heat"),
+    "Toothache": ("Q144028", "toothache", "pain in the teeth or jaws"),
+    "Ague & Fevers": ("Q38933", "fever", "elevated body temperature"),
+    "Cough, Asthma & Phthisis": ("Q35805", "cough", "sudden expulsion of air from lungs"),
+    "Plague / Pestilence": ("Q133780", "plague", "infectious disease"),
+    # People
+    "Galen": ("Q8778", "Galen", "Roman-era Greek physician"),
+    "Paracelsus": ("Q83428", "Paracelsus", "Renaissance physician and alchemist"),
+    "Rembert Dodoens": ("Q454911", "Rembert Dodoens", "Flemish physician and botanist"),
+    "Pietro Andrea Mattioli": ("Q539246", "Pietro Andrea Mattioli", "Italian physician and naturalist"),
+    "Joseph Quercetanus": ("Q3185888", "Joseph Duchesne", "French Paracelsian physician"),
+    "Prince Charles (1630)": ("Q122553", "Charles II of England", "King of England, Scotland and Ireland"),
+    # Places
+    "Tewkesbury (Gloucestershire)": ("Q843884", "Tewkesbury", "market town in Gloucestershire"),
+    "Evesham (Worcestershire)": ("Q984316", "Evesham", "market town in Worcestershire"),
+    "London": ("Q84", "London", "capital of England"),
+    "Bristol": ("Q23154", "Bristol", "city in South West England"),
+    "Isle of Rhé (1627)": ("Q217492", "Île de Ré", "island off the Atlantic coast of France"),
+}
+
+
 def main():
     data = json.loads(DATA_FILE.read_text(encoding="utf-8"))
     pages = data["pages"]
@@ -153,14 +226,20 @@ def main():
                     "lines": p_hits,
                 })
         if refs:
-            index_out.append({
+            wd = WIKIDATA_QIDS.get(name)
+            entry = {
                 "category": cat,
                 "name": name,
                 "desc": desc,
                 "line_hits": total_line_hits,
                 "page_hits": len(refs),
                 "refs": refs,
-            })
+            }
+            if wd:
+                entry["qid"] = wd[0]
+                entry["wd_label"] = wd[1]
+                entry["wd_desc"] = wd[2]
+            index_out.append(entry)
 
     index_out.sort(key=lambda x: (-x["page_hits"], -x["line_hits"], x["name"]))
     out_idx = BASE_DIR / "MS244_entity_index.json"

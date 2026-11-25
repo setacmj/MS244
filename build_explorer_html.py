@@ -616,7 +616,8 @@ HTML_TEMPLATE = """<!DOCTYPE html>
           card.className = "idx-card";
           const refsHtml = it.refs.slice(0, 18).map(r => `<button class="ref-btn" onclick="openPageIdx(${r.pIdx})">c${r.canvas_num} (${esc(r.orig_page)})</button>`).join("");
           const more = it.refs.length > 18 ? `<span style="font-size:0.74rem;color:#64748b"> +${it.refs.length - 18} more</span>` : "";
-          card.innerHTML = `<div style="font-size:0.7rem;color:#b45309;font-weight:700;text-transform:uppercase">${esc(it.category)}</div><h4>${esc(it.name)}</h4><div class="meta">${esc(it.desc)} · ${it.page_hits} pages / ${it.line_hits} lines</div><div>${refsHtml}${more}</div>`;
+          const wdHtml = it.qid ? `<a href="https://www.wikidata.org/wiki/${esc(it.qid)}" target="_blank" rel="noopener" style="display:inline-block;margin-left:6px;padding:1px 6px;font-size:0.7rem;background:#e0f2fe;color:#0369a1;border:1px solid #bae6fd;border-radius:4px;text-decoration:none;font-weight:700">Wikidata: ${esc(it.qid)} ↗</a>` : "";
+          card.innerHTML = `<div style="font-size:0.7rem;color:#b45309;font-weight:700;text-transform:uppercase">${esc(it.category)}${wdHtml}</div><h4>${esc(it.name)}</h4><div class="meta">${esc(it.desc)} · ${it.page_hits} pages / ${it.line_hits} lines</div><div>${refsHtml}${more}</div>`;
           grid.appendChild(card);
         });
     }
