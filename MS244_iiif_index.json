@@ -1,0 +1,4013 @@
+{
+  "work_id": "ae3q6kcm",
+  "sierra_id": "b19608652",
+  "shelfmark": "MS.244",
+  "title": "Collection of medical receipts",
+  "contributors": [
+    "Dineley/Dyneley (or Dingley/Dyngley), Henry (& others)",
+    "Sadler, John (1615-1664)"
+  ],
+  "date": "1564-1633",
+  "language": "en-1564 / la (Early Modern English with Latin medical receipts and calendar)",
+  "manifest_v2": "https://iiif.wellcomecollection.org/presentation/v2/b19608652",
+  "manifest_v3": "https://iiif.wellcomecollection.org/presentation/b19608652",
+  "total_canvases": 444,
+  "canvases": [
+    {
+      "canvas_number": 1,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0001.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0001.JP2",
+      "jp2_filename": "b19608652_MS_244_0001.JP2",
+      "width": 5103,
+      "height": 7312,
+      "section": "Binding: Front Cover (Recto)"
+    },
+    {
+      "canvas_number": 2,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0002.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0002.JP2",
+      "jp2_filename": "b19608652_MS_244_0002.JP2",
+      "width": 5103,
+      "height": 7312,
+      "section": "Front Pastedown: Wellcome Bookplate (MS.244 / Acc. 44190) & Pencil Note"
+    },
+    {
+      "canvas_number": 3,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0003.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0003.JP2",
+      "jp2_filename": "b19608652_MS_244_0003.JP2",
+      "width": 5282,
+      "height": 7312,
+      "section": "Modern Binder's Front Flyleaf (Canvas 3)"
+    },
+    {
+      "canvas_number": 4,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0004.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0004.JP2",
+      "jp2_filename": "b19608652_MS_244_0004.JP2",
+      "width": 5116,
+      "height": 7312,
+      "section": "Modern Binder's Front Flyleaf (Canvas 4)"
+    },
+    {
+      "canvas_number": 5,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0005.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0005.JP2",
+      "jp2_filename": "b19608652_MS_244_0005.JP2",
+      "width": 5226,
+      "height": 7312,
+      "section": "Modern Binder's Front Flyleaf (Canvas 5)"
+    },
+    {
+      "canvas_number": 6,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0006.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0006.JP2",
+      "jp2_filename": "b19608652_MS_244_0006.JP2",
+      "width": 5118,
+      "height": 7312,
+      "section": "Modern Binder's Front Flyleaf (Canvas 6)"
+    },
+    {
+      "canvas_number": 7,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0007.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0007.JP2",
+      "jp2_filename": "b19608652_MS_244_0007.JP2",
+      "width": 5225,
+      "height": 7312,
+      "section": "Preliminary Leaves: Fol. 1r (Calendar, Sundials, Weights & Measures, Angling & Surgical Receipts)"
+    },
+    {
+      "canvas_number": 8,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0008.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0008.JP2",
+      "jp2_filename": "b19608652_MS_244_0008.JP2",
+      "width": 5114,
+      "height": 7312,
+      "section": "Preliminary Leaves: Fol. 1v (Calendar, Sundials, Weights & Measures, Angling & Surgical Receipts)"
+    },
+    {
+      "canvas_number": 9,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0009.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0009.JP2",
+      "jp2_filename": "b19608652_MS_244_0009.JP2",
+      "width": 5234,
+      "height": 7312,
+      "section": "Preliminary Leaves: Fol. 2r (Calendar, Sundials, Weights & Measures, Angling & Surgical Receipts)"
+    },
+    {
+      "canvas_number": 10,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0010.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0010.JP2",
+      "jp2_filename": "b19608652_MS_244_0010.JP2",
+      "width": 5126,
+      "height": 7312,
+      "section": "Preliminary Leaves: Fol. 2v (Calendar, Sundials, Weights & Measures, Angling & Surgical Receipts)"
+    },
+    {
+      "canvas_number": 11,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0011.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0011.JP2",
+      "jp2_filename": "b19608652_MS_244_0011.JP2",
+      "width": 5214,
+      "height": 7312,
+      "section": "Preliminary Leaves: Fol. 3r (Calendar, Sundials, Weights & Measures, Angling & Surgical Receipts)"
+    },
+    {
+      "canvas_number": 12,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0012.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0012.JP2",
+      "jp2_filename": "b19608652_MS_244_0012.JP2",
+      "width": 5141,
+      "height": 7312,
+      "section": "Preliminary Leaves: Fol. 3v (Calendar, Sundials, Weights & Measures, Angling & Surgical Receipts)"
+    },
+    {
+      "canvas_number": 13,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0013.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0013.JP2",
+      "jp2_filename": "b19608652_MS_244_0013.JP2",
+      "width": 5222,
+      "height": 7312,
+      "section": "Preliminary Leaves: Fol. 4r (Calendar, Sundials, Weights & Measures, Angling & Surgical Receipts)"
+    },
+    {
+      "canvas_number": 14,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0014.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0014.JP2",
+      "jp2_filename": "b19608652_MS_244_0014.JP2",
+      "width": 5146,
+      "height": 7312,
+      "section": "Preliminary Leaves: Fol. 4v (Calendar, Sundials, Weights & Measures, Angling & Surgical Receipts)"
+    },
+    {
+      "canvas_number": 15,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0015.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0015.JP2",
+      "jp2_filename": "b19608652_MS_244_0015.JP2",
+      "width": 5222,
+      "height": 7312,
+      "section": "Preliminary Leaves: Fol. 5r (Calendar, Sundials, Weights & Measures, Angling & Surgical Receipts)"
+    },
+    {
+      "canvas_number": 16,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0016.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0016.JP2",
+      "jp2_filename": "b19608652_MS_244_0016.JP2",
+      "width": 5146,
+      "height": 7312,
+      "section": "Preliminary Leaves: Fol. 5v (Calendar, Sundials, Weights & Measures, Angling & Surgical Receipts)"
+    },
+    {
+      "canvas_number": 17,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0017.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0017.JP2",
+      "jp2_filename": "b19608652_MS_244_0017.JP2",
+      "width": 5120,
+      "height": 7312,
+      "section": "Preliminary Leaves: Fol. 6r (Calendar, Sundials, Weights & Measures, Angling & Surgical Receipts)"
+    },
+    {
+      "canvas_number": 18,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0018.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0018.JP2",
+      "jp2_filename": "b19608652_MS_244_0018.JP2",
+      "width": 5146,
+      "height": 7312,
+      "section": "Preliminary Leaves: Fol. 6v (Calendar, Sundials, Weights & Measures, Angling & Surgical Receipts)"
+    },
+    {
+      "canvas_number": 19,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0019.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0019.JP2",
+      "jp2_filename": "b19608652_MS_244_0019.JP2",
+      "width": 5221,
+      "height": 7312,
+      "section": "Preliminary Leaves: Fol. 7r (Calendar, Sundials, Weights & Measures, Angling & Surgical Receipts)"
+    },
+    {
+      "canvas_number": 20,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0020.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0020.JP2",
+      "jp2_filename": "b19608652_MS_244_0020.JP2",
+      "width": 5157,
+      "height": 7312,
+      "section": "Preliminary Leaves: Fol. 7v (Calendar, Sundials, Weights & Measures, Angling & Surgical Receipts)"
+    },
+    {
+      "canvas_number": 21,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0021.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0021.JP2",
+      "jp2_filename": "b19608652_MS_244_0021.JP2",
+      "width": 5219,
+      "height": 7312,
+      "section": "Preliminary Leaves: Fol. 8r (Calendar, Sundials, Weights & Measures, Angling & Surgical Receipts)"
+    },
+    {
+      "canvas_number": 22,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0022.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0022.JP2",
+      "jp2_filename": "b19608652_MS_244_0022.JP2",
+      "width": 5143,
+      "height": 7312,
+      "section": "Preliminary Leaves: Fol. 8v (Calendar, Sundials, Weights & Measures, Angling & Surgical Receipts)"
+    },
+    {
+      "canvas_number": 23,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0023.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0023.JP2",
+      "jp2_filename": "b19608652_MS_244_0023.JP2",
+      "width": 5222,
+      "height": 7312,
+      "section": "Preliminary Leaves: Fol. 9r (Calendar, Sundials, Weights & Measures, Angling & Surgical Receipts)"
+    },
+    {
+      "canvas_number": 24,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0024.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0024.JP2",
+      "jp2_filename": "b19608652_MS_244_0024.JP2",
+      "width": 5156,
+      "height": 7312,
+      "section": "Preliminary Leaves: Fol. 9v (Calendar, Sundials, Weights & Measures, Angling & Surgical Receipts)"
+    },
+    {
+      "canvas_number": 25,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0025.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0025.JP2",
+      "jp2_filename": "b19608652_MS_244_0025.JP2",
+      "width": 5172,
+      "height": 7312,
+      "section": "Preliminary Leaves: Fol. 10r (Calendar, Sundials, Weights & Measures, Angling & Surgical Receipts)"
+    },
+    {
+      "canvas_number": 26,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0026.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0026.JP2",
+      "jp2_filename": "b19608652_MS_244_0026.JP2",
+      "width": 5158,
+      "height": 7312,
+      "section": "Preliminary Leaves: Fol. 10v (Calendar, Sundials, Weights & Measures, Angling & Surgical Receipts)"
+    },
+    {
+      "canvas_number": 27,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0027.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0027.JP2",
+      "jp2_filename": "b19608652_MS_244_0027.JP2",
+      "width": 5135,
+      "height": 7312,
+      "section": "Preliminary Leaves: Fol. 11r (Calendar, Sundials, Weights & Measures, Angling & Surgical Receipts)"
+    },
+    {
+      "canvas_number": 28,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0028.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0028.JP2",
+      "jp2_filename": "b19608652_MS_244_0028.JP2",
+      "width": 5153,
+      "height": 7312,
+      "section": "Preliminary Leaves: Fol. 11v (Calendar, Sundials, Weights & Measures, Angling & Surgical Receipts)"
+    },
+    {
+      "canvas_number": 29,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0029.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0029.JP2",
+      "jp2_filename": "b19608652_MS_244_0029.JP2",
+      "width": 5134,
+      "height": 7312,
+      "section": "Preliminary Leaves: Fol. 12r (Calendar, Sundials, Weights & Measures, Angling & Surgical Receipts)"
+    },
+    {
+      "canvas_number": 30,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0030.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0030.JP2",
+      "jp2_filename": "b19608652_MS_244_0030.JP2",
+      "width": 5156,
+      "height": 7312,
+      "section": "Preliminary Leaves: Fol. 12v (Calendar, Sundials, Weights & Measures, Angling & Surgical Receipts)"
+    },
+    {
+      "canvas_number": 31,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0031.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0031.JP2",
+      "jp2_filename": "b19608652_MS_244_0031.JP2",
+      "width": 5133,
+      "height": 7312,
+      "section": "Preliminary Leaves: Fol. 13r (Calendar, Sundials, Weights & Measures, Angling & Surgical Receipts)"
+    },
+    {
+      "canvas_number": 32,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0032.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0032.JP2",
+      "jp2_filename": "b19608652_MS_244_0032.JP2",
+      "width": 5202,
+      "height": 7312,
+      "section": "Preliminary Leaves: Fol. 13v (Calendar, Sundials, Weights & Measures, Angling & Surgical Receipts)"
+    },
+    {
+      "canvas_number": 33,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0033.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0033.JP2",
+      "jp2_filename": "b19608652_MS_244_0033.JP2",
+      "width": 5133,
+      "height": 7312,
+      "section": "Preliminary Leaves: Fol. 14r (Calendar, Sundials, Weights & Measures, Angling & Surgical Receipts)"
+    },
+    {
+      "canvas_number": 34,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0034.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0034.JP2",
+      "jp2_filename": "b19608652_MS_244_0034.JP2",
+      "width": 5204,
+      "height": 7312,
+      "section": "Preliminary Leaves: Fol. 14v (Calendar, Sundials, Weights & Measures, Angling & Surgical Receipts)"
+    },
+    {
+      "canvas_number": 35,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0035.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0035.JP2",
+      "jp2_filename": "b19608652_MS_244_0035.JP2",
+      "width": 5133,
+      "height": 7312,
+      "section": "Preliminary Leaves: Fol. 15r (Calendar, Sundials, Weights & Measures, Angling & Surgical Receipts)"
+    },
+    {
+      "canvas_number": 36,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0036.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0036.JP2",
+      "jp2_filename": "b19608652_MS_244_0036.JP2",
+      "width": 5207,
+      "height": 7312,
+      "section": "Preliminary Leaves: Fol. 15v (Calendar, Sundials, Weights & Measures, Angling & Surgical Receipts)"
+    },
+    {
+      "canvas_number": 37,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0037.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0037.JP2",
+      "jp2_filename": "b19608652_MS_244_0037.JP2",
+      "width": 5133,
+      "height": 7312,
+      "section": "Preliminary Leaves: Fol. 16r (Calendar, Sundials, Weights & Measures, Angling & Surgical Receipts)"
+    },
+    {
+      "canvas_number": 38,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0038.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0038.JP2",
+      "jp2_filename": "b19608652_MS_244_0038.JP2",
+      "width": 5207,
+      "height": 7312,
+      "section": "Preliminary Leaves: Fol. 16v (Calendar, Sundials, Weights & Measures, Angling & Surgical Receipts)"
+    },
+    {
+      "canvas_number": 39,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0039.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0039.JP2",
+      "jp2_filename": "b19608652_MS_244_0039.JP2",
+      "width": 5132,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 39)"
+    },
+    {
+      "canvas_number": 40,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0040.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0040.JP2",
+      "jp2_filename": "b19608652_MS_244_0040.JP2",
+      "width": 5211,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 40)"
+    },
+    {
+      "canvas_number": 41,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0041.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0041.JP2",
+      "jp2_filename": "b19608652_MS_244_0041.JP2",
+      "width": 5054,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 41)"
+    },
+    {
+      "canvas_number": 42,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0042.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0042.JP2",
+      "jp2_filename": "b19608652_MS_244_0042.JP2",
+      "width": 5210,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 42)"
+    },
+    {
+      "canvas_number": 43,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0043.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0043.JP2",
+      "jp2_filename": "b19608652_MS_244_0043.JP2",
+      "width": 5055,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 43)"
+    },
+    {
+      "canvas_number": 44,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0044.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0044.JP2",
+      "jp2_filename": "b19608652_MS_244_0044.JP2",
+      "width": 5221,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 44)"
+    },
+    {
+      "canvas_number": 45,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0045.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0045.JP2",
+      "jp2_filename": "b19608652_MS_244_0045.JP2",
+      "width": 5054,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 45)"
+    },
+    {
+      "canvas_number": 46,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0046.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0046.JP2",
+      "jp2_filename": "b19608652_MS_244_0046.JP2",
+      "width": 5237,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 46)"
+    },
+    {
+      "canvas_number": 47,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0047.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0047.JP2",
+      "jp2_filename": "b19608652_MS_244_0047.JP2",
+      "width": 5054,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 47)"
+    },
+    {
+      "canvas_number": 48,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0048.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0048.JP2",
+      "jp2_filename": "b19608652_MS_244_0048.JP2",
+      "width": 5215,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 48)"
+    },
+    {
+      "canvas_number": 49,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0049.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0049.JP2",
+      "jp2_filename": "b19608652_MS_244_0049.JP2",
+      "width": 5054,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 49)"
+    },
+    {
+      "canvas_number": 50,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0050.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0050.JP2",
+      "jp2_filename": "b19608652_MS_244_0050.JP2",
+      "width": 5245,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 50)"
+    },
+    {
+      "canvas_number": 51,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0051.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0051.JP2",
+      "jp2_filename": "b19608652_MS_244_0051.JP2",
+      "width": 5054,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 51)"
+    },
+    {
+      "canvas_number": 52,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0052.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0052.JP2",
+      "jp2_filename": "b19608652_MS_244_0052.JP2",
+      "width": 5232,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 52)"
+    },
+    {
+      "canvas_number": 53,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0053.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0053.JP2",
+      "jp2_filename": "b19608652_MS_244_0053.JP2",
+      "width": 5054,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 53)"
+    },
+    {
+      "canvas_number": 54,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0054.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0054.JP2",
+      "jp2_filename": "b19608652_MS_244_0054.JP2",
+      "width": 5251,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 54)"
+    },
+    {
+      "canvas_number": 55,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0055.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0055.JP2",
+      "jp2_filename": "b19608652_MS_244_0055.JP2",
+      "width": 5054,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 55)"
+    },
+    {
+      "canvas_number": 56,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0056.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0056.JP2",
+      "jp2_filename": "b19608652_MS_244_0056.JP2",
+      "width": 5253,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 56)"
+    },
+    {
+      "canvas_number": 57,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0057.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0057.JP2",
+      "jp2_filename": "b19608652_MS_244_0057.JP2",
+      "width": 5053,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 57)"
+    },
+    {
+      "canvas_number": 58,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0058.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0058.JP2",
+      "jp2_filename": "b19608652_MS_244_0058.JP2",
+      "width": 5251,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 58)"
+    },
+    {
+      "canvas_number": 59,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0059.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0059.JP2",
+      "jp2_filename": "b19608652_MS_244_0059.JP2",
+      "width": 5054,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 59)"
+    },
+    {
+      "canvas_number": 60,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0060.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0060.JP2",
+      "jp2_filename": "b19608652_MS_244_0060.JP2",
+      "width": 5251,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 60)"
+    },
+    {
+      "canvas_number": 61,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0061.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0061.JP2",
+      "jp2_filename": "b19608652_MS_244_0061.JP2",
+      "width": 5047,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 61)"
+    },
+    {
+      "canvas_number": 62,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0062.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0062.JP2",
+      "jp2_filename": "b19608652_MS_244_0062.JP2",
+      "width": 5267,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 62)"
+    },
+    {
+      "canvas_number": 63,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0063.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0063.JP2",
+      "jp2_filename": "b19608652_MS_244_0063.JP2",
+      "width": 5053,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 63)"
+    },
+    {
+      "canvas_number": 64,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0064.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0064.JP2",
+      "jp2_filename": "b19608652_MS_244_0064.JP2",
+      "width": 5273,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 64)"
+    },
+    {
+      "canvas_number": 65,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0065.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0065.JP2",
+      "jp2_filename": "b19608652_MS_244_0065.JP2",
+      "width": 5051,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 65)"
+    },
+    {
+      "canvas_number": 66,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0066.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0066.JP2",
+      "jp2_filename": "b19608652_MS_244_0066.JP2",
+      "width": 5292,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 66)"
+    },
+    {
+      "canvas_number": 67,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0067.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0067.JP2",
+      "jp2_filename": "b19608652_MS_244_0067.JP2",
+      "width": 5051,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 67)"
+    },
+    {
+      "canvas_number": 68,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0068.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0068.JP2",
+      "jp2_filename": "b19608652_MS_244_0068.JP2",
+      "width": 5297,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 68)"
+    },
+    {
+      "canvas_number": 69,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0069.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0069.JP2",
+      "jp2_filename": "b19608652_MS_244_0069.JP2",
+      "width": 5051,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 69)"
+    },
+    {
+      "canvas_number": 70,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0070.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0070.JP2",
+      "jp2_filename": "b19608652_MS_244_0070.JP2",
+      "width": 5297,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 70)"
+    },
+    {
+      "canvas_number": 71,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0071.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0071.JP2",
+      "jp2_filename": "b19608652_MS_244_0071.JP2",
+      "width": 5050,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 71)"
+    },
+    {
+      "canvas_number": 72,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0072.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0072.JP2",
+      "jp2_filename": "b19608652_MS_244_0072.JP2",
+      "width": 5298,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 72)"
+    },
+    {
+      "canvas_number": 73,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0073.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0073.JP2",
+      "jp2_filename": "b19608652_MS_244_0073.JP2",
+      "width": 5051,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 73)"
+    },
+    {
+      "canvas_number": 74,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0074.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0074.JP2",
+      "jp2_filename": "b19608652_MS_244_0074.JP2",
+      "width": 5296,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 74)"
+    },
+    {
+      "canvas_number": 75,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0075.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0075.JP2",
+      "jp2_filename": "b19608652_MS_244_0075.JP2",
+      "width": 5053,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 75)"
+    },
+    {
+      "canvas_number": 76,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0076.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0076.JP2",
+      "jp2_filename": "b19608652_MS_244_0076.JP2",
+      "width": 5298,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 76)"
+    },
+    {
+      "canvas_number": 77,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0077.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0077.JP2",
+      "jp2_filename": "b19608652_MS_244_0077.JP2",
+      "width": 5053,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 77)"
+    },
+    {
+      "canvas_number": 78,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0078.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0078.JP2",
+      "jp2_filename": "b19608652_MS_244_0078.JP2",
+      "width": 5306,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 78)"
+    },
+    {
+      "canvas_number": 79,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0079.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0079.JP2",
+      "jp2_filename": "b19608652_MS_244_0079.JP2",
+      "width": 5052,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 79)"
+    },
+    {
+      "canvas_number": 80,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0080.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0080.JP2",
+      "jp2_filename": "b19608652_MS_244_0080.JP2",
+      "width": 5289,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 80)"
+    },
+    {
+      "canvas_number": 81,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0081.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0081.JP2",
+      "jp2_filename": "b19608652_MS_244_0081.JP2",
+      "width": 5025,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 81)"
+    },
+    {
+      "canvas_number": 82,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0082.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0082.JP2",
+      "jp2_filename": "b19608652_MS_244_0082.JP2",
+      "width": 5289,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 82)"
+    },
+    {
+      "canvas_number": 83,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0083.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0083.JP2",
+      "jp2_filename": "b19608652_MS_244_0083.JP2",
+      "width": 5051,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 83)"
+    },
+    {
+      "canvas_number": 84,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0084.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0084.JP2",
+      "jp2_filename": "b19608652_MS_244_0084.JP2",
+      "width": 5292,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 84)"
+    },
+    {
+      "canvas_number": 85,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0085.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0085.JP2",
+      "jp2_filename": "b19608652_MS_244_0085.JP2",
+      "width": 5051,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 85)"
+    },
+    {
+      "canvas_number": 86,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0086.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0086.JP2",
+      "jp2_filename": "b19608652_MS_244_0086.JP2",
+      "width": 5290,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 86)"
+    },
+    {
+      "canvas_number": 87,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0087.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0087.JP2",
+      "jp2_filename": "b19608652_MS_244_0087.JP2",
+      "width": 5050,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 87)"
+    },
+    {
+      "canvas_number": 88,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0088.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0088.JP2",
+      "jp2_filename": "b19608652_MS_244_0088.JP2",
+      "width": 5290,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 88)"
+    },
+    {
+      "canvas_number": 89,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0089.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0089.JP2",
+      "jp2_filename": "b19608652_MS_244_0089.JP2",
+      "width": 5049,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 89)"
+    },
+    {
+      "canvas_number": 90,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0090.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0090.JP2",
+      "jp2_filename": "b19608652_MS_244_0090.JP2",
+      "width": 5294,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 90)"
+    },
+    {
+      "canvas_number": 91,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0091.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0091.JP2",
+      "jp2_filename": "b19608652_MS_244_0091.JP2",
+      "width": 5049,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 91)"
+    },
+    {
+      "canvas_number": 92,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0092.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0092.JP2",
+      "jp2_filename": "b19608652_MS_244_0092.JP2",
+      "width": 5302,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 92)"
+    },
+    {
+      "canvas_number": 93,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0093.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0093.JP2",
+      "jp2_filename": "b19608652_MS_244_0093.JP2",
+      "width": 5049,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 93)"
+    },
+    {
+      "canvas_number": 94,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0094.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0094.JP2",
+      "jp2_filename": "b19608652_MS_244_0094.JP2",
+      "width": 5302,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 94)"
+    },
+    {
+      "canvas_number": 95,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0095.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0095.JP2",
+      "jp2_filename": "b19608652_MS_244_0095.JP2",
+      "width": 5137,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 95)"
+    },
+    {
+      "canvas_number": 96,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0096.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0096.JP2",
+      "jp2_filename": "b19608652_MS_244_0096.JP2",
+      "width": 5319,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 96)"
+    },
+    {
+      "canvas_number": 97,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0097.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0097.JP2",
+      "jp2_filename": "b19608652_MS_244_0097.JP2",
+      "width": 5142,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 97)"
+    },
+    {
+      "canvas_number": 98,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0098.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0098.JP2",
+      "jp2_filename": "b19608652_MS_244_0098.JP2",
+      "width": 5315,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 98)"
+    },
+    {
+      "canvas_number": 99,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0099.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0099.JP2",
+      "jp2_filename": "b19608652_MS_244_0099.JP2",
+      "width": 5142,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 99)"
+    },
+    {
+      "canvas_number": 100,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0100.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0100.JP2",
+      "jp2_filename": "b19608652_MS_244_0100.JP2",
+      "width": 5322,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 100)"
+    },
+    {
+      "canvas_number": 101,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0101.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0101.JP2",
+      "jp2_filename": "b19608652_MS_244_0101.JP2",
+      "width": 5144,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 101)"
+    },
+    {
+      "canvas_number": 102,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0102.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0102.JP2",
+      "jp2_filename": "b19608652_MS_244_0102.JP2",
+      "width": 5320,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 102)"
+    },
+    {
+      "canvas_number": 103,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0103.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0103.JP2",
+      "jp2_filename": "b19608652_MS_244_0103.JP2",
+      "width": 5144,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 103)"
+    },
+    {
+      "canvas_number": 104,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0104.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0104.JP2",
+      "jp2_filename": "b19608652_MS_244_0104.JP2",
+      "width": 5325,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 104)"
+    },
+    {
+      "canvas_number": 105,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0105.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0105.JP2",
+      "jp2_filename": "b19608652_MS_244_0105.JP2",
+      "width": 5140,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 105)"
+    },
+    {
+      "canvas_number": 106,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0106.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0106.JP2",
+      "jp2_filename": "b19608652_MS_244_0106.JP2",
+      "width": 5322,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 106)"
+    },
+    {
+      "canvas_number": 107,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0107.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0107.JP2",
+      "jp2_filename": "b19608652_MS_244_0107.JP2",
+      "width": 5141,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 107)"
+    },
+    {
+      "canvas_number": 108,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0108.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0108.JP2",
+      "jp2_filename": "b19608652_MS_244_0108.JP2",
+      "width": 5339,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 108)"
+    },
+    {
+      "canvas_number": 109,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0109.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0109.JP2",
+      "jp2_filename": "b19608652_MS_244_0109.JP2",
+      "width": 5140,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 109)"
+    },
+    {
+      "canvas_number": 110,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0110.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0110.JP2",
+      "jp2_filename": "b19608652_MS_244_0110.JP2",
+      "width": 5348,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 110)"
+    },
+    {
+      "canvas_number": 111,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0111.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0111.JP2",
+      "jp2_filename": "b19608652_MS_244_0111.JP2",
+      "width": 5170,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 111)"
+    },
+    {
+      "canvas_number": 112,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0112.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0112.JP2",
+      "jp2_filename": "b19608652_MS_244_0112.JP2",
+      "width": 5349,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 112)"
+    },
+    {
+      "canvas_number": 113,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0113.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0113.JP2",
+      "jp2_filename": "b19608652_MS_244_0113.JP2",
+      "width": 5171,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 113)"
+    },
+    {
+      "canvas_number": 114,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0114.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0114.JP2",
+      "jp2_filename": "b19608652_MS_244_0114.JP2",
+      "width": 5348,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 114)"
+    },
+    {
+      "canvas_number": 115,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0115.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0115.JP2",
+      "jp2_filename": "b19608652_MS_244_0115.JP2",
+      "width": 5170,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 115)"
+    },
+    {
+      "canvas_number": 116,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0116.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0116.JP2",
+      "jp2_filename": "b19608652_MS_244_0116.JP2",
+      "width": 5350,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 116)"
+    },
+    {
+      "canvas_number": 117,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0117.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0117.JP2",
+      "jp2_filename": "b19608652_MS_244_0117.JP2",
+      "width": 5170,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 117)"
+    },
+    {
+      "canvas_number": 118,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0118.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0118.JP2",
+      "jp2_filename": "b19608652_MS_244_0118.JP2",
+      "width": 5308,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 118)"
+    },
+    {
+      "canvas_number": 119,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0119.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0119.JP2",
+      "jp2_filename": "b19608652_MS_244_0119.JP2",
+      "width": 5170,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 119)"
+    },
+    {
+      "canvas_number": 120,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0120.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0120.JP2",
+      "jp2_filename": "b19608652_MS_244_0120.JP2",
+      "width": 5309,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 120)"
+    },
+    {
+      "canvas_number": 121,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0121.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0121.JP2",
+      "jp2_filename": "b19608652_MS_244_0121.JP2",
+      "width": 5170,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 121)"
+    },
+    {
+      "canvas_number": 122,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0122.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0122.JP2",
+      "jp2_filename": "b19608652_MS_244_0122.JP2",
+      "width": 5338,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 122)"
+    },
+    {
+      "canvas_number": 123,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0123.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0123.JP2",
+      "jp2_filename": "b19608652_MS_244_0123.JP2",
+      "width": 5168,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 123)"
+    },
+    {
+      "canvas_number": 124,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0124.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0124.JP2",
+      "jp2_filename": "b19608652_MS_244_0124.JP2",
+      "width": 5342,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 124)"
+    },
+    {
+      "canvas_number": 125,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0125.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0125.JP2",
+      "jp2_filename": "b19608652_MS_244_0125.JP2",
+      "width": 5168,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 125)"
+    },
+    {
+      "canvas_number": 126,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0126.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0126.JP2",
+      "jp2_filename": "b19608652_MS_244_0126.JP2",
+      "width": 5363,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 126)"
+    },
+    {
+      "canvas_number": 127,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0127.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0127.JP2",
+      "jp2_filename": "b19608652_MS_244_0127.JP2",
+      "width": 5168,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 127)"
+    },
+    {
+      "canvas_number": 128,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0128.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0128.JP2",
+      "jp2_filename": "b19608652_MS_244_0128.JP2",
+      "width": 5348,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 128)"
+    },
+    {
+      "canvas_number": 129,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0129.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0129.JP2",
+      "jp2_filename": "b19608652_MS_244_0129.JP2",
+      "width": 5197,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 129)"
+    },
+    {
+      "canvas_number": 130,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0130.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0130.JP2",
+      "jp2_filename": "b19608652_MS_244_0130.JP2",
+      "width": 5350,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 130)"
+    },
+    {
+      "canvas_number": 131,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0131.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0131.JP2",
+      "jp2_filename": "b19608652_MS_244_0131.JP2",
+      "width": 5198,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 131)"
+    },
+    {
+      "canvas_number": 132,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0132.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0132.JP2",
+      "jp2_filename": "b19608652_MS_244_0132.JP2",
+      "width": 5355,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 132)"
+    },
+    {
+      "canvas_number": 133,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0133.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0133.JP2",
+      "jp2_filename": "b19608652_MS_244_0133.JP2",
+      "width": 5217,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 133)"
+    },
+    {
+      "canvas_number": 134,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0134.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0134.JP2",
+      "jp2_filename": "b19608652_MS_244_0134.JP2",
+      "width": 5287,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 134)"
+    },
+    {
+      "canvas_number": 135,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0135.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0135.JP2",
+      "jp2_filename": "b19608652_MS_244_0135.JP2",
+      "width": 5222,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 135)"
+    },
+    {
+      "canvas_number": 136,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0136.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0136.JP2",
+      "jp2_filename": "b19608652_MS_244_0136.JP2",
+      "width": 5374,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 136)"
+    },
+    {
+      "canvas_number": 137,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0137.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0137.JP2",
+      "jp2_filename": "b19608652_MS_244_0137.JP2",
+      "width": 5261,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 137)"
+    },
+    {
+      "canvas_number": 138,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0138.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0138.JP2",
+      "jp2_filename": "b19608652_MS_244_0138.JP2",
+      "width": 5382,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 138)"
+    },
+    {
+      "canvas_number": 139,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0139.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0139.JP2",
+      "jp2_filename": "b19608652_MS_244_0139.JP2",
+      "width": 5233,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 139)"
+    },
+    {
+      "canvas_number": 140,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0140.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0140.JP2",
+      "jp2_filename": "b19608652_MS_244_0140.JP2",
+      "width": 5412,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 140)"
+    },
+    {
+      "canvas_number": 141,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0141.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0141.JP2",
+      "jp2_filename": "b19608652_MS_244_0141.JP2",
+      "width": 5235,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 141)"
+    },
+    {
+      "canvas_number": 142,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0142.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0142.JP2",
+      "jp2_filename": "b19608652_MS_244_0142.JP2",
+      "width": 5418,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 142)"
+    },
+    {
+      "canvas_number": 143,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0143.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0143.JP2",
+      "jp2_filename": "b19608652_MS_244_0143.JP2",
+      "width": 5236,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 143)"
+    },
+    {
+      "canvas_number": 144,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0144.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0144.JP2",
+      "jp2_filename": "b19608652_MS_244_0144.JP2",
+      "width": 5344,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 144)"
+    },
+    {
+      "canvas_number": 145,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0145.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0145.JP2",
+      "jp2_filename": "b19608652_MS_244_0145.JP2",
+      "width": 5195,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 145)"
+    },
+    {
+      "canvas_number": 146,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0146.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0146.JP2",
+      "jp2_filename": "b19608652_MS_244_0146.JP2",
+      "width": 5356,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 146)"
+    },
+    {
+      "canvas_number": 147,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0147.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0147.JP2",
+      "jp2_filename": "b19608652_MS_244_0147.JP2",
+      "width": 5203,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 147)"
+    },
+    {
+      "canvas_number": 148,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0148.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0148.JP2",
+      "jp2_filename": "b19608652_MS_244_0148.JP2",
+      "width": 5380,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 148)"
+    },
+    {
+      "canvas_number": 149,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0149.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0149.JP2",
+      "jp2_filename": "b19608652_MS_244_0149.JP2",
+      "width": 5197,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 149)"
+    },
+    {
+      "canvas_number": 150,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0150.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0150.JP2",
+      "jp2_filename": "b19608652_MS_244_0150.JP2",
+      "width": 5388,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 150)"
+    },
+    {
+      "canvas_number": 151,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0151.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0151.JP2",
+      "jp2_filename": "b19608652_MS_244_0151.JP2",
+      "width": 5180,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 151)"
+    },
+    {
+      "canvas_number": 152,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0152.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0152.JP2",
+      "jp2_filename": "b19608652_MS_244_0152.JP2",
+      "width": 5300,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 152)"
+    },
+    {
+      "canvas_number": 153,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0153.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0153.JP2",
+      "jp2_filename": "b19608652_MS_244_0153.JP2",
+      "width": 5143,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 153)"
+    },
+    {
+      "canvas_number": 154,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0154.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0154.JP2",
+      "jp2_filename": "b19608652_MS_244_0154.JP2",
+      "width": 5300,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 154)"
+    },
+    {
+      "canvas_number": 155,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0155.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0155.JP2",
+      "jp2_filename": "b19608652_MS_244_0155.JP2",
+      "width": 5143,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 155)"
+    },
+    {
+      "canvas_number": 156,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0156.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0156.JP2",
+      "jp2_filename": "b19608652_MS_244_0156.JP2",
+      "width": 5407,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 156)"
+    },
+    {
+      "canvas_number": 157,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0157.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0157.JP2",
+      "jp2_filename": "b19608652_MS_244_0157.JP2",
+      "width": 5141,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 157)"
+    },
+    {
+      "canvas_number": 158,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0158.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0158.JP2",
+      "jp2_filename": "b19608652_MS_244_0158.JP2",
+      "width": 5413,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 158)"
+    },
+    {
+      "canvas_number": 159,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0159.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0159.JP2",
+      "jp2_filename": "b19608652_MS_244_0159.JP2",
+      "width": 5205,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 159)"
+    },
+    {
+      "canvas_number": 160,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0160.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0160.JP2",
+      "jp2_filename": "b19608652_MS_244_0160.JP2",
+      "width": 5419,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 160)"
+    },
+    {
+      "canvas_number": 161,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0161.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0161.JP2",
+      "jp2_filename": "b19608652_MS_244_0161.JP2",
+      "width": 5195,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 161)"
+    },
+    {
+      "canvas_number": 162,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0162.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0162.JP2",
+      "jp2_filename": "b19608652_MS_244_0162.JP2",
+      "width": 5419,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 162)"
+    },
+    {
+      "canvas_number": 163,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0163.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0163.JP2",
+      "jp2_filename": "b19608652_MS_244_0163.JP2",
+      "width": 5190,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 163)"
+    },
+    {
+      "canvas_number": 164,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0164.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0164.JP2",
+      "jp2_filename": "b19608652_MS_244_0164.JP2",
+      "width": 5425,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 164)"
+    },
+    {
+      "canvas_number": 165,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0165.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0165.JP2",
+      "jp2_filename": "b19608652_MS_244_0165.JP2",
+      "width": 5191,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 165)"
+    },
+    {
+      "canvas_number": 166,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0166.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0166.JP2",
+      "jp2_filename": "b19608652_MS_244_0166.JP2",
+      "width": 5427,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 166)"
+    },
+    {
+      "canvas_number": 167,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0167.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0167.JP2",
+      "jp2_filename": "b19608652_MS_244_0167.JP2",
+      "width": 5100,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 167)"
+    },
+    {
+      "canvas_number": 168,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0168.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0168.JP2",
+      "jp2_filename": "b19608652_MS_244_0168.JP2",
+      "width": 5425,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 168)"
+    },
+    {
+      "canvas_number": 169,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0169.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0169.JP2",
+      "jp2_filename": "b19608652_MS_244_0169.JP2",
+      "width": 5204,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 169)"
+    },
+    {
+      "canvas_number": 170,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0170.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0170.JP2",
+      "jp2_filename": "b19608652_MS_244_0170.JP2",
+      "width": 5429,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 170)"
+    },
+    {
+      "canvas_number": 171,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0171.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0171.JP2",
+      "jp2_filename": "b19608652_MS_244_0171.JP2",
+      "width": 5205,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 171)"
+    },
+    {
+      "canvas_number": 172,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0172.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0172.JP2",
+      "jp2_filename": "b19608652_MS_244_0172.JP2",
+      "width": 5434,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 172)"
+    },
+    {
+      "canvas_number": 173,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0173.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0173.JP2",
+      "jp2_filename": "b19608652_MS_244_0173.JP2",
+      "width": 5204,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 173)"
+    },
+    {
+      "canvas_number": 174,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0174.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0174.JP2",
+      "jp2_filename": "b19608652_MS_244_0174.JP2",
+      "width": 5439,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 174)"
+    },
+    {
+      "canvas_number": 175,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0175.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0175.JP2",
+      "jp2_filename": "b19608652_MS_244_0175.JP2",
+      "width": 5204,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 175)"
+    },
+    {
+      "canvas_number": 176,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0176.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0176.JP2",
+      "jp2_filename": "b19608652_MS_244_0176.JP2",
+      "width": 5437,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 176)"
+    },
+    {
+      "canvas_number": 177,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0177.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0177.JP2",
+      "jp2_filename": "b19608652_MS_244_0177.JP2",
+      "width": 5206,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 177)"
+    },
+    {
+      "canvas_number": 178,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0178.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0178.JP2",
+      "jp2_filename": "b19608652_MS_244_0178.JP2",
+      "width": 5433,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 178)"
+    },
+    {
+      "canvas_number": 179,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0179.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0179.JP2",
+      "jp2_filename": "b19608652_MS_244_0179.JP2",
+      "width": 5205,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 179)"
+    },
+    {
+      "canvas_number": 180,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0180.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0180.JP2",
+      "jp2_filename": "b19608652_MS_244_0180.JP2",
+      "width": 5435,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 180)"
+    },
+    {
+      "canvas_number": 181,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0181.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0181.JP2",
+      "jp2_filename": "b19608652_MS_244_0181.JP2",
+      "width": 5204,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 181)"
+    },
+    {
+      "canvas_number": 182,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0182.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0182.JP2",
+      "jp2_filename": "b19608652_MS_244_0182.JP2",
+      "width": 5450,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 182)"
+    },
+    {
+      "canvas_number": 183,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0183.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0183.JP2",
+      "jp2_filename": "b19608652_MS_244_0183.JP2",
+      "width": 5209,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 183)"
+    },
+    {
+      "canvas_number": 184,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0184.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0184.JP2",
+      "jp2_filename": "b19608652_MS_244_0184.JP2",
+      "width": 5456,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 184)"
+    },
+    {
+      "canvas_number": 185,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0185.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0185.JP2",
+      "jp2_filename": "b19608652_MS_244_0185.JP2",
+      "width": 5208,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 185)"
+    },
+    {
+      "canvas_number": 186,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0186.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0186.JP2",
+      "jp2_filename": "b19608652_MS_244_0186.JP2",
+      "width": 5465,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 186)"
+    },
+    {
+      "canvas_number": 187,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0187.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0187.JP2",
+      "jp2_filename": "b19608652_MS_244_0187.JP2",
+      "width": 5208,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 187)"
+    },
+    {
+      "canvas_number": 188,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0188.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0188.JP2",
+      "jp2_filename": "b19608652_MS_244_0188.JP2",
+      "width": 5468,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 188)"
+    },
+    {
+      "canvas_number": 189,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0189.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0189.JP2",
+      "jp2_filename": "b19608652_MS_244_0189.JP2",
+      "width": 5205,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 189)"
+    },
+    {
+      "canvas_number": 190,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0190.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0190.JP2",
+      "jp2_filename": "b19608652_MS_244_0190.JP2",
+      "width": 5470,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 190)"
+    },
+    {
+      "canvas_number": 191,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0191.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0191.JP2",
+      "jp2_filename": "b19608652_MS_244_0191.JP2",
+      "width": 5203,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 191)"
+    },
+    {
+      "canvas_number": 192,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0192.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0192.JP2",
+      "jp2_filename": "b19608652_MS_244_0192.JP2",
+      "width": 5479,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 192)"
+    },
+    {
+      "canvas_number": 193,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0193.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0193.JP2",
+      "jp2_filename": "b19608652_MS_244_0193.JP2",
+      "width": 5203,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 193)"
+    },
+    {
+      "canvas_number": 194,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0194.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0194.JP2",
+      "jp2_filename": "b19608652_MS_244_0194.JP2",
+      "width": 5489,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 194)"
+    },
+    {
+      "canvas_number": 195,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0195.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0195.JP2",
+      "jp2_filename": "b19608652_MS_244_0195.JP2",
+      "width": 5204,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 195)"
+    },
+    {
+      "canvas_number": 196,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0196.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0196.JP2",
+      "jp2_filename": "b19608652_MS_244_0196.JP2",
+      "width": 5492,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 196)"
+    },
+    {
+      "canvas_number": 197,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0197.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0197.JP2",
+      "jp2_filename": "b19608652_MS_244_0197.JP2",
+      "width": 5203,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 197)"
+    },
+    {
+      "canvas_number": 198,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0198.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0198.JP2",
+      "jp2_filename": "b19608652_MS_244_0198.JP2",
+      "width": 5501,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 198)"
+    },
+    {
+      "canvas_number": 199,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0199.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0199.JP2",
+      "jp2_filename": "b19608652_MS_244_0199.JP2",
+      "width": 5204,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 199)"
+    },
+    {
+      "canvas_number": 200,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0200.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0200.JP2",
+      "jp2_filename": "b19608652_MS_244_0200.JP2",
+      "width": 5438,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 200)"
+    },
+    {
+      "canvas_number": 201,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0201.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0201.JP2",
+      "jp2_filename": "b19608652_MS_244_0201.JP2",
+      "width": 5203,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 201)"
+    },
+    {
+      "canvas_number": 202,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0202.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0202.JP2",
+      "jp2_filename": "b19608652_MS_244_0202.JP2",
+      "width": 5469,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 202)"
+    },
+    {
+      "canvas_number": 203,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0203.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0203.JP2",
+      "jp2_filename": "b19608652_MS_244_0203.JP2",
+      "width": 5204,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 203)"
+    },
+    {
+      "canvas_number": 204,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0204.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0204.JP2",
+      "jp2_filename": "b19608652_MS_244_0204.JP2",
+      "width": 5477,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 204)"
+    },
+    {
+      "canvas_number": 205,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0205.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0205.JP2",
+      "jp2_filename": "b19608652_MS_244_0205.JP2",
+      "width": 5204,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 205)"
+    },
+    {
+      "canvas_number": 206,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0206.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0206.JP2",
+      "jp2_filename": "b19608652_MS_244_0206.JP2",
+      "width": 5489,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 206)"
+    },
+    {
+      "canvas_number": 207,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0207.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0207.JP2",
+      "jp2_filename": "b19608652_MS_244_0207.JP2",
+      "width": 5205,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 207)"
+    },
+    {
+      "canvas_number": 208,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0208.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0208.JP2",
+      "jp2_filename": "b19608652_MS_244_0208.JP2",
+      "width": 5488,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 208)"
+    },
+    {
+      "canvas_number": 209,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0209.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0209.JP2",
+      "jp2_filename": "b19608652_MS_244_0209.JP2",
+      "width": 5204,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 209)"
+    },
+    {
+      "canvas_number": 210,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0210.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0210.JP2",
+      "jp2_filename": "b19608652_MS_244_0210.JP2",
+      "width": 5493,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 210)"
+    },
+    {
+      "canvas_number": 211,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0211.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0211.JP2",
+      "jp2_filename": "b19608652_MS_244_0211.JP2",
+      "width": 5246,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 211)"
+    },
+    {
+      "canvas_number": 212,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0212.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0212.JP2",
+      "jp2_filename": "b19608652_MS_244_0212.JP2",
+      "width": 5491,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 212)"
+    },
+    {
+      "canvas_number": 213,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0213.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0213.JP2",
+      "jp2_filename": "b19608652_MS_244_0213.JP2",
+      "width": 5247,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 213)"
+    },
+    {
+      "canvas_number": 214,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0214.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0214.JP2",
+      "jp2_filename": "b19608652_MS_244_0214.JP2",
+      "width": 5509,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 214)"
+    },
+    {
+      "canvas_number": 215,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0215.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0215.JP2",
+      "jp2_filename": "b19608652_MS_244_0215.JP2",
+      "width": 5245,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 215)"
+    },
+    {
+      "canvas_number": 216,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0216.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0216.JP2",
+      "jp2_filename": "b19608652_MS_244_0216.JP2",
+      "width": 5508,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 216)"
+    },
+    {
+      "canvas_number": 217,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0217.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0217.JP2",
+      "jp2_filename": "b19608652_MS_244_0217.JP2",
+      "width": 5261,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 217)"
+    },
+    {
+      "canvas_number": 218,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0218.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0218.JP2",
+      "jp2_filename": "b19608652_MS_244_0218.JP2",
+      "width": 5516,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 218)"
+    },
+    {
+      "canvas_number": 219,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0219.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0219.JP2",
+      "jp2_filename": "b19608652_MS_244_0219.JP2",
+      "width": 5272,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 219)"
+    },
+    {
+      "canvas_number": 220,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0220.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0220.JP2",
+      "jp2_filename": "b19608652_MS_244_0220.JP2",
+      "width": 5517,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 220)"
+    },
+    {
+      "canvas_number": 221,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0221.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0221.JP2",
+      "jp2_filename": "b19608652_MS_244_0221.JP2",
+      "width": 5278,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 221)"
+    },
+    {
+      "canvas_number": 222,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0222.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0222.JP2",
+      "jp2_filename": "b19608652_MS_244_0222.JP2",
+      "width": 5524,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 222)"
+    },
+    {
+      "canvas_number": 223,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0223.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0223.JP2",
+      "jp2_filename": "b19608652_MS_244_0223.JP2",
+      "width": 5277,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 223)"
+    },
+    {
+      "canvas_number": 224,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0224.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0224.JP2",
+      "jp2_filename": "b19608652_MS_244_0224.JP2",
+      "width": 5525,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 224)"
+    },
+    {
+      "canvas_number": 225,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0225.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0225.JP2",
+      "jp2_filename": "b19608652_MS_244_0225.JP2",
+      "width": 5276,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 225)"
+    },
+    {
+      "canvas_number": 226,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0226.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0226.JP2",
+      "jp2_filename": "b19608652_MS_244_0226.JP2",
+      "width": 5516,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 226)"
+    },
+    {
+      "canvas_number": 227,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0227.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0227.JP2",
+      "jp2_filename": "b19608652_MS_244_0227.JP2",
+      "width": 5236,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 227)"
+    },
+    {
+      "canvas_number": 228,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0228.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0228.JP2",
+      "jp2_filename": "b19608652_MS_244_0228.JP2",
+      "width": 5528,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 228)"
+    },
+    {
+      "canvas_number": 229,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0229.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0229.JP2",
+      "jp2_filename": "b19608652_MS_244_0229.JP2",
+      "width": 5293,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 229)"
+    },
+    {
+      "canvas_number": 230,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0230.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0230.JP2",
+      "jp2_filename": "b19608652_MS_244_0230.JP2",
+      "width": 5525,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 230)"
+    },
+    {
+      "canvas_number": 231,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0231.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0231.JP2",
+      "jp2_filename": "b19608652_MS_244_0231.JP2",
+      "width": 5293,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 231)"
+    },
+    {
+      "canvas_number": 232,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0232.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0232.JP2",
+      "jp2_filename": "b19608652_MS_244_0232.JP2",
+      "width": 5533,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 232)"
+    },
+    {
+      "canvas_number": 233,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0233.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0233.JP2",
+      "jp2_filename": "b19608652_MS_244_0233.JP2",
+      "width": 5292,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 233)"
+    },
+    {
+      "canvas_number": 234,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0234.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0234.JP2",
+      "jp2_filename": "b19608652_MS_244_0234.JP2",
+      "width": 5537,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 234)"
+    },
+    {
+      "canvas_number": 235,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0235.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0235.JP2",
+      "jp2_filename": "b19608652_MS_244_0235.JP2",
+      "width": 5260,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 235)"
+    },
+    {
+      "canvas_number": 236,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0236.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0236.JP2",
+      "jp2_filename": "b19608652_MS_244_0236.JP2",
+      "width": 5540,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 236)"
+    },
+    {
+      "canvas_number": 237,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0237.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0237.JP2",
+      "jp2_filename": "b19608652_MS_244_0237.JP2",
+      "width": 5260,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 237)"
+    },
+    {
+      "canvas_number": 238,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0238.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0238.JP2",
+      "jp2_filename": "b19608652_MS_244_0238.JP2",
+      "width": 5542,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 238)"
+    },
+    {
+      "canvas_number": 239,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0239.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0239.JP2",
+      "jp2_filename": "b19608652_MS_244_0239.JP2",
+      "width": 5260,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 239)"
+    },
+    {
+      "canvas_number": 240,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0240.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0240.JP2",
+      "jp2_filename": "b19608652_MS_244_0240.JP2",
+      "width": 5540,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 240)"
+    },
+    {
+      "canvas_number": 241,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0241.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0241.JP2",
+      "jp2_filename": "b19608652_MS_244_0241.JP2",
+      "width": 5259,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 241)"
+    },
+    {
+      "canvas_number": 242,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0242.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0242.JP2",
+      "jp2_filename": "b19608652_MS_244_0242.JP2",
+      "width": 5542,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 242)"
+    },
+    {
+      "canvas_number": 243,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0243.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0243.JP2",
+      "jp2_filename": "b19608652_MS_244_0243.JP2",
+      "width": 5259,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 243)"
+    },
+    {
+      "canvas_number": 244,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0244.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0244.JP2",
+      "jp2_filename": "b19608652_MS_244_0244.JP2",
+      "width": 5544,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 244)"
+    },
+    {
+      "canvas_number": 245,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0245.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0245.JP2",
+      "jp2_filename": "b19608652_MS_244_0245.JP2",
+      "width": 5260,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 245)"
+    },
+    {
+      "canvas_number": 246,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0246.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0246.JP2",
+      "jp2_filename": "b19608652_MS_244_0246.JP2",
+      "width": 5550,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 246)"
+    },
+    {
+      "canvas_number": 247,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0247.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0247.JP2",
+      "jp2_filename": "b19608652_MS_244_0247.JP2",
+      "width": 5259,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 247)"
+    },
+    {
+      "canvas_number": 248,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0248.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0248.JP2",
+      "jp2_filename": "b19608652_MS_244_0248.JP2",
+      "width": 5550,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 248)"
+    },
+    {
+      "canvas_number": 249,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0249.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0249.JP2",
+      "jp2_filename": "b19608652_MS_244_0249.JP2",
+      "width": 5260,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 249)"
+    },
+    {
+      "canvas_number": 250,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0250.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0250.JP2",
+      "jp2_filename": "b19608652_MS_244_0250.JP2",
+      "width": 5547,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 250)"
+    },
+    {
+      "canvas_number": 251,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0251.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0251.JP2",
+      "jp2_filename": "b19608652_MS_244_0251.JP2",
+      "width": 5259,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 251)"
+    },
+    {
+      "canvas_number": 252,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0252.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0252.JP2",
+      "jp2_filename": "b19608652_MS_244_0252.JP2",
+      "width": 5552,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 252)"
+    },
+    {
+      "canvas_number": 253,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0253.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0253.JP2",
+      "jp2_filename": "b19608652_MS_244_0253.JP2",
+      "width": 5267,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 253)"
+    },
+    {
+      "canvas_number": 254,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0254.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0254.JP2",
+      "jp2_filename": "b19608652_MS_244_0254.JP2",
+      "width": 5507,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 254)"
+    },
+    {
+      "canvas_number": 255,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0255.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0255.JP2",
+      "jp2_filename": "b19608652_MS_244_0255.JP2",
+      "width": 5267,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 255)"
+    },
+    {
+      "canvas_number": 256,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0256.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0256.JP2",
+      "jp2_filename": "b19608652_MS_244_0256.JP2",
+      "width": 5495,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 256)"
+    },
+    {
+      "canvas_number": 257,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0257.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0257.JP2",
+      "jp2_filename": "b19608652_MS_244_0257.JP2",
+      "width": 5267,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 257)"
+    },
+    {
+      "canvas_number": 258,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0258.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0258.JP2",
+      "jp2_filename": "b19608652_MS_244_0258.JP2",
+      "width": 5507,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 258)"
+    },
+    {
+      "canvas_number": 259,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0259.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0259.JP2",
+      "jp2_filename": "b19608652_MS_244_0259.JP2",
+      "width": 5234,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 259)"
+    },
+    {
+      "canvas_number": 260,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0260.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0260.JP2",
+      "jp2_filename": "b19608652_MS_244_0260.JP2",
+      "width": 5504,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 260)"
+    },
+    {
+      "canvas_number": 261,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0261.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0261.JP2",
+      "jp2_filename": "b19608652_MS_244_0261.JP2",
+      "width": 5234,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 261)"
+    },
+    {
+      "canvas_number": 262,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0262.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0262.JP2",
+      "jp2_filename": "b19608652_MS_244_0262.JP2",
+      "width": 5504,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 262)"
+    },
+    {
+      "canvas_number": 263,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0263.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0263.JP2",
+      "jp2_filename": "b19608652_MS_244_0263.JP2",
+      "width": 5234,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 263)"
+    },
+    {
+      "canvas_number": 264,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0264.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0264.JP2",
+      "jp2_filename": "b19608652_MS_244_0264.JP2",
+      "width": 5496,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 264)"
+    },
+    {
+      "canvas_number": 265,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0265.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0265.JP2",
+      "jp2_filename": "b19608652_MS_244_0265.JP2",
+      "width": 5232,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 265)"
+    },
+    {
+      "canvas_number": 266,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0266.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0266.JP2",
+      "jp2_filename": "b19608652_MS_244_0266.JP2",
+      "width": 5504,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 266)"
+    },
+    {
+      "canvas_number": 267,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0267.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0267.JP2",
+      "jp2_filename": "b19608652_MS_244_0267.JP2",
+      "width": 5231,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 267)"
+    },
+    {
+      "canvas_number": 268,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0268.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0268.JP2",
+      "jp2_filename": "b19608652_MS_244_0268.JP2",
+      "width": 5497,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 268)"
+    },
+    {
+      "canvas_number": 269,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0269.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0269.JP2",
+      "jp2_filename": "b19608652_MS_244_0269.JP2",
+      "width": 5232,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 269)"
+    },
+    {
+      "canvas_number": 270,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0270.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0270.JP2",
+      "jp2_filename": "b19608652_MS_244_0270.JP2",
+      "width": 5510,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 270)"
+    },
+    {
+      "canvas_number": 271,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0271.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0271.JP2",
+      "jp2_filename": "b19608652_MS_244_0271.JP2",
+      "width": 5230,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 271)"
+    },
+    {
+      "canvas_number": 272,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0272.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0272.JP2",
+      "jp2_filename": "b19608652_MS_244_0272.JP2",
+      "width": 5510,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 272)"
+    },
+    {
+      "canvas_number": 273,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0273.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0273.JP2",
+      "jp2_filename": "b19608652_MS_244_0273.JP2",
+      "width": 5280,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 273)"
+    },
+    {
+      "canvas_number": 274,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0274.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0274.JP2",
+      "jp2_filename": "b19608652_MS_244_0274.JP2",
+      "width": 5511,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 274)"
+    },
+    {
+      "canvas_number": 275,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0275.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0275.JP2",
+      "jp2_filename": "b19608652_MS_244_0275.JP2",
+      "width": 5232,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 275)"
+    },
+    {
+      "canvas_number": 276,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0276.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0276.JP2",
+      "jp2_filename": "b19608652_MS_244_0276.JP2",
+      "width": 5509,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 276)"
+    },
+    {
+      "canvas_number": 277,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0277.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0277.JP2",
+      "jp2_filename": "b19608652_MS_244_0277.JP2",
+      "width": 5232,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 277)"
+    },
+    {
+      "canvas_number": 278,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0278.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0278.JP2",
+      "jp2_filename": "b19608652_MS_244_0278.JP2",
+      "width": 5514,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 278)"
+    },
+    {
+      "canvas_number": 279,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0279.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0279.JP2",
+      "jp2_filename": "b19608652_MS_244_0279.JP2",
+      "width": 5233,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 279)"
+    },
+    {
+      "canvas_number": 280,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0280.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0280.JP2",
+      "jp2_filename": "b19608652_MS_244_0280.JP2",
+      "width": 5510,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 280)"
+    },
+    {
+      "canvas_number": 281,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0281.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0281.JP2",
+      "jp2_filename": "b19608652_MS_244_0281.JP2",
+      "width": 5277,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 281)"
+    },
+    {
+      "canvas_number": 282,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0282.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0282.JP2",
+      "jp2_filename": "b19608652_MS_244_0282.JP2",
+      "width": 5540,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 282)"
+    },
+    {
+      "canvas_number": 283,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0283.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0283.JP2",
+      "jp2_filename": "b19608652_MS_244_0283.JP2",
+      "width": 5277,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 283)"
+    },
+    {
+      "canvas_number": 284,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0284.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0284.JP2",
+      "jp2_filename": "b19608652_MS_244_0284.JP2",
+      "width": 5557,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 284)"
+    },
+    {
+      "canvas_number": 285,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0285.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0285.JP2",
+      "jp2_filename": "b19608652_MS_244_0285.JP2",
+      "width": 5270,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 285)"
+    },
+    {
+      "canvas_number": 286,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0286.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0286.JP2",
+      "jp2_filename": "b19608652_MS_244_0286.JP2",
+      "width": 5547,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 286)"
+    },
+    {
+      "canvas_number": 287,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0287.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0287.JP2",
+      "jp2_filename": "b19608652_MS_244_0287.JP2",
+      "width": 5263,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 287)"
+    },
+    {
+      "canvas_number": 288,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0288.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0288.JP2",
+      "jp2_filename": "b19608652_MS_244_0288.JP2",
+      "width": 5509,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 288)"
+    },
+    {
+      "canvas_number": 289,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0289.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0289.JP2",
+      "jp2_filename": "b19608652_MS_244_0289.JP2",
+      "width": 5215,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 289)"
+    },
+    {
+      "canvas_number": 290,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0290.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0290.JP2",
+      "jp2_filename": "b19608652_MS_244_0290.JP2",
+      "width": 5507,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 290)"
+    },
+    {
+      "canvas_number": 291,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0291.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0291.JP2",
+      "jp2_filename": "b19608652_MS_244_0291.JP2",
+      "width": 5250,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 291)"
+    },
+    {
+      "canvas_number": 292,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0292.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0292.JP2",
+      "jp2_filename": "b19608652_MS_244_0292.JP2",
+      "width": 5507,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 292)"
+    },
+    {
+      "canvas_number": 293,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0293.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0293.JP2",
+      "jp2_filename": "b19608652_MS_244_0293.JP2",
+      "width": 5236,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 293)"
+    },
+    {
+      "canvas_number": 294,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0294.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0294.JP2",
+      "jp2_filename": "b19608652_MS_244_0294.JP2",
+      "width": 5517,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 294)"
+    },
+    {
+      "canvas_number": 295,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0295.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0295.JP2",
+      "jp2_filename": "b19608652_MS_244_0295.JP2",
+      "width": 5192,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 295)"
+    },
+    {
+      "canvas_number": 296,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0296.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0296.JP2",
+      "jp2_filename": "b19608652_MS_244_0296.JP2",
+      "width": 5515,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 296)"
+    },
+    {
+      "canvas_number": 297,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0297.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0297.JP2",
+      "jp2_filename": "b19608652_MS_244_0297.JP2",
+      "width": 5180,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 297)"
+    },
+    {
+      "canvas_number": 298,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0298.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0298.JP2",
+      "jp2_filename": "b19608652_MS_244_0298.JP2",
+      "width": 5507,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 298)"
+    },
+    {
+      "canvas_number": 299,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0299.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0299.JP2",
+      "jp2_filename": "b19608652_MS_244_0299.JP2",
+      "width": 5184,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 299)"
+    },
+    {
+      "canvas_number": 300,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0300.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0300.JP2",
+      "jp2_filename": "b19608652_MS_244_0300.JP2",
+      "width": 5515,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 300)"
+    },
+    {
+      "canvas_number": 301,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0301.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0301.JP2",
+      "jp2_filename": "b19608652_MS_244_0301.JP2",
+      "width": 5182,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 301)"
+    },
+    {
+      "canvas_number": 302,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0302.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0302.JP2",
+      "jp2_filename": "b19608652_MS_244_0302.JP2",
+      "width": 5520,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 302)"
+    },
+    {
+      "canvas_number": 303,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0303.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0303.JP2",
+      "jp2_filename": "b19608652_MS_244_0303.JP2",
+      "width": 5184,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 303)"
+    },
+    {
+      "canvas_number": 304,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0304.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0304.JP2",
+      "jp2_filename": "b19608652_MS_244_0304.JP2",
+      "width": 5522,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 304)"
+    },
+    {
+      "canvas_number": 305,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0305.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0305.JP2",
+      "jp2_filename": "b19608652_MS_244_0305.JP2",
+      "width": 5184,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 305)"
+    },
+    {
+      "canvas_number": 306,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0306.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0306.JP2",
+      "jp2_filename": "b19608652_MS_244_0306.JP2",
+      "width": 5528,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 306)"
+    },
+    {
+      "canvas_number": 307,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0307.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0307.JP2",
+      "jp2_filename": "b19608652_MS_244_0307.JP2",
+      "width": 5184,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 307)"
+    },
+    {
+      "canvas_number": 308,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0308.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0308.JP2",
+      "jp2_filename": "b19608652_MS_244_0308.JP2",
+      "width": 5524,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 308)"
+    },
+    {
+      "canvas_number": 309,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0309.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0309.JP2",
+      "jp2_filename": "b19608652_MS_244_0309.JP2",
+      "width": 5184,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 309)"
+    },
+    {
+      "canvas_number": 310,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0310.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0310.JP2",
+      "jp2_filename": "b19608652_MS_244_0310.JP2",
+      "width": 5542,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 310)"
+    },
+    {
+      "canvas_number": 311,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0311.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0311.JP2",
+      "jp2_filename": "b19608652_MS_244_0311.JP2",
+      "width": 5183,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 311)"
+    },
+    {
+      "canvas_number": 312,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0312.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0312.JP2",
+      "jp2_filename": "b19608652_MS_244_0312.JP2",
+      "width": 5553,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 312)"
+    },
+    {
+      "canvas_number": 313,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0313.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0313.JP2",
+      "jp2_filename": "b19608652_MS_244_0313.JP2",
+      "width": 5184,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 313)"
+    },
+    {
+      "canvas_number": 314,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0314.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0314.JP2",
+      "jp2_filename": "b19608652_MS_244_0314.JP2",
+      "width": 5608,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 314)"
+    },
+    {
+      "canvas_number": 315,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0315.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0315.JP2",
+      "jp2_filename": "b19608652_MS_244_0315.JP2",
+      "width": 5182,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 315)"
+    },
+    {
+      "canvas_number": 316,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0316.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0316.JP2",
+      "jp2_filename": "b19608652_MS_244_0316.JP2",
+      "width": 5598,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 316)"
+    },
+    {
+      "canvas_number": 317,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0317.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0317.JP2",
+      "jp2_filename": "b19608652_MS_244_0317.JP2",
+      "width": 5192,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 317)"
+    },
+    {
+      "canvas_number": 318,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0318.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0318.JP2",
+      "jp2_filename": "b19608652_MS_244_0318.JP2",
+      "width": 5588,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 318)"
+    },
+    {
+      "canvas_number": 319,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0319.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0319.JP2",
+      "jp2_filename": "b19608652_MS_244_0319.JP2",
+      "width": 5143,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 319)"
+    },
+    {
+      "canvas_number": 320,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0320.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0320.JP2",
+      "jp2_filename": "b19608652_MS_244_0320.JP2",
+      "width": 5592,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 320)"
+    },
+    {
+      "canvas_number": 321,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0321.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0321.JP2",
+      "jp2_filename": "b19608652_MS_244_0321.JP2",
+      "width": 5138,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 321)"
+    },
+    {
+      "canvas_number": 322,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0322.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0322.JP2",
+      "jp2_filename": "b19608652_MS_244_0322.JP2",
+      "width": 5593,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 322)"
+    },
+    {
+      "canvas_number": 323,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0323.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0323.JP2",
+      "jp2_filename": "b19608652_MS_244_0323.JP2",
+      "width": 5143,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 323)"
+    },
+    {
+      "canvas_number": 324,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0324.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0324.JP2",
+      "jp2_filename": "b19608652_MS_244_0324.JP2",
+      "width": 5592,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 324)"
+    },
+    {
+      "canvas_number": 325,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0325.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0325.JP2",
+      "jp2_filename": "b19608652_MS_244_0325.JP2",
+      "width": 5180,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 325)"
+    },
+    {
+      "canvas_number": 326,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0326.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0326.JP2",
+      "jp2_filename": "b19608652_MS_244_0326.JP2",
+      "width": 5591,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 326)"
+    },
+    {
+      "canvas_number": 327,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0327.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0327.JP2",
+      "jp2_filename": "b19608652_MS_244_0327.JP2",
+      "width": 5180,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 327)"
+    },
+    {
+      "canvas_number": 328,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0328.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0328.JP2",
+      "jp2_filename": "b19608652_MS_244_0328.JP2",
+      "width": 5591,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 328)"
+    },
+    {
+      "canvas_number": 329,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0329.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0329.JP2",
+      "jp2_filename": "b19608652_MS_244_0329.JP2",
+      "width": 5149,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 329)"
+    },
+    {
+      "canvas_number": 330,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0330.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0330.JP2",
+      "jp2_filename": "b19608652_MS_244_0330.JP2",
+      "width": 5593,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 330)"
+    },
+    {
+      "canvas_number": 331,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0331.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0331.JP2",
+      "jp2_filename": "b19608652_MS_244_0331.JP2",
+      "width": 5153,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 331)"
+    },
+    {
+      "canvas_number": 332,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0332.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0332.JP2",
+      "jp2_filename": "b19608652_MS_244_0332.JP2",
+      "width": 5593,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 332)"
+    },
+    {
+      "canvas_number": 333,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0333.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0333.JP2",
+      "jp2_filename": "b19608652_MS_244_0333.JP2",
+      "width": 5152,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 333)"
+    },
+    {
+      "canvas_number": 334,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0334.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0334.JP2",
+      "jp2_filename": "b19608652_MS_244_0334.JP2",
+      "width": 5596,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 334)"
+    },
+    {
+      "canvas_number": 335,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0335.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0335.JP2",
+      "jp2_filename": "b19608652_MS_244_0335.JP2",
+      "width": 5152,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 335)"
+    },
+    {
+      "canvas_number": 336,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0336.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0336.JP2",
+      "jp2_filename": "b19608652_MS_244_0336.JP2",
+      "width": 5594,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 336)"
+    },
+    {
+      "canvas_number": 337,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0337.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0337.JP2",
+      "jp2_filename": "b19608652_MS_244_0337.JP2",
+      "width": 5151,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 337)"
+    },
+    {
+      "canvas_number": 338,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0338.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0338.JP2",
+      "jp2_filename": "b19608652_MS_244_0338.JP2",
+      "width": 5594,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 338)"
+    },
+    {
+      "canvas_number": 339,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0339.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0339.JP2",
+      "jp2_filename": "b19608652_MS_244_0339.JP2",
+      "width": 5150,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 339)"
+    },
+    {
+      "canvas_number": 340,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0340.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0340.JP2",
+      "jp2_filename": "b19608652_MS_244_0340.JP2",
+      "width": 5597,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 340)"
+    },
+    {
+      "canvas_number": 341,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0341.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0341.JP2",
+      "jp2_filename": "b19608652_MS_244_0341.JP2",
+      "width": 5149,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 341)"
+    },
+    {
+      "canvas_number": 342,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0342.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0342.JP2",
+      "jp2_filename": "b19608652_MS_244_0342.JP2",
+      "width": 5594,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 342)"
+    },
+    {
+      "canvas_number": 343,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0343.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0343.JP2",
+      "jp2_filename": "b19608652_MS_244_0343.JP2",
+      "width": 5159,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 343)"
+    },
+    {
+      "canvas_number": 344,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0344.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0344.JP2",
+      "jp2_filename": "b19608652_MS_244_0344.JP2",
+      "width": 5594,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 344)"
+    },
+    {
+      "canvas_number": 345,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0345.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0345.JP2",
+      "jp2_filename": "b19608652_MS_244_0345.JP2",
+      "width": 5157,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 345)"
+    },
+    {
+      "canvas_number": 346,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0346.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0346.JP2",
+      "jp2_filename": "b19608652_MS_244_0346.JP2",
+      "width": 5596,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 346)"
+    },
+    {
+      "canvas_number": 347,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0347.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0347.JP2",
+      "jp2_filename": "b19608652_MS_244_0347.JP2",
+      "width": 5156,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 347)"
+    },
+    {
+      "canvas_number": 348,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0348.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0348.JP2",
+      "jp2_filename": "b19608652_MS_244_0348.JP2",
+      "width": 5538,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 348)"
+    },
+    {
+      "canvas_number": 349,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0349.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0349.JP2",
+      "jp2_filename": "b19608652_MS_244_0349.JP2",
+      "width": 5158,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 349)"
+    },
+    {
+      "canvas_number": 350,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0350.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0350.JP2",
+      "jp2_filename": "b19608652_MS_244_0350.JP2",
+      "width": 5597,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 350)"
+    },
+    {
+      "canvas_number": 351,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0351.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0351.JP2",
+      "jp2_filename": "b19608652_MS_244_0351.JP2",
+      "width": 5158,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 351)"
+    },
+    {
+      "canvas_number": 352,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0352.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0352.JP2",
+      "jp2_filename": "b19608652_MS_244_0352.JP2",
+      "width": 5597,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 352)"
+    },
+    {
+      "canvas_number": 353,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0353.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0353.JP2",
+      "jp2_filename": "b19608652_MS_244_0353.JP2",
+      "width": 5157,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 353)"
+    },
+    {
+      "canvas_number": 354,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0354.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0354.JP2",
+      "jp2_filename": "b19608652_MS_244_0354.JP2",
+      "width": 5597,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 354)"
+    },
+    {
+      "canvas_number": 355,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0355.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0355.JP2",
+      "jp2_filename": "b19608652_MS_244_0355.JP2",
+      "width": 5157,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 355)"
+    },
+    {
+      "canvas_number": 356,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0356.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0356.JP2",
+      "jp2_filename": "b19608652_MS_244_0356.JP2",
+      "width": 5596,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 356)"
+    },
+    {
+      "canvas_number": 357,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0357.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0357.JP2",
+      "jp2_filename": "b19608652_MS_244_0357.JP2",
+      "width": 5157,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 357)"
+    },
+    {
+      "canvas_number": 358,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0358.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0358.JP2",
+      "jp2_filename": "b19608652_MS_244_0358.JP2",
+      "width": 5599,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 358)"
+    },
+    {
+      "canvas_number": 359,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0359.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0359.JP2",
+      "jp2_filename": "b19608652_MS_244_0359.JP2",
+      "width": 5157,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 359)"
+    },
+    {
+      "canvas_number": 360,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0360.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0360.JP2",
+      "jp2_filename": "b19608652_MS_244_0360.JP2",
+      "width": 5603,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 360)"
+    },
+    {
+      "canvas_number": 361,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0361.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0361.JP2",
+      "jp2_filename": "b19608652_MS_244_0361.JP2",
+      "width": 5158,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 361)"
+    },
+    {
+      "canvas_number": 362,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0362.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0362.JP2",
+      "jp2_filename": "b19608652_MS_244_0362.JP2",
+      "width": 5608,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 362)"
+    },
+    {
+      "canvas_number": 363,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0363.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0363.JP2",
+      "jp2_filename": "b19608652_MS_244_0363.JP2",
+      "width": 5159,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 363)"
+    },
+    {
+      "canvas_number": 364,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0364.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0364.JP2",
+      "jp2_filename": "b19608652_MS_244_0364.JP2",
+      "width": 5606,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 364)"
+    },
+    {
+      "canvas_number": 365,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0365.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0365.JP2",
+      "jp2_filename": "b19608652_MS_244_0365.JP2",
+      "width": 5147,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 365)"
+    },
+    {
+      "canvas_number": 366,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0366.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0366.JP2",
+      "jp2_filename": "b19608652_MS_244_0366.JP2",
+      "width": 5603,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 366)"
+    },
+    {
+      "canvas_number": 367,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0367.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0367.JP2",
+      "jp2_filename": "b19608652_MS_244_0367.JP2",
+      "width": 5153,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 367)"
+    },
+    {
+      "canvas_number": 368,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0368.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0368.JP2",
+      "jp2_filename": "b19608652_MS_244_0368.JP2",
+      "width": 5604,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 368)"
+    },
+    {
+      "canvas_number": 369,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0369.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0369.JP2",
+      "jp2_filename": "b19608652_MS_244_0369.JP2",
+      "width": 5153,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 369)"
+    },
+    {
+      "canvas_number": 370,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0370.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0370.JP2",
+      "jp2_filename": "b19608652_MS_244_0370.JP2",
+      "width": 5599,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 370)"
+    },
+    {
+      "canvas_number": 371,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0371.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0371.JP2",
+      "jp2_filename": "b19608652_MS_244_0371.JP2",
+      "width": 5154,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 371)"
+    },
+    {
+      "canvas_number": 372,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0372.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0372.JP2",
+      "jp2_filename": "b19608652_MS_244_0372.JP2",
+      "width": 5673,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 372)"
+    },
+    {
+      "canvas_number": 373,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0373.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0373.JP2",
+      "jp2_filename": "b19608652_MS_244_0373.JP2",
+      "width": 5158,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 373)"
+    },
+    {
+      "canvas_number": 374,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0374.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0374.JP2",
+      "jp2_filename": "b19608652_MS_244_0374.JP2",
+      "width": 5669,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 374)"
+    },
+    {
+      "canvas_number": 375,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0375.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0375.JP2",
+      "jp2_filename": "b19608652_MS_244_0375.JP2",
+      "width": 5158,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 375)"
+    },
+    {
+      "canvas_number": 376,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0376.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0376.JP2",
+      "jp2_filename": "b19608652_MS_244_0376.JP2",
+      "width": 5672,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 376)"
+    },
+    {
+      "canvas_number": 377,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0377.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0377.JP2",
+      "jp2_filename": "b19608652_MS_244_0377.JP2",
+      "width": 5162,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 377)"
+    },
+    {
+      "canvas_number": 378,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0378.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0378.JP2",
+      "jp2_filename": "b19608652_MS_244_0378.JP2",
+      "width": 5669,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 378)"
+    },
+    {
+      "canvas_number": 379,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0379.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0379.JP2",
+      "jp2_filename": "b19608652_MS_244_0379.JP2",
+      "width": 5155,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 379)"
+    },
+    {
+      "canvas_number": 380,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0380.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0380.JP2",
+      "jp2_filename": "b19608652_MS_244_0380.JP2",
+      "width": 5671,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 380)"
+    },
+    {
+      "canvas_number": 381,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0381.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0381.JP2",
+      "jp2_filename": "b19608652_MS_244_0381.JP2",
+      "width": 5161,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 381)"
+    },
+    {
+      "canvas_number": 382,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0382.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0382.JP2",
+      "jp2_filename": "b19608652_MS_244_0382.JP2",
+      "width": 5672,
+      "height": 7312,
+      "section": "Main Compendium: Medical & Surgical Receipts (Canvas 382)"
+    },
+    {
+      "canvas_number": 383,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0383.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0383.JP2",
+      "jp2_filename": "b19608652_MS_244_0383.JP2",
+      "width": 5135,
+      "height": 7312,
+      "section": "Reversed Endleaves: Weather Chronicles (1564, 1592, 1598) & Dineley Provenance (Canvas 383)"
+    },
+    {
+      "canvas_number": 384,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0384.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0384.JP2",
+      "jp2_filename": "b19608652_MS_244_0384.JP2",
+      "width": 5693,
+      "height": 7312,
+      "section": "Reversed Endleaves: Weather Chronicles (1564, 1592, 1598) & Dineley Provenance (Canvas 384)"
+    },
+    {
+      "canvas_number": 385,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0385.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0385.JP2",
+      "jp2_filename": "b19608652_MS_244_0385.JP2",
+      "width": 5134,
+      "height": 7312,
+      "section": "Reversed Endleaves: Weather Chronicles (1564, 1592, 1598) & Dineley Provenance (Canvas 385)"
+    },
+    {
+      "canvas_number": 386,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0386.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0386.JP2",
+      "jp2_filename": "b19608652_MS_244_0386.JP2",
+      "width": 5698,
+      "height": 7312,
+      "section": "Reversed Endleaves: Weather Chronicles (1564, 1592, 1598) & Dineley Provenance (Canvas 386)"
+    },
+    {
+      "canvas_number": 387,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0387.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0387.JP2",
+      "jp2_filename": "b19608652_MS_244_0387.JP2",
+      "width": 5133,
+      "height": 7312,
+      "section": "Reversed Endleaves: Weather Chronicles (1564, 1592, 1598) & Dineley Provenance (Canvas 387)"
+    },
+    {
+      "canvas_number": 388,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0388.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0388.JP2",
+      "jp2_filename": "b19608652_MS_244_0388.JP2",
+      "width": 5699,
+      "height": 7312,
+      "section": "Armorial & Genealogical Pedigrees (Canvas 388)"
+    },
+    {
+      "canvas_number": 389,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0389.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0389.JP2",
+      "jp2_filename": "b19608652_MS_244_0389.JP2",
+      "width": 5126,
+      "height": 7312,
+      "section": "Armorial & Genealogical Pedigrees (Canvas 389)"
+    },
+    {
+      "canvas_number": 390,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0390.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0390.JP2",
+      "jp2_filename": "b19608652_MS_244_0390.JP2",
+      "width": 5693,
+      "height": 7312,
+      "section": "Armorial & Genealogical Pedigrees (Canvas 390)"
+    },
+    {
+      "canvas_number": 391,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0391.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0391.JP2",
+      "jp2_filename": "b19608652_MS_244_0391.JP2",
+      "width": 5130,
+      "height": 7312,
+      "section": "Armorial & Genealogical Pedigrees (Canvas 391)"
+    },
+    {
+      "canvas_number": 392,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0392.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0392.JP2",
+      "jp2_filename": "b19608652_MS_244_0392.JP2",
+      "width": 5500,
+      "height": 7312,
+      "section": "Armorial & Genealogical Pedigrees (Canvas 392)"
+    },
+    {
+      "canvas_number": 393,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0393.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0393.JP2",
+      "jp2_filename": "b19608652_MS_244_0393.JP2",
+      "width": 5126,
+      "height": 7312,
+      "section": "Armorial & Genealogical Pedigrees (Canvas 393)"
+    },
+    {
+      "canvas_number": 394,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0394.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0394.JP2",
+      "jp2_filename": "b19608652_MS_244_0394.JP2",
+      "width": 5500,
+      "height": 7312,
+      "section": "Armorial & Genealogical Pedigrees (Canvas 394)"
+    },
+    {
+      "canvas_number": 395,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0395.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0395.JP2",
+      "jp2_filename": "b19608652_MS_244_0395.JP2",
+      "width": 5128,
+      "height": 7312,
+      "section": "Armorial & Genealogical Pedigrees (Canvas 395)"
+    },
+    {
+      "canvas_number": 396,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0396.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0396.JP2",
+      "jp2_filename": "b19608652_MS_244_0396.JP2",
+      "width": 5647,
+      "height": 7312,
+      "section": "Armorial & Genealogical Pedigrees (Canvas 396)"
+    },
+    {
+      "canvas_number": 397,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0397.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0397.JP2",
+      "jp2_filename": "b19608652_MS_244_0397.JP2",
+      "width": 5127,
+      "height": 7312,
+      "section": "Armorial & Genealogical Pedigrees (Canvas 397)"
+    },
+    {
+      "canvas_number": 398,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0398.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0398.JP2",
+      "jp2_filename": "b19608652_MS_244_0398.JP2",
+      "width": 5652,
+      "height": 7312,
+      "section": "Armorial & Genealogical Pedigrees (Canvas 398)"
+    },
+    {
+      "canvas_number": 399,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0399.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0399.JP2",
+      "jp2_filename": "b19608652_MS_244_0399.JP2",
+      "width": 5131,
+      "height": 7312,
+      "section": "Armorial & Genealogical Pedigrees (Canvas 399)"
+    },
+    {
+      "canvas_number": 400,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0400.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0400.JP2",
+      "jp2_filename": "b19608652_MS_244_0400.JP2",
+      "width": 5647,
+      "height": 7312,
+      "section": "Armorial & Genealogical Pedigrees (Canvas 400)"
+    },
+    {
+      "canvas_number": 401,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0401.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0401.JP2",
+      "jp2_filename": "b19608652_MS_244_0401.JP2",
+      "width": 5130,
+      "height": 7312,
+      "section": "Armorial & Genealogical Pedigrees (Canvas 401)"
+    },
+    {
+      "canvas_number": 402,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0402.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0402.JP2",
+      "jp2_filename": "b19608652_MS_244_0402.JP2",
+      "width": 5647,
+      "height": 7312,
+      "section": "Armorial & Genealogical Pedigrees (Canvas 402)"
+    },
+    {
+      "canvas_number": 403,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0403.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0403.JP2",
+      "jp2_filename": "b19608652_MS_244_0403.JP2",
+      "width": 5132,
+      "height": 7312,
+      "section": "Armorial & Genealogical Pedigrees (Canvas 403)"
+    },
+    {
+      "canvas_number": 404,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0404.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0404.JP2",
+      "jp2_filename": "b19608652_MS_244_0404.JP2",
+      "width": 5646,
+      "height": 7312,
+      "section": "Armorial & Genealogical Pedigrees (Canvas 404)"
+    },
+    {
+      "canvas_number": 405,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0405.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0405.JP2",
+      "jp2_filename": "b19608652_MS_244_0405.JP2",
+      "width": 5130,
+      "height": 7312,
+      "section": "Armorial & Genealogical Pedigrees (Canvas 405)"
+    },
+    {
+      "canvas_number": 406,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0406.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0406.JP2",
+      "jp2_filename": "b19608652_MS_244_0406.JP2",
+      "width": 5647,
+      "height": 7312,
+      "section": "Armorial & Genealogical Pedigrees (Canvas 406)"
+    },
+    {
+      "canvas_number": 407,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0407.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0407.JP2",
+      "jp2_filename": "b19608652_MS_244_0407.JP2",
+      "width": 5133,
+      "height": 7312,
+      "section": "Armorial & Genealogical Pedigrees (Canvas 407)"
+    },
+    {
+      "canvas_number": 408,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0408.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0408.JP2",
+      "jp2_filename": "b19608652_MS_244_0408.JP2",
+      "width": 5649,
+      "height": 7312,
+      "section": "Armorial & Genealogical Pedigrees (Canvas 408)"
+    },
+    {
+      "canvas_number": 409,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0409.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0409.JP2",
+      "jp2_filename": "b19608652_MS_244_0409.JP2",
+      "width": 5132,
+      "height": 7312,
+      "section": "Armorial & Genealogical Pedigrees (Canvas 409)"
+    },
+    {
+      "canvas_number": 410,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0410.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0410.JP2",
+      "jp2_filename": "b19608652_MS_244_0410.JP2",
+      "width": 5649,
+      "height": 7312,
+      "section": "Armorial & Genealogical Pedigrees (Canvas 410)"
+    },
+    {
+      "canvas_number": 411,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0411.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0411.JP2",
+      "jp2_filename": "b19608652_MS_244_0411.JP2",
+      "width": 5132,
+      "height": 7312,
+      "section": "Armorial & Genealogical Pedigrees (Canvas 411)"
+    },
+    {
+      "canvas_number": 412,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0412.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0412.JP2",
+      "jp2_filename": "b19608652_MS_244_0412.JP2",
+      "width": 5649,
+      "height": 7312,
+      "section": "Armorial & Genealogical Pedigrees (Canvas 412)"
+    },
+    {
+      "canvas_number": 413,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0413.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0413.JP2",
+      "jp2_filename": "b19608652_MS_244_0413.JP2",
+      "width": 5132,
+      "height": 7312,
+      "section": "Armorial & Genealogical Pedigrees (Canvas 413)"
+    },
+    {
+      "canvas_number": 414,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0414.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0414.JP2",
+      "jp2_filename": "b19608652_MS_244_0414.JP2",
+      "width": 5675,
+      "height": 7312,
+      "section": "Armorial & Genealogical Pedigrees (Canvas 414)"
+    },
+    {
+      "canvas_number": 415,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0415.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0415.JP2",
+      "jp2_filename": "b19608652_MS_244_0415.JP2",
+      "width": 5086,
+      "height": 7312,
+      "section": "Armorial & Genealogical Pedigrees (Canvas 415)"
+    },
+    {
+      "canvas_number": 416,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0416.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0416.JP2",
+      "jp2_filename": "b19608652_MS_244_0416.JP2",
+      "width": 5676,
+      "height": 7312,
+      "section": "Armorial & Genealogical Pedigrees (Canvas 416)"
+    },
+    {
+      "canvas_number": 417,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0417.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0417.JP2",
+      "jp2_filename": "b19608652_MS_244_0417.JP2",
+      "width": 5086,
+      "height": 7312,
+      "section": "Armorial & Genealogical Pedigrees (Canvas 417)"
+    },
+    {
+      "canvas_number": 418,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0418.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0418.JP2",
+      "jp2_filename": "b19608652_MS_244_0418.JP2",
+      "width": 5676,
+      "height": 7312,
+      "section": "Armorial & Genealogical Pedigrees (Canvas 418)"
+    },
+    {
+      "canvas_number": 419,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0419.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0419.JP2",
+      "jp2_filename": "b19608652_MS_244_0419.JP2",
+      "width": 5086,
+      "height": 7312,
+      "section": "Armorial & Genealogical Pedigrees (Canvas 419)"
+    },
+    {
+      "canvas_number": 420,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0420.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0420.JP2",
+      "jp2_filename": "b19608652_MS_244_0420.JP2",
+      "width": 5676,
+      "height": 7312,
+      "section": "Armorial & Genealogical Pedigrees (Canvas 420)"
+    },
+    {
+      "canvas_number": 421,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0421.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0421.JP2",
+      "jp2_filename": "b19608652_MS_244_0421.JP2",
+      "width": 5085,
+      "height": 7312,
+      "section": "Armorial & Genealogical Pedigrees (Canvas 421)"
+    },
+    {
+      "canvas_number": 422,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0422.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0422.JP2",
+      "jp2_filename": "b19608652_MS_244_0422.JP2",
+      "width": 5675,
+      "height": 7312,
+      "section": "Armorial & Genealogical Pedigrees (Canvas 422)"
+    },
+    {
+      "canvas_number": 423,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0423.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0423.JP2",
+      "jp2_filename": "b19608652_MS_244_0423.JP2",
+      "width": 5086,
+      "height": 7312,
+      "section": "Armorial & Genealogical Pedigrees (Canvas 423)"
+    },
+    {
+      "canvas_number": 424,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0424.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0424.JP2",
+      "jp2_filename": "b19608652_MS_244_0424.JP2",
+      "width": 5676,
+      "height": 7312,
+      "section": "Armorial & Genealogical Pedigrees (Canvas 424)"
+    },
+    {
+      "canvas_number": 425,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0425.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0425.JP2",
+      "jp2_filename": "b19608652_MS_244_0425.JP2",
+      "width": 5079,
+      "height": 7312,
+      "section": "Armorial & Genealogical Pedigrees (Canvas 425)"
+    },
+    {
+      "canvas_number": 426,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0426.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0426.JP2",
+      "jp2_filename": "b19608652_MS_244_0426.JP2",
+      "width": 5676,
+      "height": 7312,
+      "section": "Armorial & Genealogical Pedigrees (Canvas 426)"
+    },
+    {
+      "canvas_number": 427,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0427.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0427.JP2",
+      "jp2_filename": "b19608652_MS_244_0427.JP2",
+      "width": 5083,
+      "height": 7312,
+      "section": "Armorial & Genealogical Pedigrees (Canvas 427)"
+    },
+    {
+      "canvas_number": 428,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0428.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0428.JP2",
+      "jp2_filename": "b19608652_MS_244_0428.JP2",
+      "width": 5656,
+      "height": 7312,
+      "section": "Armorial & Genealogical Pedigrees (Canvas 428)"
+    },
+    {
+      "canvas_number": 429,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0429.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0429.JP2",
+      "jp2_filename": "b19608652_MS_244_0429.JP2",
+      "width": 5082,
+      "height": 7312,
+      "section": "Armorial & Genealogical Pedigrees (Canvas 429)"
+    },
+    {
+      "canvas_number": 430,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0430.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0430.JP2",
+      "jp2_filename": "b19608652_MS_244_0430.JP2",
+      "width": 5657,
+      "height": 7312,
+      "section": "Armorial & Genealogical Pedigrees (Canvas 430)"
+    },
+    {
+      "canvas_number": 431,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0431.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0431.JP2",
+      "jp2_filename": "b19608652_MS_244_0431.JP2",
+      "width": 5086,
+      "height": 7312,
+      "section": "Back Flyleaves & Inside Back Pastedown (Canvas 431)"
+    },
+    {
+      "canvas_number": 432,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0432.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0432.JP2",
+      "jp2_filename": "b19608652_MS_244_0432.JP2",
+      "width": 5679,
+      "height": 7312,
+      "section": "Back Flyleaves & Inside Back Pastedown (Canvas 432)"
+    },
+    {
+      "canvas_number": 433,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0433.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0433.JP2",
+      "jp2_filename": "b19608652_MS_244_0433.JP2",
+      "width": 5070,
+      "height": 7312,
+      "section": "Back Flyleaves & Inside Back Pastedown (Canvas 433)"
+    },
+    {
+      "canvas_number": 434,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0434.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0434.JP2",
+      "jp2_filename": "b19608652_MS_244_0434.JP2",
+      "width": 5735,
+      "height": 7312,
+      "section": "Back Flyleaves & Inside Back Pastedown (Canvas 434)"
+    },
+    {
+      "canvas_number": 435,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0435.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0435.JP2",
+      "jp2_filename": "b19608652_MS_244_0435.JP2",
+      "width": 5085,
+      "height": 7312,
+      "section": "Back Flyleaves & Inside Back Pastedown (Canvas 435)"
+    },
+    {
+      "canvas_number": 436,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0436.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0436.JP2",
+      "jp2_filename": "b19608652_MS_244_0436.JP2",
+      "width": 5103,
+      "height": 7312,
+      "section": "Binding: Back Cover"
+    },
+    {
+      "canvas_number": 437,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0437.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0437.JP2",
+      "jp2_filename": "b19608652_MS_244_0437.JP2",
+      "width": 1932,
+      "height": 7312,
+      "section": "Binding: Spine & Book-Block Edges (Canvas 437)"
+    },
+    {
+      "canvas_number": 438,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0438.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0438.JP2",
+      "jp2_filename": "b19608652_MS_244_0438.JP2",
+      "width": 1932,
+      "height": 7312,
+      "section": "Binding: Spine & Book-Block Edges (Canvas 438)"
+    },
+    {
+      "canvas_number": 439,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0439.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0439.JP2",
+      "jp2_filename": "b19608652_MS_244_0439.JP2",
+      "width": 5103,
+      "height": 1585,
+      "section": "Binding: Spine & Book-Block Edges (Canvas 439)"
+    },
+    {
+      "canvas_number": 440,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0440.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0440.JP2",
+      "jp2_filename": "b19608652_MS_244_0440.JP2",
+      "width": 5103,
+      "height": 1585,
+      "section": "Binding: Spine & Book-Block Edges (Canvas 440)"
+    },
+    {
+      "canvas_number": 441,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0441.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0441.JP2",
+      "jp2_filename": "b19608652_MS_244_0441.JP2",
+      "width": 5103,
+      "height": 7312,
+      "section": "End Reference / Colour Checker Shots (Canvas 441)"
+    },
+    {
+      "canvas_number": 442,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0442.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0442.JP2",
+      "jp2_filename": "b19608652_MS_244_0442.JP2",
+      "width": 5103,
+      "height": 7312,
+      "section": "End Reference / Colour Checker Shots (Canvas 442)"
+    },
+    {
+      "canvas_number": 443,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0443.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0443.JP2",
+      "jp2_filename": "b19608652_MS_244_0443.JP2",
+      "width": 5103,
+      "height": 7312,
+      "section": "End Reference / Colour Checker Shots (Canvas 443)"
+    },
+    {
+      "canvas_number": 444,
+      "canvas_id": "https://iiif.wellcomecollection.org/presentation/b19608652/canvases/b19608652_MS_244_0444.JP2",
+      "image_service": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0444.JP2",
+      "jp2_filename": "b19608652_MS_244_0444.JP2",
+      "width": 5103,
+      "height": 7312,
+      "section": "End Reference / Colour Checker Shots (Canvas 444)"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+# Facsimile images (served via Wellcome Collection IIIF API)
+*.jpg
+*.jpeg
+*.png
+images/
+
+# Large JSON bundle (attach to GitHub Release instead)
+MS244_edition_data.json
+ms244_explorer.html
+
+# OS / Python artifacts
+.DS_Store
+__pycache__/
+*.pyc

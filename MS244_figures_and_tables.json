@@ -1,0 +1,1912 @@
+[
+  {
+    "pIdx": 1,
+    "canvas_num": 8,
+    "orig_page": "Prelim. 1v",
+    "fig_id": "fig_c008_1",
+    "label": "Sundial Diagrams ('A trewe Est & weste erecte diall')",
+    "desc": "Pen-and-ink technical drawings of sundial plates and gnomon styles, labelled 'Stile', 'A trewe Est & weste erecte diall', and 'Another fassion Stile...', flanked by the signature of Henry Dingley.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0008.JP2/pct:16.62,74.54,65.51,14.09/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0008.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 7,
+    "canvas_num": 14,
+    "orig_page": "Prelim. 4v",
+    "fig_id": "fig_c014_1",
+    "label": "Sundial / Astronomical Quadrant Diagram",
+    "desc": "Pen-and-ink radiating hour-line diagram with semicircular base marked '12', 11 radiating lines labelled with Roman numerals (VI, V, IIII, III, II, I, IX/XII, XI, X, IX, VIII, VII, VI) and Arabic numerals (1-6), plus 'sole' and 'Zenith'.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0014.JP2/pct:24.87,19.83,54.80,35.15/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0014.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 9,
+    "canvas_num": 16,
+    "orig_page": "Prelim. 5v",
+    "fig_id": "fig_c016_1",
+    "label": "Dineley Coat of Arms (1613)",
+    "desc": "Small pen-and-ink heraldic shield at bottom left: Argent, a fess (chequy/embattled) sable, in chief a mullet between two roundels (arms of Dineley / Dingley).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0016.JP2/pct:19.04,80.69,8.16,7.11/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0016.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 22,
+    "canvas_num": 29,
+    "orig_page": "Prelim. 12r",
+    "fig_id": "fig_c029_1",
+    "label": "Perpetual Easter Table (Pryme 1-19 / Dominical Letters A-G)",
+    "desc": "Ruled 20-row by 9-column pen-and-ink table giving Easter Day dates for Golden Numbers ('Pryme') 1-19 and Dominical Letters A-G.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0029.JP2/pct:22.98,4.79,55.90,78.64/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0029.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 23,
+    "canvas_num": 30,
+    "orig_page": "Prelim. 12v",
+    "fig_id": "fig_c030_1",
+    "label": "Table of Weeks between Christmas and Shrove Sunday",
+    "desc": "Ruled 21-row by 8-column table ('Pryme' 1-19 vs. Dominical Letters A-G / 0-6) showing the number of weeks between Christmas and Shrove Sunday.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0030.JP2/pct:22.30,10.67,25.80,35.83/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0030.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 23,
+    "canvas_num": 30,
+    "orig_page": "Prelim. 12v",
+    "fig_id": "fig_c030_2",
+    "label": "Vertical Easter Table ('Ester for Euer')",
+    "desc": "Narrow 3-column table ('Prym | Dom lett'r | Day Ester') covering March 21 to April 18.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0030.JP2/pct:51.98,6.84,13.96,54.43/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0030.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 23,
+    "canvas_num": 30,
+    "orig_page": "Prelim. 12v",
+    "fig_id": "fig_c030_3",
+    "label": "Solar Cycle & Dominical Letter Table (1645-1668)",
+    "desc": "Three-tier horizontal table giving Anno Domini, Prime/Cycle (1-28), and Dominical Letters from 1645 to 1668.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0030.JP2/pct:22.30,64.96,67.88,21.88/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0030.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 29,
+    "canvas_num": 36,
+    "orig_page": "Prelim. 15v",
+    "fig_id": "fig_c036_1",
+    "label": "Red Chalk/Ochre Smear",
+    "desc": "Broad diagonal strokes of red chalk/ochre pigment across the upper left quadrant of the page.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0036.JP2/pct:16.32,6.84,35.53,29.40/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0036.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 29,
+    "canvas_num": 36,
+    "orig_page": "Prelim. 15v",
+    "fig_id": "fig_c036_2",
+    "label": "Fishing Plumb & Quill Float Diagrams",
+    "desc": "Two small pen-and-ink diagrams in the left margin illustrating lead plumbs: 'a plo[m]be w[i]t[h]out a quill' and 'a plu[m]be w[i]t[h] a quill'.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0036.JP2/pct:16.32,56.07,11.52,12.99/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0036.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 29,
+    "canvas_num": 36,
+    "orig_page": "Prelim. 15v",
+    "fig_id": "fig_c036_3",
+    "label": "Fishing Rod / Float Drawings",
+    "desc": "Two pen-and-ink drawings at the foot of the left column depicting a vertical tapered rod/float joint and a horizontal ringed/tapered ferrule or float.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0036.JP2/pct:16.90,84.79,33.99,11.62/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0036.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 30,
+    "canvas_num": 37,
+    "orig_page": "Prelim. 16r",
+    "fig_id": "fig_c037_1",
+    "label": "Parchment-Covered Drinking Glass for Toothache Smoke",
+    "desc": "Small pen-and-ink sketch at the bottom right showing a drinking glass covered with parchment, used with a tobacco pipe to condense smoke into oil for toothache.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0037.JP2/pct:71.11,88.89,6.43,5.20/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0037.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 31,
+    "canvas_num": 38,
+    "orig_page": "Prelim. 16v",
+    "fig_id": "fig_c038_1",
+    "label": "Surgical Pipe Diagram ('A Pype to heale thrustes')",
+    "desc": "Pen-and-ink drawing of a flared surgical pipe/cannula with a small side eyelet, captioned above: 'A Pype to heale thrustes pa 71 of my owne invencion . & in Box it will not bee muche Bygger in Lengthe 6 ins'.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0038.JP2/pct:50.89,60.86,35.53,6.84/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0038.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 47,
+    "canvas_num": 54,
+    "orig_page": "16",
+    "fig_id": "fig_c054_1",
+    "label": "Marginal Manicule",
+    "desc": "Small pen-and-ink pointing hand (manicule) in the lower-left margin beside 'Ad ulcera mala tibiarum pulchrum'.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0054.JP2/pct:14.28,85.48,4.00,3.42/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0054.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 52,
+    "canvas_num": 59,
+    "orig_page": "21",
+    "fig_id": "fig_c059_1",
+    "label": "Tipped-in Paper Slip (Closed)",
+    "desc": "Small rectangular paper slip tipped into the right column of p. 21, bearing two additional recipes ('allom flox & camfer or olde Soore...') and covering 'Ad ulcera antiqua' beneath it (revealed in Canvas 61).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0059.JP2/pct:47.49,47.18,36.60,13.27/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0059.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 54,
+    "canvas_num": 61,
+    "orig_page": "21",
+    "fig_id": "fig_c061_1",
+    "label": "Tipped-in Slip Lifted with Metal Spatula",
+    "desc": "A metal conservation spatula holds the tipped-in paper slip folded to the left, exposing the underlying recipe 'Ad ulcera antiqua' in the right column.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0061.JP2/pct:24.57,45.82,38.83,36.93/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0061.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 57,
+    "canvas_num": 64,
+    "orig_page": "26",
+    "fig_id": "fig_c064_1",
+    "label": "Tent and Plaster Pattern ('a.' and 'B.')",
+    "desc": "Pen-and-ink diagram of a trapezoidal piece of plaster ('a.') ready to roll a tent, alongside the finished rolled tent ('B.') with three turned-out ends at the mouth of the hole to pluck it out by.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0064.JP2/pct:16.69,18.87,32.24,4.38/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0064.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 57,
+    "canvas_num": 64,
+    "orig_page": "26",
+    "fig_id": "fig_c064_2",
+    "label": "Incised Quill Tent Diagrams",
+    "desc": "Two pen-and-ink drawings of a goose quill cut at the great end into six or more slits so it may lie flat as a linen tent, used in the 1613 hand-fistula case.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0064.JP2/pct:17.07,76.59,31.86,4.10/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0064.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 57,
+    "canvas_num": 64,
+    "orig_page": "26",
+    "fig_id": "fig_c064_3",
+    "label": "Margin Manicule (Pointing Hand)",
+    "desc": "Pen-and-ink pointing hand in the intercolumnar margin pointing to 'Vnguentum viride leniter fistulam mortificat' (Master Arderne's green ointment).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0064.JP2/pct:46.46,29.40,3.98,2.32/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0064.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 57,
+    "canvas_num": 64,
+    "orig_page": "26",
+    "fig_id": "fig_c064_4",
+    "label": "Bottom Margin Manicule (Pointing Hand)",
+    "desc": "Pen-and-ink pointing hand in the lower left margin pointing to 'An Exelent probe' made of dried beef sinew.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0064.JP2/pct:12.90,86.84,3.98,2.46/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0064.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 58,
+    "canvas_num": 65,
+    "orig_page": "27",
+    "fig_id": "fig_c065_1",
+    "label": "Upper Margin Manicule (Pointing Hand)",
+    "desc": "Pen-and-ink pointing hand in the right margin pointing to 'Nota . the probe made of a thumbe maye haue an eye in the greter end'.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0065.JP2/pct:79.19,70.16,7.52,3.69/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0065.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 58,
+    "canvas_num": 65,
+    "orig_page": "27",
+    "fig_id": "fig_c065_2",
+    "label": "Lower Margin Manicule (Pointing Hand)",
+    "desc": "Pen-and-ink pointing hand in the right margin pointing to 'I haue obserued that althoughe ye Sublimate be painefull...'.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0065.JP2/pct:79.19,80.69,7.52,3.56/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0065.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 60,
+    "canvas_num": 67,
+    "orig_page": "29",
+    "fig_id": "fig_c067_1",
+    "label": "Tent Made and Tent Unmade Diagrams",
+    "desc": "Two pen-and-ink drawings at the foot of the right column showing a rolled tent with turned-out ends ('y^e tent made') and the flat notched/slit plaster pattern ('the tente vn made').",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0067.JP2/pct:45.54,84.11,35.64,6.15/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0067.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 65,
+    "canvas_num": 72,
+    "orig_page": "34",
+    "fig_id": "fig_c072_1",
+    "label": "Marginal Manicule (Pointing Hand)",
+    "desc": "Pen-and-ink pointing hand (manicule) in the left margin directing attention to the woodbine note ('ad. ʒiã : pun the small leaues of woodbynd...').",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0072.JP2/pct:12.46,37.47,3.78,2.74/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0072.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 72,
+    "canvas_num": 79,
+    "orig_page": "41",
+    "fig_id": "fig_c079_1",
+    "label": "Manicule (Pointing Hand)",
+    "desc": "Pen-and-ink pointing hand (manicule) in the left margin of the right column, drawing attention to the clinical note on applying corrosives early in the morning ('Note yt when this & such other corrosiues are vsed...').",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0079.JP2/pct:47.31,39.66,4.16,2.05/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0079.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 74,
+    "canvas_num": 81,
+    "orig_page": "43",
+    "fig_id": "fig_c081_1",
+    "label": "Manicule (Pointing Hand)",
+    "desc": "Pen-and-ink pointing hand (manicule) in the right margin of the right column beside 'ffor the same vid pa: 63:'.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0081.JP2/pct:82.59,19.15,5.37,2.74/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0081.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 75,
+    "canvas_num": 82,
+    "orig_page": "44",
+    "fig_id": "fig_c082_1",
+    "label": "Manicule (Pointing Hand)",
+    "desc": "Pen-and-ink pointing hand (manicule) in the left margin at the top of p. 44, pointing to the note 'Looke in pa. 188. take notte of ye Escar'.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0082.JP2/pct:19.29,6.56,4.35,2.32/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0082.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 75,
+    "canvas_num": 82,
+    "orig_page": "44",
+    "fig_id": "fig_c082_2",
+    "label": "Iron Stirring Tool Diagram",
+    "desc": "Small inline pen-and-ink drawing of an iron tool with a hole on a staff ('an yorne w[i]t[h] hole on a staffe') used to stir molten lead into powder in 'To make cleane leade into pulder' (Mr. Sadler).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0082.JP2/pct:56.34,81.78,5.10,1.91/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0082.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 81,
+    "canvas_num": 88,
+    "orig_page": "50",
+    "fig_id": "fig_c088_1",
+    "label": "Marginal Manicule (Pointing Hand)",
+    "desc": "Pen-and-ink pointing hand (manicule) in the left margin directed toward the heading 'ffor an vlcer mr Drayer'.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0088.JP2/pct:17.39,17.10,8.32,6.15/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0088.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 93,
+    "canvas_num": 100,
+    "orig_page": "62",
+    "fig_id": "fig_c100_1",
+    "label": "Manicule (Pointing Hand)",
+    "desc": "Pen-and-ink pointing hand (manicule) in the left margin pointing to 'An Exelent plaster' and the note on a broken shin just above it.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0100.JP2/pct:19.73,26.81,8.08,4.65/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0100.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 96,
+    "canvas_num": 103,
+    "orig_page": "65",
+    "fig_id": "fig_c103_1",
+    "label": "Marginal Manicule",
+    "desc": "Pen-and-ink pointing hand (manicule) in the right margin pointing to the 'Aliter' receipt using linen cloth wet in frog spawn and dried in the sun.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0103.JP2/pct:77.76,44.45,4.86,2.74/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0103.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 98,
+    "canvas_num": 105,
+    "orig_page": "67",
+    "fig_id": "fig_c105_1",
+    "label": "Harelip Suture Knot Diagram 1",
+    "desc": "Pen-and-ink diagram in the right margin showing the figure-of-eight thread winding around the surgical needle for harelip repair.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0105.JP2/pct:75.49,12.31,9.73,3.42/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0105.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 98,
+    "canvas_num": 105,
+    "orig_page": "67",
+    "fig_id": "fig_c105_2",
+    "label": "Harelip Suture Knot Diagram 2",
+    "desc": "Second pen-and-ink diagram in the right margin showing the double-loop suture winding around the needle.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0105.JP2/pct:74.90,22.57,10.31,4.79/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0105.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 99,
+    "canvas_num": 106,
+    "orig_page": "68",
+    "fig_id": "fig_c106_1",
+    "label": "Dry-Stitching Triangular Plasters",
+    "desc": "Pen-and-ink diagram of two hatched three-square (triangular) linen plasters laced together across a wound with double thread.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0106.JP2/pct:25.93,76.59,14.47,10.26/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0106.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 99,
+    "canvas_num": 106,
+    "orig_page": "68",
+    "fig_id": "fig_c106_2",
+    "label": "Round-Headed Suture Pins",
+    "desc": "Pen-and-ink diagram of two circular/cross-headed surgical pins or clasps used for wound closure.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0106.JP2/pct:55.99,60.86,12.59,5.47/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0106.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 99,
+    "canvas_num": 106,
+    "orig_page": "68",
+    "fig_id": "fig_c106_3",
+    "label": "Bandaged Legs (Dry Stitching)",
+    "desc": "Pen-and-ink anatomical drawing of two human legs (frontal and profile views) illustrating dry-stitching plasters and roller bandages applied to the calf and shin.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0106.JP2/pct:56.37,66.74,15.41,18.74/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0106.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 102,
+    "canvas_num": 109,
+    "orig_page": "71",
+    "fig_id": "fig_c109_1",
+    "label": "Glyster Pipe / Wound Syringe",
+    "desc": "Pen-and-ink drawing of a small tapered glyster pipe / cannula used to inject warm alkanet wound oil deep into narrow thrust wounds.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0109.JP2/pct:21.79,40.34,20.04,3.15/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0109.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 106,
+    "canvas_num": 113,
+    "orig_page": "75",
+    "fig_id": "fig_c113_1",
+    "label": "Marginal Manicule (Pointing Hand)",
+    "desc": "Pen-and-ink pointing hand (manicule) in the right margin pointing left toward 'Digestiu[m] et faciens nasci carnem'.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0113.JP2/pct:81.22,36.24,7.74,2.87/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0113.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 110,
+    "canvas_num": 117,
+    "orig_page": "79",
+    "fig_id": "fig_c117_1",
+    "label": "Wooden Box ('ye Box')",
+    "desc": "Pen-and-ink drawing of a cylindrical lidded wooden box with cross-hatched shading, labelled 'ye Box', illustrating the vessel used to shake and sift the lead and chalk powder.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0117.JP2/pct:76.02,60.86,8.12,5.88/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0117.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 110,
+    "canvas_num": 117,
+    "orig_page": "79",
+    "fig_id": "fig_c117_2",
+    "label": "Wooden Mortar ('ye morter')",
+    "desc": "Pen-and-ink drawing of a deep cylindrical wooden mortar with cross-hatched shading, labelled 'ye morter', illustrating the thick-bottomed mortar described in the text.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0117.JP2/pct:76.02,72.21,8.12,6.02/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0117.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 111,
+    "canvas_num": 118,
+    "orig_page": "80",
+    "fig_id": "fig_c118_1",
+    "label": "Manicule (Left Margin, Upper)",
+    "desc": "Pen-and-ink pointing hand (manicule) in the left margin pointing to the Sanatiuum receipt ('℞ Cice in Juyse Berorum...').",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0118.JP2/pct:18.65,35.28,3.39,2.19/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0118.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 111,
+    "canvas_num": 118,
+    "orig_page": "80",
+    "fig_id": "fig_c118_2",
+    "label": "Manicule (Left Margin, Lower)",
+    "desc": "Pen-and-ink pointing hand (manicule) in the left margin pointing to the note on the white plaster and alum water.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0118.JP2/pct:18.65,72.76,3.39,2.19/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0118.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 114,
+    "canvas_num": 121,
+    "orig_page": "83",
+    "fig_id": "fig_c121_1",
+    "label": "Manicule pointing to 1629 Broken Shin Note",
+    "desc": "Pen-and-ink pointing hand (manicule) at bottom right margin pointing left toward the dated clinical note 'Nota: R.D. hauing a Broken Shinn long in healinge ... Aprill 1629.'",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0121.JP2/pct:77.76,85.89,4.84,2.32/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0121.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 117,
+    "canvas_num": 124,
+    "orig_page": "86",
+    "fig_id": "fig_c124_1",
+    "label": "Manicule pointing to 'A plastor to drye and heale'",
+    "desc": "Pen-and-ink pointing hand (manicule) in the outer left margin pointing right toward 'CC 4. Sallet oile ʒ iij yellow wax...' under 'A plastor to drye and heale'.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0124.JP2/pct:9.73,70.43,4.49,3.15/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0124.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 122,
+    "canvas_num": 129,
+    "orig_page": "91",
+    "fig_id": "fig_c0129_1",
+    "label": "Manicule (Pointing Hand)",
+    "desc": "Pen-and-ink pointing hand (manicule) in the left margin beside the note on purging the stomach ('used to purge the Stomake w[i]t[h] Sum purgaton or pille').",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0129.JP2/pct:8.08,30.09,6.54,3.83/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0129.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 128,
+    "canvas_num": 135,
+    "orig_page": "96",
+    "fig_id": "fig_c135_1",
+    "label": "Pointing Hand (Manicule)",
+    "desc": "Pen-and-ink pointing hand (manicule) in the right column pointing to the note 'ut in pa 139. so well but make water, and dab it for proude flesh'.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0135.JP2/pct:41.36,70.02,5.17,3.56/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0135.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 133,
+    "canvas_num": 140,
+    "orig_page": "101",
+    "fig_id": "fig_c140_1",
+    "label": "Manicule (Pointing Hand)",
+    "desc": "Pen-and-ink pointing hand (manicule) in the left margin of column 2, drawing attention to the receipt for 'Agrimony water' / 'Doctor Butlers water'.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0140.JP2/pct:55.06,73.85,4.07,2.74/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0140.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 134,
+    "canvas_num": 141,
+    "orig_page": "102",
+    "fig_id": "fig_c141_1",
+    "label": "Manicule ('Brestes')",
+    "desc": "Pen-and-ink pointing hand (manicule) in the lower left margin beneath 'Brestes', directing attention to the full-width receipt for a sore breast at the foot of the page.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0141.JP2/pct:4.97,85.20,4.78,2.74/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0141.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 135,
+    "canvas_num": 142,
+    "orig_page": "103",
+    "fig_id": "fig_c142_1",
+    "label": "Manicule (30-40 Years' Practice Note)",
+    "desc": "Pen-and-ink pointing hand (manicule) in the left margin pointing to the practitioner's empirical observation: 'After xxx or xl yeares practis, I found that the often changing the plaster did hinder the cure...'",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0142.JP2/pct:21.23,74.54,5.54,3.42/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0142.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 135,
+    "canvas_num": 142,
+    "orig_page": "103",
+    "fig_id": "fig_c142_2",
+    "label": "Small Manicule (End of Left Column)",
+    "desc": "Small pen-and-ink pointing hand at the bottom right of the left column next to 'wth iij or iv plasters finished the cure.'",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0142.JP2/pct:53.16,83.70,4.43,3.15/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0142.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 151,
+    "canvas_num": 158,
+    "orig_page": "121",
+    "fig_id": "fig_c158_1",
+    "label": "Marginal Manicule",
+    "desc": "Pen-and-ink pointing hand (manicule) in the left margin pointing to 'ffor ache and Spraines'.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0158.JP2/pct:20.69,37.47,3.14,2.19/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0158.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 163,
+    "canvas_num": 170,
+    "orig_page": "132",
+    "fig_id": "fig_c170_1",
+    "label": "Manicule (Pointing Hand)",
+    "desc": "Pen-and-ink pointing hand (manicule) in the left margin pointing to 'An Exelent playster for the Gowte'.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0170.JP2/pct:20.63,10.60,5.89,3.21/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0170.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 201,
+    "canvas_num": 208,
+    "orig_page": "170",
+    "fig_id": "fig_c208_1",
+    "label": "Standing Male Figure Wearing Hernia Truss",
+    "desc": "Pen-and-ink full-length drawing of a standing man wearing the cross-shoulder and groin hernia truss described in 'An Easy trusse & good', flanked by explanatory text.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0208.JP2/pct:66.51,53.06,11.48,16.14/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0208.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 201,
+    "canvas_num": 208,
+    "orig_page": "170",
+    "fig_id": "fig_c208_2",
+    "label": "Labelled Hernia Truss Technical Diagram",
+    "desc": "Pen-and-ink technical diagram of the hernia truss laid flat, showing waist band (:a to :B:), shoulder straps (k, l), leg straps (c, d), stay (e, e), pad for broken side (f), and pad for whole side (h, i).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0208.JP2/pct:57.94,69.34,28.61,11.62/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0208.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 213,
+    "canvas_num": 220,
+    "orig_page": "182",
+    "fig_id": "fig_c220_1",
+    "label": "Pointing Manicule (Left Margin)",
+    "desc": "Pen-and-ink pointing hand (manicule) in the left margin drawing attention to the note on preparing calcined marrow bones ('Take mary Bone Burnt is called ossa Cremosa').",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0220.JP2/pct:20.84,57.44,5.44,3.01/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0220.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 246,
+    "canvas_num": 253,
+    "orig_page": "215",
+    "fig_id": "fig_c253_1",
+    "label": "Manicule (Pointing Hand)",
+    "desc": "Pen-and-ink pointing hand (manicule) in the left margin pointing to 'Many think this dysease is the hardnes of the Spleene'.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0253.JP2/pct:5.32,53.34,3.23,3.42/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0253.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 254,
+    "canvas_num": 261,
+    "orig_page": "223",
+    "fig_id": "fig_c261_1",
+    "label": "Marginal Manicule",
+    "desc": "Pen-and-ink pointing hand (manicule) in the right margin beside 'Pillule in collica G. D. Bauariæ', directing attention to the pill dosage.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0261.JP2/pct:77.38,44.86,6.30,2.46/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0261.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 259,
+    "canvas_num": 266,
+    "orig_page": "228",
+    "fig_id": "fig_c266_1",
+    "label": "Marginal Manicule (Pointing Hand)",
+    "desc": "Pen-and-ink pointing hand (manicule) in the central gutter margin between columns, pointing right to the dated February 1629/30 case note of J. W.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0266.JP2/pct:52.33,35.28,4.36,3.83/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0266.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 307,
+    "canvas_num": 314,
+    "orig_page": "276",
+    "fig_id": "fig_c314_1",
+    "label": "Manicule (Pointing Hand)",
+    "desc": "Small pen-and-ink manicule in the left margin of the right column pointing to the astrological timing note for worm medicines ('All medicines geven for the wormes must be geven...').",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0314.JP2/pct:59.56,11.08,4.28,2.05/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0314.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 308,
+    "canvas_num": 315,
+    "orig_page": "277",
+    "fig_id": "fig_c315_1",
+    "label": "Manicule (Pointing Hand)",
+    "desc": "Pen-and-ink manicule in the right margin pointing to the receipt 'To kill wormes in children' (ivory shaven on oak leaves, walnut distillation).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0315.JP2/pct:77.96,68.65,7.72,3.28/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0315.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 314,
+    "canvas_num": 321,
+    "orig_page": "283",
+    "fig_id": "fig_c321_1",
+    "label": "Boxwood Ear-Fume Pipe Diagram",
+    "desc": "Small pen-and-ink drawing of a slender turned boxwood pipe or funnel ('for a pype pa: 71 made of Box nott muche bigger then this picture'), used to channel steam from boiled mallows in an earthen pot into the ear.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0321.JP2/pct:11.29,63.59,17.52,3.01/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0321.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 322,
+    "canvas_num": 329,
+    "orig_page": "291",
+    "fig_id": "fig_c329_1",
+    "label": "Manicule (Pointing Hand)",
+    "desc": "Pen-and-ink manicule (pointing hand) in the left margin of the left column at the foot of the page, highlighting the note on keeping copperas in a parchment- and lead-covered glass.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0329.JP2/pct:15.15,88.62,5.24,2.46/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0329.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 342,
+    "canvas_num": 349,
+    "orig_page": "311",
+    "fig_id": "fig_c349_1",
+    "label": "Alchemical Diagram for Aurum Potabile",
+    "desc": "Concentric circular pen-and-ink diagram in the right column. Center: 'ignis contra natura[m]'. Inner ring quadrants: 'A', 'B', 'C', 'D'. Outer ring quadrants: 'marcasita solis mall[eata]' (A), 'Succu[s] lunarie' (B), 'Sulphur Rubrum.' (C), 'materia arge[n]tea' (D).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0349.JP2/pct:52.93,33.92,25.98,18.05/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0349.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 353,
+    "canvas_num": 360,
+    "orig_page": "332",
+    "fig_id": "fig_c360_1",
+    "label": "Manicule (Pointing Hand)",
+    "desc": "Pen-and-ink manicule (pointing hand) in the lower right column pointing to the clinical note 'I did geve this medicyne that doth next followe for all agues hott and colde...'.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0360.JP2/pct:55.86,79.87,3.75,2.60/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0360.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 354,
+    "canvas_num": 361,
+    "orig_page": "333",
+    "fig_id": "fig_c361_1",
+    "label": "Manicule (Pointing Hand)",
+    "desc": "Pen-and-ink pointing hand (manicule) in the right margin beside the August 1623 note on colouring distilled water with red rose leaves.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0361.JP2/pct:81.04,50.60,5.23,3.01/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0361.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 357,
+    "canvas_num": 364,
+    "orig_page": "336",
+    "fig_id": "fig_c364_1",
+    "label": "Manicule (Pointing Hand)",
+    "desc": "Pen-and-ink pointing hand (manicule) in the center gutter beside the end of 'A ptizan for the cough'.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0364.JP2/pct:51.02,76.86,4.82,3.01/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0364.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 358,
+    "canvas_num": 365,
+    "orig_page": "337",
+    "fig_id": "fig_c365_1",
+    "label": "Splinted Lower Leg and Foot",
+    "desc": "Pen-and-ink anatomical drawing of a lower leg and foot bound in splints and bandages, with a cross-mark '+' at left and 'vide 297.' above.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0365.JP2/pct:15.15,7.11,15.93,21.33/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0365.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 358,
+    "canvas_num": 365,
+    "orig_page": "337",
+    "fig_id": "fig_c365_2",
+    "label": "Manicule (Pointing Hand)",
+    "desc": "Small pen-and-ink pointing hand at the bottom right beside 'Looke on the & on the next in the ende at'.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0365.JP2/pct:68.58,89.72,4.08,1.91/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0365.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 359,
+    "canvas_num": 366,
+    "orig_page": "338",
+    "fig_id": "fig_c366_1",
+    "label": "Manicule (Pointing Hand)",
+    "desc": "Pen-and-ink manicule (pointing hand) in the intercolumnar margin pointing to the Latin note on Osteocolla near Heidelberg and Jena ('Item prope Heidelburgam ac Jenam Saxonie').",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0366.JP2/pct:55.33,84.79,3.93,2.46/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0366.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 382,
+    "canvas_num": 389,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c389_1",
+    "label": "Unfinished 20-Quartering Heraldic Achievement Cartouche",
+    "desc": "Large pen-and-ink and yellow-ochre wash Renaissance strapwork cartouche enclosing a 5-column by 4-row grid of 20 quarterings. Most quarters are blank; tricked pen-and-ink charges appear in Row 1 Col 2 (two engrailed bendlets), Row 1 Col 4 (two lions passant in pale with a crescent in sinister chief), Row 2 Col 1 (three chess rooks, 2 and 1), Row 2 Col 2 (a saltire engrailed between four mullets), Row 2 Col 4 (two faint diagonal strokes), Row 3 Col 1 (a voided cross with a faint sketch in sinister chief), and Row 3 Col 4 (a lion rampant), with occasional red tricking dots.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0389.JP2/pct:14.83,31.46,58.13,48.14/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0389.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 384,
+    "canvas_num": 391,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c0391_1",
+    "label": "Armorial Grid: 30 Emblazoned Shields (Ordinary of Crosses)",
+    "desc": "Six rows of five painted coats of arms (30 shields total), each featuring a cross (plain, ermine, checky, bendy, or charged with annulets, mullets, martlets, fleurs-de-lis, cinquefoils, or labels), with family names inscribed above each shield.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0391.JP2/pct:7.41,8.48,78.75,83.15/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0391.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 386,
+    "canvas_num": 393,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c0393_1",
+    "label": "Armorial Grid: 8 Emblazoned Shields & 22 Blank Shield Outlines",
+    "desc": "Six rows of five shield outlines (30 total): Row 1 (5 shields) and Row 2 cols 1-3 (3 shields) are painted with crosses and labelled; the remaining 22 shields are blank pencil outlines awaiting emblazonment.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0393.JP2/pct:6.83,8.89,78.62,82.47/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0393.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 388,
+    "canvas_num": 395,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c395_row1",
+    "label": "Armorial Shields Row 1 (5 emblazoned shields)",
+    "desc": "Row 1 (L-R): [Unlabelled] Argent a cross Gules charged with 5 mullets Argent; Aboloyne (Argent a cross Sable charged with 5 eagles displayed Argent); Birlingham (Or a cross Gules charged with 5 fleurs-de-lis Argent); Boynton (Or a cross Sable charged with 5 bull's heads erased Argent); Bygod (Or a cross Gules charged with 5 plates).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0395.JP2/pct:7.41,7.93,78.00,12.86/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0395.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 388,
+    "canvas_num": 395,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c395_row2",
+    "label": "Armorial Shields Row 2 (4 emblazoned shields, 1 blank outline)",
+    "desc": "Row 2 (L-R): [Unlabelled] Or a cross Gules charged with 5 escallops Argent; Cornwall devon (Argent a cross Sable charged with 5 bezants); Criktoftes (Azure a cross Argent charged with 5 escallops Gules); Durtynt Essex (blank outline); Digges kent (Gules a cross Argent charged with 5 eagles displayed Sable).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0395.JP2/pct:7.41,22.98,78.00,12.86/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0395.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 388,
+    "canvas_num": 395,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c395_row3",
+    "label": "Armorial Shields Row 3 (5 emblazoned shields)",
+    "desc": "Row 3 (L-R): Ellis (Or a cross Sable charged with 5 crescents Argent); fronyll wig (Or a cross Gules charged with 4 lozenges Argent and 1 lozenge vair); Lincolne (Argent a cross Azure charged with 5 estoiles Or); Lacer (Or a cross Azure charged with 5 roses Argent); newent (Sable a cross Argent charged with 5 eagles displayed Sable).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0395.JP2/pct:7.41,37.47,78.00,12.86/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0395.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 388,
+    "canvas_num": 395,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c395_row4",
+    "label": "Armorial Shields Row 4 (5 emblazoned shields)",
+    "desc": "Row 4 (L-R): Randolph (Gules a cross Argent charged with 5 mullets Sable); Russell (Or a cross Sable charged with 5 mullets Argent); St Albons town (Ermine a cross Gules charged with 5 bezants); Thrimplington (Argent a cross Gules charged with 5 escallops Argent); Stoneham (Argent a cross Sable charged with 5 escallops Or).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0395.JP2/pct:7.41,51.97,78.00,12.58/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0395.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 388,
+    "canvas_num": 395,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c395_row5",
+    "label": "Armorial Shields Row 5 (2 emblazoned shields, 3 blank outlines)",
+    "desc": "Row 5 (L-R): Weyland (blank outline); Wickforde (Or a cross Gules charged with 5 lions rampant Argent); wale (Argent a cross Sable charged with 5 lions rampant Argent); Verney (blank outline); [Unlabelled] (blank outline with faint sketched cross).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0395.JP2/pct:7.41,66.19,78.00,12.58/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0395.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 388,
+    "canvas_num": 395,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c395_row6",
+    "label": "Armorial Shields Row 6 (5 blank shield outlines)",
+    "desc": "Row 6 (L-R): Five blank unlabelled shield outlines.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0395.JP2/pct:7.41,80.14,78.00,10.94/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0395.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 390,
+    "canvas_num": 397,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c397_row1",
+    "label": "Armorial Shields Row 1 (5 emblazoned shields)",
+    "desc": "Row 1 (L-R): Burnham (Sable a cross Argent between 4 crescents Argent); Burye (Argent a cross Sable between 4 martlets Sable); Cockfielde (Azure a cross Or between 4 cocks Or); Coupland Lond. (Or on a cross Sable between 4 oak leaves Vert 5 mullets Argent); Coggeshall Essex (Argent a cross Sable between 4 escallops Sable).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0397.JP2/pct:7.41,7.93,78.02,12.86/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0397.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 390,
+    "canvas_num": 397,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c397_row2",
+    "label": "Armorial Shields Row 2 (5 emblazoned shields)",
+    "desc": "Row 2 (L-R): Dalton (Argent a cross Azure between 4 ducks Vert); Dokesworth (Azure a cross Argent between 4 lions rampant Argent); Doaldoone (Argent a cross Vert between 4 martlets/popinjays Vert); Dabeney norff (Argent a cross Gules between 4 lions rampant Gules); Dabeney camb (Azure a cross Or between 4 lions rampant Or).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0397.JP2/pct:7.41,22.98,78.02,12.86/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0397.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 390,
+    "canvas_num": 397,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c397_row3",
+    "label": "Armorial Shields Row 3 (4 emblazoned shields, 1 blank)",
+    "desc": "Row 3 (L-R): Frebant Buks. (Gules a cross Or between 4 groups of 3 cross-crosslets Or); flammocke corn (Argent a cross Gules between 4 mullets Gules pierced Or); Flyed (Argent on a cross Or 6 gouttes de sang between 4 birds Argent); Flote (Argent a cross Gules between 4 suns Gules); kingston (blank/unpainted).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0397.JP2/pct:7.41,37.47,78.02,12.86/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0397.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 390,
+    "canvas_num": 397,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c397_row4",
+    "label": "Armorial Shields Row 4 (5 emblazoned shields)",
+    "desc": "Row 4 (L-R): Lyster yorks (Argent on a cross Argent 5 roundels Gules charged with suns Or between 4 martlets Argent); Merbery (Sable a cross Argent between 4 tau crosses Argent); Smyth (Argent on a cross Gules between 4 roses Gules 5 mullets Or); Traylie (Argent a cross Gules between 4 martlets Gules); wodhowse (Or a cross Gules between 4 groups of 3 cross-crosslets Gules).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0397.JP2/pct:7.41,51.97,78.02,12.58/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0397.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 390,
+    "canvas_num": 397,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c397_row5",
+    "label": "Armorial Shields Row 5 (1 emblazoned shield, 4 blank outlines)",
+    "desc": "Row 5 (L-R): wybill (Gules a cross Argent between 4 six-pointed mullets Argent); Cols 2-5 (4 blank unlabelled shield outlines).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0397.JP2/pct:7.41,66.19,78.02,12.58/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0397.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 390,
+    "canvas_num": 397,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c397_row6",
+    "label": "Armorial Shields Row 6 (5 blank shield outlines)",
+    "desc": "Row 6 (L-R): Five blank unlabelled shield outlines.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0397.JP2/pct:7.41,80.14,78.02,10.94/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0397.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 392,
+    "canvas_num": 399,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c399_row1",
+    "label": "Armorial Shields Row 1 (4 emblazoned shields, 1 blank outline)",
+    "desc": "Row 1 (L-R): Abraham patriark (blank shield outline); Athelstan Rex (Per saltire Gules and Azure, a cross botonny Or); Alfridus Rex (Chequy Or and Gules, on a chief Sable a lion passant guardant Or); Arthur Rex (Vert, a cross Argent, in the first quarter a figure of the Virgin and Child); Asclepiodotus (Sable, ten bezants Or, 4, 3, 2, 1).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0399.JP2/pct:7.41,6.56,78.35,13.40/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0399.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 392,
+    "canvas_num": 399,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c399_row2",
+    "label": "Armorial Shields Row 2 (4 emblazoned shields, 1 ink outline)",
+    "desc": "Row 2 (L-R): Ablehall gloster (Or, a fess Gules); Abell kent (unpainted ink outline of a saltire); Acton (Gyronny of eight Gules and Argent, in chief an annulet); Acton (Gules, a fess Ermine within a bordure engrailed Ermine); Acton (Quarterly per fess indented Argent and Gules, a bend Sable).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0399.JP2/pct:7.41,20.79,78.35,13.40/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0399.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 392,
+    "canvas_num": 399,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c399_row3",
+    "label": "Armorial Shields Row 3 (5 emblazoned shields)",
+    "desc": "Row 3 (L-R): Acton Antingham (Sable, a bend Argent); Achard Barks (Argent, a bend engrailed Sable); Acheley (Gules, on a fess Argent between three griffins' heads erased Or three crosses crosslet fitchy Sable); Acre Westmorland (Gules, three escallops between seven trefoils slipped Argent); Abelin (Argent, three fleurs-de-lis Sable).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0399.JP2/pct:7.41,35.01,78.35,13.40/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0399.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 392,
+    "canvas_num": 399,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c399_row4",
+    "label": "Armorial Shields Row 4 (5 emblazoned shields)",
+    "desc": "Row 4 (L-R): Adam middlesex (Argent, on a bend Sable three trefoils slipped Or); Aderton (Sable, two bends Argent within a bordure Sable); Addam (Argent, a cross Gules); Alberte (Argent, a chevron between three bears' heads couped Sable); Aldwincle (Argent, a cross formy Gules charged with a mullet Or).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0399.JP2/pct:7.41,49.23,78.35,13.40/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0399.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 392,
+    "canvas_num": 399,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c399_row5",
+    "label": "Armorial Shields Row 5 (5 emblazoned shields)",
+    "desc": "Row 5 (L-R): Algernonns (Or, a lion rampant Purpure); Alford (Gules, a fret Argent); Alford (Gules, three pears pendant Or); Alderforte (Vert, a saltire Argent); Alboroughe (Sable, a fess between three crescents Argent).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0399.JP2/pct:7.41,63.46,78.35,13.40/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0399.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 392,
+    "canvas_num": 399,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c399_row6",
+    "label": "Armorial Shields Row 6 (4 emblazoned shields, 1 ink sketch)",
+    "desc": "Row 6 (L-R): Allmgton (Sable, a bend engrailed between six billets Argent); Alreed (Gules, a chevron between three griffins' heads erased Argent); Allwen Devon (unpainted ink sketch: three lions passant in pale impaling two indistinct charges); Alfrey Sussex (Per fess Sable and Argent, a pale counterchanged, three greyhounds' heads erased Argent collared Or); Alleyne (Per chevron Argent and Sable, four martlets counterchanged).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0399.JP2/pct:7.41,77.68,78.35,13.13/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0399.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 393,
+    "canvas_num": 400,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c400_pedigree",
+    "label": "FitzAlan Earls of Arundel Pedigree Diagram (Part 1)",
+    "desc": "Pen-and-ink genealogical tree of 24 circular roundels (one empty double-rimmed roundel at top, 23 inscribed roundels) linked by parallel marriage bars and descent lines, with a hatched continuation line below Richard Beauchamp leading to Canvas 402.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0400.JP2/pct:21.25,6.84,71.72,82.06/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0400.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 394,
+    "canvas_num": 401,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c401_row1",
+    "label": "Armorial Shields Row 1 (4 emblazoned shields, 1 blank outline)",
+    "desc": "Row 1 (L-R): Alleyne of Raley essex (Argent, a chevron Purpure charged with three crescents Argent between three talbots Sable); Alleyn thaxsted essex (Or, three pellets each charged with a lion passant Or, on a chief Gules a lion passant between two anchors Or); Alyef kent (Sable, a lion rampant Argent between three crosses formy Or within a bordure gobony Argent and Gules); Ammarle (blank shield outline); Anmarle (Argent, three bars Purpure surrounded by flames Gules).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0401.JP2/pct:7.41,6.56,78.36,13.40/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0401.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 394,
+    "canvas_num": 401,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c401_row2",
+    "label": "Armorial Shields Row 2 (4 emblazoned shields, 1 blank outline)",
+    "desc": "Row 2 (L-R): Andesley (Argent, two lion's gambs erased in saltire Gules); Ammory (Argent, on a bend Or three eagles displayed Sable); Amcottes (Argent, three covered cups Sable, on a chief Gules a tower between two lions passant Or); Amydas (blank shield outline); Antingham (Sable, a bend Argent).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0401.JP2/pct:7.41,20.79,78.36,13.40/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0401.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 394,
+    "canvas_num": 401,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c401_row3",
+    "label": "Armorial Shields Row 3 (5 emblazoned shields)",
+    "desc": "Row 3 (L-R): Andrew suff (Argent, on a bend cotised Sable three mullets Argent); Anderton (Sable, three shackle-bolts Argent); Angell or Aungell (Or, four fusils in fess Azure); Anne ox (Argent, on a bend Sable three martlets Argent, in sinister chief a crescent Sable); Annelet (Per saltire Gules and Purpure, four annulets Or counterchanged).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0401.JP2/pct:7.41,35.01,78.36,13.40/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0401.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 394,
+    "canvas_num": 401,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c401_row4",
+    "label": "Armorial Shields Row 4 (5 emblazoned shields)",
+    "desc": "Row 4 (L-R): Ancell (Argent, a fess Gules charged with three crosses crosslet Or); Anthony fersy (Per pale Or and Gules, a tau cross Azure, in base a pile Ermine); Anulett (Argent, three annulets Sable); Antelfeilde (Argent, a chevron/mount Sable charged with three crosses crosslet Argent, in chief two stags rampant Gules); Anscell & Anstell (Gules, a saltire engrailed Argent between four roundels Or).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0401.JP2/pct:7.41,49.23,78.36,13.40/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0401.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 394,
+    "canvas_num": 401,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c401_row5",
+    "label": "Armorial Shields Row 5 (4 emblazoned shields, 1 blank outline)",
+    "desc": "Row 5 (L-R): Appleton (Argent, a fess Sable between three apples Gules); Appurley (Argent, a chevron Gules between three pinecones Gules); Appleton (Argent, three pinecones Vert); Appadam (blank shield outline); Anners Cheshire / Danuers (Gules, a chevron between three mullets Or).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0401.JP2/pct:7.41,63.46,78.36,13.40/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0401.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 394,
+    "canvas_num": 401,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c401_row6",
+    "label": "Armorial Shields Row 6 (5 emblazoned shields)",
+    "desc": "Row 6 (L-R): Applebye suf (Purpure, six martlets Or, 3, 2, 1); Aldeen (Argent, three crescents within a bordure engrailed Gules); Appulton (Vert, a fess engrailed Argent charged with three apples Gules); Apolton (Argent, a bear rampant Sable); Applyard (Purpure, a chevron Or between three owls Argent).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0401.JP2/pct:7.41,77.68,78.36,13.13/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0401.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 395,
+    "canvas_num": 402,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c402_pedigree",
+    "label": "FitzAlan Earls of Arundel Pedigree Diagram (Part 2)",
+    "desc": "Pen-and-ink genealogical tree of 16 circular roundels (15 inscribed, 1 empty) linked by parallel marriage bars and descent lines, continuing the Arundel and Beauchamp/Neville lines from Canvas 400.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0402.JP2/pct:21.25,8.21,49.58,76.59/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0402.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 396,
+    "canvas_num": 403,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c403_row1",
+    "label": "Armorial Shields Row 1 (5 emblazoned shields)",
+    "desc": "Row 1 (L-R): Appulbye (Argent a bend Sable charged with 3 plates); Alebaster (Argent/Ermine a crossbow bent Gules among ermine spots/flies); Arsake (Gules a bend Or between 2 cotises Argent); Arden Ches: lan: (Gules 3 crosses crosslet fitchée Or, a chief indented Or); Arwod: uel: harwod (Argent 3 hares courant proper).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0403.JP2/pct:7.79,8.48,76.97,12.31/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0403.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 396,
+    "canvas_num": 403,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c403_row2",
+    "label": "Armorial Shields Row 2 (5 emblazoned shields)",
+    "desc": "Row 2 (L-R): Argentyne anceter: (Argent a chevron Purpure); Argum (Argent a chevron between 3 martlets Sable); Arras (Argent a chevron Sable); Ardborough (Argent a chevron engrailed between 3 escallops Sable); Arthur (Gules a chevron Argent between 3 hunting horns/clarions Or).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0403.JP2/pct:7.79,22.98,76.97,12.31/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0403.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 396,
+    "canvas_num": 403,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c403_row3",
+    "label": "Armorial Shields Row 3 (5 emblazoned shields)",
+    "desc": "Row 3 (L-R): Argestym argentyne (Gules 3 covered cups Argent); Arches (Gules 3 arches/a double-arched bridge Argent masoned Sable); Archdeacon: Deuo[n] (Argent 3 chevrons Sable); Arundell: west (Quarterly: 1st Argent 6 swallows/martlets Sable, 2nd-4th with brown/gold stains); Arture (Sable 3 fleurs-de-lis Argent, a chief Or).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0403.JP2/pct:7.79,37.20,76.97,12.31/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0403.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 396,
+    "canvas_num": 403,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c403_row4",
+    "label": "Armorial Shields Row 4 (5 emblazoned shields)",
+    "desc": "Row 4 (L-R): Arthington: (Argent a fess between 3 escallops Sable); Ardeyn: (Argent a fess voided/two bars between 3 crescents Gules); Aderne: war: (Argent a fess checky Or and Azure/Purpure); Arfece: (Argent 3 triple-towered castles Gules); Ardys (Argent a bend between 6 martlets Sable).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0403.JP2/pct:7.79,51.70,76.97,12.31/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0403.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 396,
+    "canvas_num": 403,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c403_row5",
+    "label": "Armorial Shields Row 5 (5 emblazoned shields)",
+    "desc": "Row 5 (L-R): Ardern: Irland (Per pale Purpure and Gules, a lion rampant Argent); Aernest (Argent 3 holly/oak leaves Vert); Arundell of Treris (Sable 3 chevrons Argent); Ardington: (Purpure/Azure 2 lions passant guardant Or); Arnolde (Argent 3 escallops Sable).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0403.JP2/pct:7.79,65.92,76.97,12.31/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0403.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 396,
+    "canvas_num": 403,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c403_row6",
+    "label": "Armorial Shields Row 6 (5 emblazoned shields)",
+    "desc": "Row 6 (L-R): Arderne: (Vert a lion rampant Argent); Ashley: (Sable on a pale engrailed Argent 3 crescents Gules); Asteley (Gules a lion rampant Argent within an orle of crosses crosslet Or); Asbornham: sus: (Gules a fess between 6 mullets Argent); Ashton: (Argent a chevron between 3 annulets/chaplets Gules).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0403.JP2/pct:7.79,80.14,76.97,11.21/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0403.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 397,
+    "canvas_num": 404,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c404_1",
+    "label": "Pedigree Diagram of De Vere, Earls of Oxford (Part 1)",
+    "desc": "Pen-and-ink genealogical tree with 15 roundels (2 blank at top, 13 inscribed), 2 blank shield outlines, and connecting descent and marriage lines, tracing the Earls of Oxford from Aubrey and Robert de Vere down to John de Vere and Maud Badlesmere.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0404.JP2/pct:23.03,15.73,60.22,76.59/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0404.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 398,
+    "canvas_num": 405,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c405_row1",
+    "label": "Armorial Shields Row 1 (3 emblazoned shields, 2 blank outlines)",
+    "desc": "Row 1 (L-R): Ashlackye (blank outline with 2 horizontal fess lines); Askham (blank outline with 2 horizontal fess lines); Asche (Argent a saltire Gules over a fess Azure/Purpure); Astwick (Sable a chevron engrailed Argent between 3 crosses crosslet Argent); Astone glost (Gules a lion rampant Or over a bend Argent).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0405.JP2/pct:7.80,8.48,77.00,12.31/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0405.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 398,
+    "canvas_num": 405,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c405_row2",
+    "label": "Armorial Shields Row 2 (3 emblazoned shields, 2 blank outlines)",
+    "desc": "Row 2 (L-R): Ashburnnam (blank outline); Aske (Or 3 bars Azure/Purpure); Astley (Purpure/Azure a cinquefoil Ermine); Asfield suff (blank outline); Astum: (Argent a chevron between 3 fleurs-de-lis Sable).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0405.JP2/pct:7.80,22.98,77.00,12.31/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0405.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 398,
+    "canvas_num": 405,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c405_row3",
+    "label": "Armorial Shields Row 3 (5 emblazoned shields)",
+    "desc": "Row 3 (L-R): Aslm: or: Asken (Or a chevron embattled Purpure between 3 roses Gules); Aske (Or 3 bars Azure/Purpure within a bordure engrailed); Ashtoun Astom (Or a chief Azure/Purpure charged with 3 lions passant Or); Ashton: chesh (Argent a mullet Sable); Aspall (Azure/Purpure 3 chevrons Or).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0405.JP2/pct:7.80,37.20,77.00,12.31/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0405.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 398,
+    "canvas_num": 405,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c405_row4",
+    "label": "Armorial Shields Row 4 (5 emblazoned shields)",
+    "desc": "Row 4 (L-R): Ashenden (Argent a lion rampant Gules); Aston: of aston: ches (Per chevron Sable and Argent); Ascue (Argent a fess between 3 asses' heads couped Sable); Askbye (Argent a chevron engrailed Azure/Purpure); Assent (Argent a chevron between 3 crescents Gules within a bordure engrailed Gules).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0405.JP2/pct:7.80,51.70,77.00,12.31/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0405.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 398,
+    "canvas_num": 405,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c405_row5",
+    "label": "Armorial Shields Row 5 (5 emblazoned shields)",
+    "desc": "Row 5 (L-R): Ashurste (Gules a cross engrailed Or); Aspilon: (Argent a chevron between 3 fleurs-de-lis/escallops Sable); Assheley: lan: ches: (Quarterly Argent and Gules, a bend Sable); Astrye (Barry of six Argent and Azure/Purpure, on a chief Gules 3 plates); Asshbye (Argent a lion rampant Sable).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0405.JP2/pct:7.80,65.92,77.00,12.31/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0405.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 398,
+    "canvas_num": 405,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c405_row6",
+    "label": "Armorial Shields Row 6 (5 emblazoned shields)",
+    "desc": "Row 6 (L-R): Astu: wilt Hampsh (Purpure a bend Argent charged with 3 escallops/roses?); Aske of Aughton in york. (Or 3 bars Azure/Purpure, an annulet Or in chief); Ascue of Colm: linc: (Sable a fess Argent between 3 asses passant Argent); Aslyn: (Argent a chevron Gules charged with 3 lozenges Argent); Asshe (Purpure 3 ducks/shovellers Argent).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0405.JP2/pct:7.80,80.14,77.00,11.21/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0405.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 399,
+    "canvas_num": 406,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c406_1",
+    "label": "Pedigree Diagram of De Vere, Earls of Oxford (Part 2)",
+    "desc": "Pen-and-ink roundel pedigree in 8 rows (30 inscribed roundels, 6 blank roundels), with marriage and descent lines in the lower right connecting John de Vere, Edward de Vere, Anne Cecil, Elizabeth de Vere, and William, Earl of Derby.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0406.JP2/pct:21.25,15.04,74.38,80.01/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0406.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 400,
+    "canvas_num": 407,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c407_row1",
+    "label": "Armorial Shields Row 1 (4 emblazoned shields, 1 tricked/sketched)",
+    "desc": "Row 1 (L-R): Aston Northampt (Sable a saltire Argent); Ashforde (uncoloured ink sketch of 3 chevrons); Atclyffe (Purpure 3 storks/herons Argent beaked and legged Gules); Atsee (Barry wavy of six Or and Gules, 3 pikes/fishes naiant); AtWater (Argent a bordure Vert, 2 lions rampant combatant).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0407.JP2/pct:7.79,8.48,76.95,12.31/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0407.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 400,
+    "canvas_num": 407,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c407_row2",
+    "label": "Armorial Shields Row 2 (5 emblazoned shields)",
+    "desc": "Row 2 (L-R): Attwood wig: (Gules a lion rampant Argent); Atlee (Purpure a lion rampant Argent); Atherton: chesh. (Gules 3 hawks/falcons Argent); Atwodd (Argent a talbot/greyhound rampant Sable within a bordure Sable bezanty/plated); Atley (Purpure a lion passant Argent).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0407.JP2/pct:7.79,22.98,76.95,12.31/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0407.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 400,
+    "canvas_num": 407,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c407_row3",
+    "label": "Armorial Shields Row 3 (4 emblazoned shields, 1 blank outline)",
+    "desc": "Row 3 (L-R): Atton: westmorl. (blank outline); Atborough lord Bourough (Sable 2 swords in saltire Argent hilted Or between 4 fleurs-de-lis Or); Atwell (Argent 3 leopards' faces Purpure); Atclyfe (Purpure 3 trefoils slipped Argent); Aueringes (Argent a cross Gules within a bordure Sable).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0407.JP2/pct:7.79,37.20,76.95,12.31/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0407.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 400,
+    "canvas_num": 407,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c407_row4",
+    "label": "Armorial Shields Row 4 (5 emblazoned shields)",
+    "desc": "Row 4 (L-R): Aubrey: (Argent a saltire Purpure between 4 wolves'/foxes' heads erased Gules); Aumarye (Barry nebuly/wavy of six Argent and Gules, a bend Sable); Auleby (Argent a chevron between 3 fleurs-de-lis Sable); Aungell (Or 4 fusils in fess Purpure, a bendlet Gules); Audley (Gules a fret Or within a bordure Argent charged with 8 martlets/ermine spots Sable).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0407.JP2/pct:7.79,51.70,76.95,12.31/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0407.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 400,
+    "canvas_num": 407,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c407_row5",
+    "label": "Armorial Shields Row 5 (4 emblazoned shields, 1 blank outline)",
+    "desc": "Row 5 (L-R): Austin: Northfolk (blank outline); Austen: (Argent a chevron between a fess? — actually a fess Sable charged with 3 crosses crosslet Argent between 2 chevrons Sable); Auenell (Argent a fess between 6 annulets Gules); Auncell (Ermine on a fess Gules 3 crosses crosslet Or); Auillers suff (Argent 3 escutcheons Gules).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0407.JP2/pct:7.79,65.92,76.95,12.31/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0407.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 400,
+    "canvas_num": 407,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c407_row6",
+    "label": "Armorial Shields Row 6 (5 emblazoned shields)",
+    "desc": "Row 6 (L-R): Aubemond (Argent a pile Purpure); Audeley of walden essex (Quarterly per pale indented Or and Purpure, on a bend Azure a fret between 2 eagles displayed Or); Award of gipswich (Argent on a saltire Purpure a lion's/leopard's face Or, between 4 wolves' heads erased Gules); Archer: kent (Ermine on a chief Azure/Purpure 3 lions rampant Or); Awdley of Essex (Argent on a fess Purpure 3 martlets Argent, between 3 hares courant Sable).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0407.JP2/pct:7.79,80.14,76.95,11.21/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0407.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 402,
+    "canvas_num": 409,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c409_row1",
+    "label": "Armorial Shields Row 1 (4 emblazoned shields, 1 blank outline)",
+    "desc": "Row 1 (L-R): Arden: ches: lan: (Gules, three cross-crosslets fitchée Or, a chief engrailed Or [tarnished]); Astley: (blank outline); Andbye (Gules, on a bend Or three martlets Sable); Aldrington / almington (Sable, three pairs of wings conjoined in lure Argent); Anstie: camb: (Or, a cross engrailed Gules between four martlets Gules).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0409.JP2/pct:7.40,7.66,76.38,12.31/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0409.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 402,
+    "canvas_num": 409,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c409_row2",
+    "label": "Armorial Shields Row 2 (1 emblazoned shield, 4 blank outlines)",
+    "desc": "Row 2 (L-R): Award of gipswich (blank outline); Aldwincle (blank outline); Austin norf: (blank outline); Acworth: suf: (Argent, a griffin segreant Sable armed and langued Gules); Aylmer (blank outline).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0409.JP2/pct:7.40,22.16,76.38,12.31/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0409.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 402,
+    "canvas_num": 409,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c409_row3",
+    "label": "Armorial Shields Row 3 (4 emblazoned shields, 1 blank outline)",
+    "desc": "Row 3 (L-R): Apulderfelde kent: (blank outline); Annesley (Paly of six Argent and Purpure, a bend Gules); Auenell (Argent, a fess between six annulets Gules); Andrewes (Argent, a chevron engrailed Gules between three birds Sable); Aubemarle: (Gules, a bend of five lozenges conjoined Ermine).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0409.JP2/pct:7.40,36.65,76.38,12.04/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0409.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 402,
+    "canvas_num": 409,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c409_row4",
+    "label": "Armorial Shields Row 4 (5 blank shield outlines)",
+    "desc": "Row 4 (L-R): Archas, Agmondesham, Aylewarde, Arnolde, Arderne (all five left as blank outlines).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0409.JP2/pct:7.40,50.88,76.38,12.04/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0409.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 402,
+    "canvas_num": 409,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c409_row5",
+    "label": "Armorial Shields Row 5 (5 blank shield outlines)",
+    "desc": "Row 5 (L-R): Five blank unlabelled shield outlines.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0409.JP2/pct:7.40,64.55,76.38,11.49/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0409.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 402,
+    "canvas_num": 409,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c409_row6",
+    "label": "Armorial Shields Row 6 (5 blank shield outlines)",
+    "desc": "Row 6 (L-R): Five blank unlabelled shield outlines.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0409.JP2/pct:7.40,77.41,76.38,11.21/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0409.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 403,
+    "canvas_num": 410,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c410_pedigree",
+    "label": "Percy Family Pedigree Diagram (Part 1)",
+    "desc": "Pen-and-ink genealogical chart of 10 linked marriage roundels and 6 impaled shields across 5 generations. Four shields are blank impaled outlines; the shield above Joscelin of Louvain & Agnes Percy shows a lion rampant in the dexter half, and the bottom shield below William Lord Percy & Isabel Bruce shows a lion rampant in the sinister half.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0410.JP2/pct:30.98,6.84,56.65,82.06/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0410.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 404,
+    "canvas_num": 411,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c411_grid",
+    "label": "Blank Ruled Pedigree Grid",
+    "desc": "Pen-and-ink ruled grid (7 vertical lines, 8 horizontal lines) prepared for a genealogical pedigree or armorial chart, left unentered.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0411.JP2/pct:6.82,2.74,84.76,92.31/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0411.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 405,
+    "canvas_num": 412,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c412_pedigree",
+    "label": "Percy Family Pedigree Diagram (Part 2)",
+    "desc": "Pen-and-ink genealogical chart of 16 linked roundels (13 inscribed, 3 blank) and 9 blank impaled shields across 5 generations, including a bishop's mitre drawn above the shield of Thomas Percy, Bishop of Norwich.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0412.JP2/pct:25.67,3.42,63.73,90.95/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0412.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 406,
+    "canvas_num": 413,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c413_row1",
+    "label": "Armorial Shields Row 1 (5 emblazoned shields)",
+    "desc": "Row 1 (L-R): Breton (Azure a bend Or between 6 mullets Or); Breton (Ermine a saltire Ermine fimbriated Sable); Bretton (Quarterly 1 & 4 Argent a lion passant Sable, 2 & 3 Sable a mullet Argent); Brayton (Argent a cross Gules fretty Or); Beaufice kent (Argent a fess Azure/Purpure between 3 lozenges of the same).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0413.JP2/pct:7.79,9.30,77.55,12.31/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0413.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 406,
+    "canvas_num": 413,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c413_row2",
+    "label": "Armorial Shields Row 2 (5 emblazoned shields)",
+    "desc": "Row 2 (L-R): Beaufice (Purpure 3 close helmets Argent); Bakewell (Argent on a chief Sable 3 boar's heads couped Or); Bolde (Argent 2 chevrons Gules and a canton Gules); Bolde (Argent a griffin segreant Sable); Bourne (Argent a chevron Gules between 3 lions rampant Sable).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0413.JP2/pct:7.79,23.52,77.55,12.31/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0413.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 406,
+    "canvas_num": 413,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c413_row3",
+    "label": "Armorial Shields Row 3 (5 emblazoned shields)",
+    "desc": "Row 3 (L-R): Ballard (Sable a griffin segreant Ermine/Argent); Burnham (Gules a chevron Sable between 3 lion's heads erased Argent); Bornham (Argent a maunch Vert); Barett (Per fess indented Argent and Gules, in chief 3 escallops Sable); Boore (Gules a boar passant Argent).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0413.JP2/pct:7.79,37.47,77.55,12.31/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0413.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 406,
+    "canvas_num": 413,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c413_row4",
+    "label": "Armorial Shields Row 4 (5 emblazoned shields)",
+    "desc": "Row 4 (L-R): Basym (Sable an inescutcheon Argent); Barlaugh (Sable a double-headed eagle displayed Argent perched on a trunk Or); Bekett (Argent a lion rampant Gules between 3 pheons Sable); Bulkeley (Sable a chevron between 3 bull's heads cabossed Argent); Botell (Gules a chevron between 3 combs Argent).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0413.JP2/pct:7.79,51.42,77.55,12.58/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0413.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 406,
+    "canvas_num": 413,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c413_row5",
+    "label": "Armorial Shields Row 5 (5 emblazoned shields)",
+    "desc": "Row 5 (L-R): Baronbye (Purpure a chevron between 3 boar's heads couped Argent); Botoll (Or an orle Azure/Purpure); Beltofte (Argent two chevronels interlaced in fess Purpure); Beuercott (Argent a cross patty Sable, a label of 3 points Gules); Brookeley (Lozengy Or and Gules, a chief Purpure).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0413.JP2/pct:7.79,65.65,77.55,12.31/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0413.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 406,
+    "canvas_num": 413,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c413_row6",
+    "label": "Armorial Shields Row 6 (5 emblazoned shields)",
+    "desc": "Row 6 (L-R): Betenham (Argent a saltire engrailed Purpure between 4 bear's heads erased Sable); Braus (Barry of 10 Or and Azure/Purpure); Barry (Purpure 2 lions passant guardant Or); Boshey (Ermine in chief 3 leopard's faces Or); Braunche (Ermine fretty Gules).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0413.JP2/pct:7.79,79.32,77.55,12.31/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0413.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 407,
+    "canvas_num": 414,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c414_pedigree",
+    "label": "Percy Family Genealogical Pedigree Diagram",
+    "desc": "Pen-and-ink genealogical tree with 21 roundels (one blank) and 6 blank impaled shield outlines, showing five generations of the Percy family (Earls of Northumberland, Lord Egremont, Earl of Atholl, Lord de la Warr, Sir William Gascoigne, Sir William Ryder, and Earls of Kent).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0414.JP2/pct:25.55,5.74,64.32,86.16/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0414.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 408,
+    "canvas_num": 415,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c415_row1",
+    "label": "Armorial Shields Row 1 (5 emblazoned shields)",
+    "desc": "Row 1 (L-R): Bassingborne of ye castell (Gyronny of 12 Vair and Gules); Babklake (Argent a chevron Purpure between 3 crosses crosslet fitchy Sable); Belgraue (Gules a chevron Ermine between 3 lozenges Ermine); Barton (Purpure a fess Or between 3 stag's heads cabossed Or); Burton (Barry of 12 Argent and Sable, a canton Argent).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0415.JP2/pct:7.86,9.30,78.25,12.31/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0415.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 408,
+    "canvas_num": 415,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c415_row2",
+    "label": "Armorial Shields Row 2 (4 emblazoned shields, 1 blank outline)",
+    "desc": "Row 2 (L-R): Barton (Ermine on a fess Gules 3 annulets Or); Blonte war (Chequy Argent and Gules, a fess Or between 3 birds Argent); Blount Essex (Quarterly Argent and Gules, a bend Sable charged with 3 eagles displayed Or); Bun Blunt (Purpure a saltire engrailed Or); Blounte salop (blank outline).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0415.JP2/pct:7.86,23.52,78.25,12.31/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0415.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 408,
+    "canvas_num": 415,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c415_row3",
+    "label": "Armorial Shields Row 3 (5 emblazoned shields)",
+    "desc": "Row 3 (L-R): Beneuyle Deuon (Argent 3 pellets Sable each charged with a bendlet Argent); Bekeley vide Cromer (Argent a chevron engrailed Sable between 3 Cornish choughs Sable); Bersanter (Argent 3 bear's heads erased Sable muzzled and collared Or); Brouninge (Barry wavy of 8 Argent and Purpure); Browme (Sable a bend Ermine, on a chief Argent 3 torteaux).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0415.JP2/pct:7.86,37.47,78.25,12.31/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0415.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 408,
+    "canvas_num": 415,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c415_row4",
+    "label": "Armorial Shields Row 4 (5 emblazoned shields)",
+    "desc": "Row 4 (L-R): Broune Lo Mount (Sable 3 lions passant in bend between 2 double cotises Argent, in sinister chief a wolf's head erased Argent, in dexter base a mullet Argent); Broome (Sable a chevron between 3 plates); Barney (Per pale Gules and Purpure a cross engrailed Ermine); Barnesse (Quarterly Or and Vert); Bell (Sable a chevron between 3 church bells Argent).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0415.JP2/pct:7.86,51.42,78.25,12.58/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0415.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 408,
+    "canvas_num": 415,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c415_row5",
+    "label": "Armorial Shields Row 5 (5 emblazoned shields)",
+    "desc": "Row 5 (L-R): Benyngham (Gules a millrind in bend between 2 martlets Argent); Bermyngham (Purpure a bend engrailed Argent, a label of 3 points Gules); Bellingham (Argent 3 bugle-horns Sable stringed Or); Beron (Argent 3 bendlets enhanced Gules); Bulmer lo of Branspath york (Gules billetty and a lion rampant Or).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0415.JP2/pct:7.86,65.65,78.25,12.31/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0415.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 408,
+    "canvas_num": 415,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c415_row6",
+    "label": "Armorial Shields Row 6 (4 emblazoned shields, 1 blank outline)",
+    "desc": "Row 6 (L-R): Bulmer bast (Gules a lion rampant per fess Or and Argent); Bollron (Argent a bend between 6 lozenges Sable); Boude Essex (Gules 3 chevronels Argent); Brandon D suffolk (Barry of 10 Argent and Gules, a lion rampant Or crowned per pale Argent and Gules); Benoit Roy d'armes (blank outline).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0415.JP2/pct:7.86,79.32,78.25,12.31/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0415.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 409,
+    "canvas_num": 416,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c416_pedigree",
+    "label": "Percy Family Genealogical Pedigree Diagram (Continued)",
+    "desc": "Pen-and-ink genealogical tree with 28 roundels (one blank) and 4 blank impaled shield outlines, continuing the Percy descent from Henry Percy, 6th Earl of Northumberland, Sir Thomas Percy, Sir Ingram Percy, Jocelyn Percy, and Anne Percy down to the 7th, 8th, and 9th Earls of Northumberland.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0416.JP2/pct:24.67,5.74,66.07,74.95/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0416.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 410,
+    "canvas_num": 417,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c417_row1",
+    "label": "Armorial Shields Row 1 (4 emblazoned shields, 1 blank outline)",
+    "desc": "Row 1 (L-R): Bacon Lo keper (Gules on a chief Argent 2 mullets Sable); Bacon (blank outline); Bringham (Argent a fleur-de-lis between 8 martlets in orle Sable); Brusier (Sable 3 goat's heads erased Argent horned Or); Bingham (Or on a fess Gules 3 water-bougets Argent).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0417.JP2/pct:7.86,9.30,78.25,12.31/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0417.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 410,
+    "canvas_num": 417,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c417_row2",
+    "label": "Armorial Shields Row 2 (5 emblazoned shields)",
+    "desc": "Row 2 (L-R): Byneley (Argent 2 bars and a canton Sable); Bentley (Argent on a bend Purpure 3 annulets Or); Bylnee norf (Argent a double-headed eagle displayed Vert beaked and legged Gules); Braylforde (Argent a cinquefoil pierced Sable); Birton (Paly of 6 Argent and Gules, on a bend Sable 3 water-bougets Argent).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0417.JP2/pct:7.86,23.52,78.25,12.31/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0417.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 410,
+    "canvas_num": 417,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c417_row3",
+    "label": "Armorial Shields Row 3 (5 emblazoned shields)",
+    "desc": "Row 3 (L-R): Bassett of weldon (Argent 3 piles meeting in base Gules, a bordure Purpure bezanty); Bassatt (Argent 3 piles meeting in base Gules, on a canton Argent a griffin segreant Sable); Bassett (Ermine a canton Gules); Beuchampe corn (Gules a fess Or); Beauchamppe Elmeley (Gules a fess between 6 crosses crosslet Or).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0417.JP2/pct:7.86,37.47,78.25,12.31/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0417.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 410,
+    "canvas_num": 417,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c417_row4",
+    "label": "Armorial Shields Row 4 (4 emblazoned shields, 1 sketched outline)",
+    "desc": "Row 4 (L-R): Beuchampe Powick (Gules a fess between 6 martlets Or); Beuchamp holte (blank outline with sketched fess); Beauchamp Bedf (Gules fretty Argent); Boyuyle suff (Quarterly Or and Sable, in 1st quarter a lion passant Gules); Badelsmyre kent (Argent a fess between 2 bars gemelles Gules).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0417.JP2/pct:7.86,51.42,78.25,12.58/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0417.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 410,
+    "canvas_num": 417,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c417_row5",
+    "label": "Armorial Shields Row 5 (4 emblazoned shields, 1 blank outline)",
+    "desc": "Row 5 (L-R): Bardolphe (blank outline); Brecknock (Barry of 6 Argent and Purpure, 9 martlets Gules); Brecknock (Argent a chevron between 3 lion's paws erased Sable); Bryan (Or 3 piles meeting in base Purpure); Briann (Argent 3 piles meeting in base Vert, a bordure Purpure bezanty).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0417.JP2/pct:7.86,65.65,78.25,12.31/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0417.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 410,
+    "canvas_num": 417,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c417_row6",
+    "label": "Armorial Shields Row 6 (5 emblazoned shields)",
+    "desc": "Row 6 (L-R): Bryam (Purpure on a chevron Or 3 crescents Gules, in chief a dolphin naiant Argent); Bottatrott (Or a saltire engrailed Sable); Buttetoure norf (Ermine a saltire engrailed Gules); Bosseuile Bossemble (Argent a fess indented Gules, in chief 3 mullets Sable); Boyuille (Bendy of 10 Argent and Sable).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0417.JP2/pct:7.86,79.32,78.25,12.31/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0417.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 412,
+    "canvas_num": 419,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c419_row1",
+    "label": "Armorial Shields Row 1 (5 emblazoned shields)",
+    "desc": "Row 1 (L-R): Boneuyle (Or, on a bend Sable 3 mullets pierced Argent); Boyuill (Or, a fess Gules between 3 saltires couped Sable); Budton (Barry of ten Argent and Sable, a canton Sable); Berdsey (Argent, 2 bars Gules, on a canton Gules a maunch Or); Bolinges (Sable, an inescutcheon within an orle of 10 martlets Argent).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0419.JP2/pct:8.26,6.15,78.65,14.09/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0419.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 412,
+    "canvas_num": 419,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c419_row2",
+    "label": "Armorial Shields Row 2 (5 emblazoned shields)",
+    "desc": "Row 2 (L-R): Bisett (Azure, 10 bezants 4, 3, 2, 1); Beringfielde (Ermine, an eagle displayed Gules); Baron (Ermine, 3 bendlets Gules, a label of 3 points Azure); Baron (Gules, a chevron Or between 3 garbs Or); Bodington (Per fess Argent and Sable, in chief a demi-lion rampant Gules between crosses crosslet fitchy Gules).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0419.JP2/pct:8.26,20.24,78.65,14.22/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0419.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 412,
+    "canvas_num": 419,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c419_row3",
+    "label": "Armorial Shields Row 3 (5 emblazoned shields)",
+    "desc": "Row 3 (L-R): Banett (Argent, a saltire Sable, in chief a Moor's head couped Sable); Burforde (Ermine, on a canton Gules a rose Argent); Birtram (Azure, an inescutcheon Or); Baunforde (Argent, a fess engrailed Gules); Boleyn (Argent, a chevron Gules between 3 bull's heads couped Sable).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0419.JP2/pct:8.26,34.46,78.65,14.09/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0419.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 412,
+    "canvas_num": 419,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c419_row4",
+    "label": "Armorial Shields Row 4 (5 emblazoned shields)",
+    "desc": "Row 4 (L-R): Bodilisgate (Gules, 2 lions passant guardant Or); Bollehouse (Argent, 3 lions rampant Gules); Boxteede (Quarterly Argent and Gules, a bend Sable charged with 8 bezants); Bande (Gules, 3 eagle's legs erased Or); Bomsteede (Azure, 2 chevronels Or).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0419.JP2/pct:8.26,48.55,78.65,14.09/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0419.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 412,
+    "canvas_num": 419,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c419_row5",
+    "label": "Armorial Shields Row 5 (5 emblazoned shields)",
+    "desc": "Row 5 (L-R): Baa (Gules, a chevron Argent between 3 plates); Botoll (Or, an orle Azure); Betoyne (Gules, a saltire Or between 4 fleurs-de-lis Or); Boothe (Argent, 3 horseshoes Sable between 5 crosses crosslet fitchy Sable); Biturley (Or, a fess Gules, in chief 2 roses Gules).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0419.JP2/pct:8.26,62.64,78.65,13.95/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0419.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 412,
+    "canvas_num": 419,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c419_row6",
+    "label": "Armorial Shields Row 6 (5 emblazoned shields)",
+    "desc": "Row 6 (L-R): Bullock (Gules, a chevron Argent between 3 bull's heads cabossed Argent); Beaufeu (Argent, on a chevron Sable 3 crosses patonce Or); Beaupeale (Gules, a bend vair cotised Argent); Bolney (Or, in chief 2 mullets and in base a crescent Gules); Buckmester (Argent semy of crosses crosslet Sable, a lion rampant Sable).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0419.JP2/pct:8.26,76.59,78.65,13.95/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0419.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 413,
+    "canvas_num": 420,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c420_pedigree",
+    "label": "Talbot & Montgomery/Belesme Genealogical Pedigree (9 roundels)",
+    "desc": "Pen-and-ink pedigree diagram of 9 double-outlined roundels across 5 tiers: Tier 1 (Phillipp Lord Talbot of Ecclesfield, Ordhill & Worksop); Tier 2 (Gilbert Lord Talbot + daughter of Granville); Tier 3 (Rogerus de Monte Gomerico, Comes Belysin, Earl of Salop & Arundel); Tier 4 (Gilbert Lord Talbot + Maude daughter & heir of Roger Montgomery, and her brother Robert Estotevyle de Belasmo); Tier 5 (Richard Lord Talbot + daughter of Vallers).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0420.JP2/pct:48.45,13.68,36.12,71.80/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0420.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 414,
+    "canvas_num": 421,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c421_row1",
+    "label": "Armorial Shields Row 1 (5 emblazoned shields)",
+    "desc": "Row 1 (L-R): Blice (Argent, on a bend Azure 3 garbs Or); Blossum (Argent, 3 wyverns passant in pale, uncoloured ink outline); Blanson (Per saltire Gules and Azure, in chief 2 annulets and in base 1 annulet Or); Botbarn (Or, a lion rampant Gules); Brooke Lo Cobham (Gules, on a chevron Or 3 lions rampant Sable).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0421.JP2/pct:7.87,6.15,79.06,14.09/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0421.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 414,
+    "canvas_num": 421,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c421_row2",
+    "label": "Armorial Shields Row 2 (5 emblazoned shields)",
+    "desc": "Row 2 (L-R): Bridgford (Argent, 4 bars Gules); Bradle (Or, a fess Gules between 3 round buckles Argent); Bayliffe (Argent, a chevron Gules between 3 hearts Gules); Bradston (Argent, 5 fusils conjoined in fess Gules); Broune (Argent, a chevron Sable between 3 roses Gules).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0421.JP2/pct:7.87,20.24,79.06,14.22/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0421.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 414,
+    "canvas_num": 421,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c421_row3",
+    "label": "Armorial Shields Row 3 (5 emblazoned shields)",
+    "desc": "Row 3 (L-R): Baacon (Argent, a fess engrailed Gules between 3 escutcheons Gules); Borlas Buck (Argent, on a bend Sable 2 arms issuant from clouds rending a horseshoe); Basset (Argent, 2 bars Azure, in chief 3 chaplets Gules); Bryseley (Or, a fess nebuly Sable between 3 birds Gules); Basqueer (Or, a lion rampant Azure, on a chief Gules 3 mullets Argent).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0421.JP2/pct:7.87,34.46,79.06,14.09/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0421.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 414,
+    "canvas_num": 421,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c421_row4",
+    "label": "Armorial Shields Row 4 (4 emblazoned shields, 1 blank cell)",
+    "desc": "Row 4 (L-R): Butterells (blank cell); Briamson (Gyronny of eight Argent and Azure); Bereringes (Chequy Argent and Gules, a bend Azure); Brun (Azure, a lion rampant Argent gutté de sang); Bolmar (Argent, a lion rampant Gules between 8 billets Gules).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0421.JP2/pct:7.87,48.55,79.06,14.09/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0421.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 414,
+    "canvas_num": 421,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c421_row5",
+    "label": "Armorial Shields Row 5 (4 emblazoned shields, 1 blank cell)",
+    "desc": "Row 5 (L-R): Barlingham (blank cell); Booke: uauasor idem (Argent, a fess dancetty Sable); Bedforde (Quarterly Argent and Gules, a bend Gules); Boteler (Argent, 3 bendlets Gules); Baynard norf (Sable, a fess between 2 chevrons Or).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0421.JP2/pct:7.87,62.64,79.06,13.95/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0421.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 414,
+    "canvas_num": 421,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c421_row6",
+    "label": "Armorial Shields Row 6 (5 emblazoned shields)",
+    "desc": "Row 6 (L-R): Boxe Sussex Suthrey (Argent, a bend Gules); Broon norf (Argent, a chief indented Gules); Breton (Argent, an escutcheon quarterly Or and Gules); Bosynggroppe lin (Argent, a chevron Gules, a chief indented Sable); Bekenourde kent (Gules, a lion rampant Azure).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0421.JP2/pct:7.87,76.59,79.06,13.95/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0421.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 415,
+    "canvas_num": 422,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c422_pedigree",
+    "label": "Talbot Genealogical Pedigree Continued (10 roundels in 5 pairs)",
+    "desc": "Pen-and-ink pedigree diagram of 10 single-outlined roundels in 5 horizontal pairs: Pair 1 (John Lord Talbot of Normandy + Maud, daughter & heir of Richard Lord Talbot of England); Pair 2 (Fulk Lord Talbot + daughter of Clermont); Pair 3 (John Lord Talbot + daughter of Dammartin); Pair 4 (John Lord Talbot + daughter of Hongiste); Pair 5 (John Lord Talbot + daughter of Viscount Touners).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0422.JP2/pct:48.46,8.21,24.67,73.17/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0422.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 416,
+    "canvas_num": 423,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c423_row1",
+    "label": "Armorial Shields Row 1 (5 emblazoned shields)",
+    "desc": "Row 1 (L-R): Barrington (Argent, a lion rampant Sable, armed and langued Gules, a mullet Or on the shoulder); Bordet Leiceter (Azure, two bars Or); Burdet Leicester (Azure, two bars Or); Bredde Leycester (Gules, a fess dancetty Or between 14 bezants, 9 in chief and 5 in base); Bernak Leicester (Argent, a fess between three barnacles Sable).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0423.JP2/pct:7.47,6.84,80.02,13.40/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0423.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 416,
+    "canvas_num": 423,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c423_row2",
+    "label": "Armorial Shields Row 2 (5 emblazoned shields)",
+    "desc": "Row 2 (L-R): Braddeen notham[pton] Rut[land] (Sable, a bend engrailed Argent); Botemleyn idem (Argent, three crescents Gules); Backpuce (Gules, two bars Argent, in chief three horseshoes Or); Borhunt wilt[shire] hamp[shire] (Argent, a fess between six martlets Gules, 3 and 3); Bridmaston dorcet sumerset (Argent, seven lozenges Sable, 3, 3, 1).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0423.JP2/pct:7.47,20.79,80.02,13.13/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0423.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 416,
+    "canvas_num": 423,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c423_row3",
+    "label": "Armorial Shields Row 3 (5 emblazoned shields)",
+    "desc": "Row 3 (L-R): Boterells Cornwall devon (Checky Or and Gules, a chevron Azure/Purpure charged with three horseshoes Argent); Bloren Cornwall devon (Argent, a saltire engrailed Sable); Borden (Gules, three daggers/bodkins in fess points downwards Argent); Briorshall Lincoln (Argent, three bars gemelles Azure, in chief three mullets Gules); Beyounsee Lincoln (Gules, two bars Argent, in chief three escallops Argent).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0423.JP2/pct:7.47,34.46,80.02,13.13/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0423.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 416,
+    "canvas_num": 423,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c423_row4",
+    "label": "Armorial Shields Row 4 (5 emblazoned shields)",
+    "desc": "Row 4 (L-R): Bisshopton war[wick] (Bendy of six Or and Azure/Purpure, a canton Ermine); Bassett Gloster (Argent, a chief indented Gules charged with three escallops Argent); Basset idem (Argent, a chief indented Gules charged with three martlets Argent); Breuse idem (Or, semy of cross-crosslets, a lion rampant Sable langued Gules); Bliett (Or, a chevron Vert between three eagles displayed Vert).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0423.JP2/pct:7.47,48.14,80.02,13.13/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0423.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 416,
+    "canvas_num": 423,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c423_row5",
+    "label": "Armorial Shields Row 5 (2 emblazoned shields, 3 blank)",
+    "desc": "Row 5 (L-R): Backerolls (blank); Bannebury oxon (Argent, a cross moline Gules between four torteaux); Bemeys hunt[ingdon] (blank); Botiler sallop (Gules, a fess checky Argent and Sable, in chief three mullets Argent); Botiler of wem in shrop[shire] (blank).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0423.JP2/pct:7.47,61.82,80.02,13.13/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0423.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 416,
+    "canvas_num": 423,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c423_row6",
+    "label": "Armorial Shields Row 6 (2 emblazoned shields, 3 blank)",
+    "desc": "Row 6 (L-R): Berondon staf[ford] (blank); Bouth chesh[ire] Lanch[ashire] (blank); Broune (blank); Berkweeke (Argent, a fess checky Argent and Sable between two lions' heads erased in chief and a boar's head couped in base Gules); Barle (Barry wavy of six Argent and Sable, a chief Gules and a canton Ermine).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0423.JP2/pct:7.47,75.49,80.02,13.13/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0423.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 417,
+    "canvas_num": 424,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c424_pedigree",
+    "label": "Talbot Pedigree Roundels (10 roundels in 5 pairs)",
+    "desc": "Vertical genealogical chart of five generations of the Talbot family, each generation represented by a pair of ink-drawn circular roundels (husband on left, wife on right).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0424.JP2/pct:48.45,8.21,25.55,80.01/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0424.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 418,
+    "canvas_num": 425,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c425_row1",
+    "label": "Armorial Shields Row 1 (1 inked lion, 4 pencil sketches)",
+    "desc": "Row 1 (L-R): Bellingham (faint pencil sketch of a bugle horn); Bruis of skelton york (faint pencil sketch of a lion rampant); Bruis of auanderdal york (faint pencil horizontal lines); Bulmer of shrefehutton ebor (brown ink outline of a lion rampant); Bruer of the new forrest (faint pencil sketch of two bends wavy).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0425.JP2/pct:7.48,6.84,80.13,13.40/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0425.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 418,
+    "canvas_num": 425,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c425_row2",
+    "label": "Armorial Shields Row 2 (2 faint pencil sketches, 3 blank)",
+    "desc": "Row 2 (L-R): Banke (blank); Borough alias Richmond york (blank); Brook Lorde willoughbye (blank); Barkeley (faint pencil chevron); Broune essex (faint pencil chevron).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0425.JP2/pct:7.48,20.79,80.13,13.13/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0425.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 419,
+    "canvas_num": 426,
+    "orig_page": "Unnumbered",
+    "fig_id": "fig_c426_pedigree",
+    "label": "Talbot Pedigree Roundels (17 roundels in 6 tiers)",
+    "desc": "Six-tier genealogical chart of the Talbot family (Earls of Shrewsbury and Viscounts Lisle), with 15 inscribed ink-drawn circular roundels, 2 blank roundels at lower left, and faint pencil descent lines.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0426.JP2/pct:31.36,8.21,62.37,73.85/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0426.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 421,
+    "canvas_num": 428,
+    "orig_page": "Unnumbered (Pedigree)",
+    "fig_id": "fig_c428_1",
+    "label": "Talbot Genealogical Pedigree Diagram",
+    "desc": "Full-page pen-and-ink genealogical tree of 36 circular roundels (31 inscribed, 5 left blank) tracing the descendants of John Talbot, Earl of Shrewsbury, through the Earls of Shrewsbury (left) and the Talbots of Grafton and Albrighton down to 1601 (right).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0428.JP2/pct:23.87,5.74,70.19,85.07/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0428.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 422,
+    "canvas_num": 429,
+    "orig_page": "Unnumbered (Armorial B)",
+    "fig_id": "fig_c429_1",
+    "label": "Arms of Bracy",
+    "desc": "Painted coat of arms in Row 3, Col 4: quarterly per fess indented argent and sable, in the first quarter a martlet argent.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0429.JP2/pct:54.51,35.28,13.97,11.90/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0429.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 422,
+    "canvas_num": 429,
+    "orig_page": "Unnumbered (Armorial B)",
+    "fig_id": "fig_c429_2",
+    "label": "Arms of Bekeringe",
+    "desc": "Painted coat of arms in Row 4, Col 1: argent, a bend gules (faded pink/red).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0429.JP2/pct:9.84,48.28,13.38,12.17/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0429.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 422,
+    "canvas_num": 429,
+    "orig_page": "Unnumbered (Armorial B)",
+    "fig_id": "fig_c429_3",
+    "label": "Arms of Bamnue",
+    "desc": "Painted coat of arms in Row 4, Col 2: argent, on a chief indented sable two cranes/storks argent.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0429.JP2/pct:24.01,48.28,14.36,7.80/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0429.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 422,
+    "canvas_num": 429,
+    "orig_page": "Unnumbered (Armorial B)",
+    "fig_id": "fig_c429_4",
+    "label": "Arms of Burgoyne",
+    "desc": "Painted coat of arms in Row 4, Col 3: gules (faded pink/red), a talbot passant argent.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0429.JP2/pct:39.55,48.55,13.58,11.90/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0429.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 422,
+    "canvas_num": 429,
+    "orig_page": "Unnumbered (Armorial B)",
+    "fig_id": "fig_c429_5",
+    "label": "Arms of Banke",
+    "desc": "Painted coat of arms in Row 4, Col 4: sable, a cross argent.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0429.JP2/pct:54.70,48.55,13.77,11.90/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0429.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 422,
+    "canvas_num": 429,
+    "orig_page": "Unnumbered (Armorial B)",
+    "fig_id": "fig_c429_6",
+    "label": "Arms of Bourgilam",
+    "desc": "Painted coat of arms in Row 5, Col 3: argent, a bend sable.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0429.JP2/pct:39.94,62.09,13.58,12.17/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0429.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 422,
+    "canvas_num": 429,
+    "orig_page": "Unnumbered (Armorial B)",
+    "fig_id": "fig_c429_7",
+    "label": "Arms of Belsted",
+    "desc": "Painted coat of arms in Row 5, Col 4: argent, three bars sable.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0429.JP2/pct:54.70,62.09,14.17,12.17/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0429.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 422,
+    "canvas_num": 429,
+    "orig_page": "Unnumbered (Armorial B)",
+    "fig_id": "fig_c429_8",
+    "label": "Arms of Blakenham",
+    "desc": "Painted coat of arms in Row 5, Col 5: argent, three bars gules (faded pink/red).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0429.JP2/pct:69.85,62.09,14.36,12.17/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0429.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 422,
+    "canvas_num": 429,
+    "orig_page": "Unnumbered (Armorial B)",
+    "fig_id": "fig_c429_9",
+    "label": "Sketch of Arms of Bemclere",
+    "desc": "Faint pencil/ink sketch of a lion or talbot in Row 6, Col 1.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0429.JP2/pct:9.84,76.04,12.79,10.80/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0429.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 422,
+    "canvas_num": 429,
+    "orig_page": "Unnumbered (Armorial B)",
+    "fig_id": "fig_c429_10",
+    "label": "Arms of Borgat",
+    "desc": "Painted coat of arms in Row 6, Col 2: argent, three pallets sable.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0429.JP2/pct:24.40,75.63,13.97,12.31/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0429.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 422,
+    "canvas_num": 429,
+    "orig_page": "Unnumbered (Armorial B)",
+    "fig_id": "fig_c429_11",
+    "label": "Arms of Barkesworth",
+    "desc": "Painted coat of arms in Row 6, Col 4: argent, a bend gules (faded pink/red).",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0429.JP2/pct:55.10,75.63,14.17,12.31/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0429.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 429,
+    "canvas_num": 436,
+    "orig_page": "Binding: Back Cover",
+    "fig_id": "fig_c436_1",
+    "label": "Back Cover Binding (Blind-Tooled Leather & Brass Bosses)",
+    "desc": "Dark brown blind-tooled calfskin over boards, featuring concentric panel tooling, four brass corner bosses, and a central diamond/lozenge brass boss.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0436.JP2/pct:4.51,3.01,91.12,94.23/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0436.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 430,
+    "canvas_num": 437,
+    "orig_page": "Binding: Spine",
+    "fig_id": "fig_c437_1",
+    "label": "Binding Spine",
+    "desc": "Reddish-brown leather spine with five raised bands and six plain compartments.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0437.JP2/pct:25.88,2.05,49.17,94.78/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0437.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 431,
+    "canvas_num": 438,
+    "orig_page": "Binding: Fore-edge",
+    "fig_id": "fig_c438_1",
+    "label": "Book-Block Fore-Edge",
+    "desc": "Fore-edge of the manuscript paper leaves between the front and back boards with brass corner fittings.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0438.JP2/pct:19.67,2.05,62.11,94.78/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0438.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 432,
+    "canvas_num": 439,
+    "orig_page": "Binding: Book-Block Edge (1)",
+    "fig_id": "fig_c439_1",
+    "label": "Book-Block Head Edge",
+    "desc": "Horizontal photograph of the book-block head edge showing the leather spine, brass corner-pieces and bosses, and the wavy paper edges of the text block.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0439.JP2/pct:4.90,11.36,90.14,78.23/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0439.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 433,
+    "canvas_num": 440,
+    "orig_page": "Binding: Book-Block Edge (2)",
+    "fig_id": "fig_c440_1",
+    "label": "Book-Block Tail Edge",
+    "desc": "Horizontal photograph of the book-block tail edge showing the leather spine, brass corner-pieces and bosses, and the wavy paper edges of the text block.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0440.JP2/pct:4.90,11.36,90.14,78.23/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0440.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 434,
+    "canvas_num": 441,
+    "orig_page": "Reference: Front Cover with Colour Checker",
+    "fig_id": "fig_c441_1",
+    "label": "Front Cover with Colour Checker & Scale",
+    "desc": "Front cover of the binding overlaid with 'The Wellcome Library' 25 cm / 10 inch scale bar and 'xrite colorchecker CLASSIC' 24-patch colour target.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0441.JP2/pct:3.92,2.46,92.10,95.73/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0441.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 435,
+    "canvas_num": 442,
+    "orig_page": "Reference: Page 7 with Colour Checker",
+    "fig_id": "fig_c442_1",
+    "label": "Page 7 ('Pultesses') with Colour Checker & Scale",
+    "desc": "Reference shot of manuscript page 7 ('Pultesses') with 'The Wellcome Library' 25 cm / 10 inch scale bar and 'xrite colorchecker CLASSIC' target placed over the left and lower-centre area.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0442.JP2/pct:13.72,38.29,33.31,59.49/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0442.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 436,
+    "canvas_num": 443,
+    "orig_page": "Reference: Front Cover",
+    "fig_id": "fig_c443_1",
+    "label": "Front Cover (Full View)",
+    "desc": "Blind-tooled dark brown calf front cover with five raised bands on the spine at left, four brass corner-pieces with bosses, and a central diamond-shaped brass boss.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0443.JP2/pct:4.70,2.46,90.93,95.19/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0443.JP2/full/1400,/0/default.jpg"
+  },
+  {
+    "pIdx": 437,
+    "canvas_num": 444,
+    "orig_page": "Reference: Back Cover",
+    "fig_id": "fig_c444_1",
+    "label": "Back Cover (Full View)",
+    "desc": "Blind-tooled dark brown calf back cover with five raised bands on the spine at right, four brass corner-pieces with bosses, and a central diamond-shaped brass boss.",
+    "iiif_crop": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0444.JP2/pct:4.70,2.46,90.93,95.19/800,/0/default.jpg",
+    "iiif_full": "https://iiif.wellcomecollection.org/image/b19608652_MS_244_0444.JP2/full/1400,/0/default.jpg"
+  }
+]
